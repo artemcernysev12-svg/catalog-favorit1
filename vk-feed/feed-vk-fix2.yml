@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-15 10:56">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">ТВ-тумбы</category>
+    </categories>
+    <offers>
+    <offer id="7355518951" available="true">
+      <url>https://мебель-фаворит.рф/tv-tumby/tumba-tv-siti-7355518951/</url>
+      <price>6900</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Tumby%20pod%20televizor/Mif/Siti/7355518951/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Tumby%20pod%20televizor/Mif/Siti/7355518951/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Tumby%20pod%20televizor/Mif/Siti/7355518951/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Tumby%20pod%20televizor/Mif/Siti/7355518951/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Tumby%20pod%20televizor/Mif/Siti/7355518951/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7355518951</vendorCode>
+      <name>Тумба ТВ Сити (Миф)</name>
+      <description>Тумба ТВ Сити. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 200×34×33 см
+• Цвет: Дуб крафт белый
+• Материал: ЛДСП
+• Тип расположения: Универсальная
+• Ниша: Да
+• Распашные дверцы: 3
+
+Тумба под телевизор шириной 200 см. Внутри открытая ниша под приставку или саундбар, 3 дверцы — провода и мелочи убираются с глаз. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>200/33/34</dimensions>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
