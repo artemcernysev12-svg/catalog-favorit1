@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-18 16:46">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Комоды и Тумбы </category>
+    </categories>
+    <offers>
+    <offer id="7995661085" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-briz-4-yaschika-7995661085/</url>
+      <price>11048</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Briz/4%20yaschika/7995661085/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Briz/4%20yaschika/7995661085/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995661085</vendorCode>
+      <name>Комод Бриз 4 ящика (Велес)</name>
+      <description>Комод Бриз 4 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×46×94 см
+• Цвет: Дасти грин/Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП. В серии «Бриз» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Бриз Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/94/46</dimensions>
+    </offer>
+    <offer id="7995777537" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-briz-3-dveri-7995777537/</url>
+      <price>13742</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Briz/3%20dveri/7995777537/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Briz/3%20dveri/7995777537/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995777537</vendorCode>
+      <name>Комод Бриз 3 двери (Велес)</name>
+      <description>Комод Бриз 3 двери. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 150×46×100 см
+• Цвет: Дасти грин/Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Полки
+• Двери: 3
+
+Комод шириной 150 см. Есть полки. Материал — ЛДСП. В серии «Бриз» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Бриз Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>150/100/46</dimensions>
+    </offer>
+    <offer id="7995324730" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-byanko-4-yaschika-7995324730/</url>
+      <price>7306</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/4%20yaschika/7995324730/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/4%20yaschika/7995324730/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/4%20yaschika/7995324730/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/4%20yaschika/7995324730/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/4%20yaschika/7995324730/05.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995324730</vendorCode>
+      <name>Комод Бьянко 4 ящика (Велес)</name>
+      <description>Комод Бьянко 4 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×41×100 см
+• Цвет: Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП. В серии «Бьянко» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Бьянко Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/100/41</dimensions>
+    </offer>
+    <offer id="7995789538" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-byanko-6-yaschikov-7995789538/</url>
+      <price>9210</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/6%20yaschikov/7995789538/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/6%20yaschikov/7995789538/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/6%20yaschikov/7995789538/03.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995789538</vendorCode>
+      <name>Комод Бьянко 6 ящиков (Велес)</name>
+      <description>Комод Бьянко 6 ящиков. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×41×77 см
+• Цвет: Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 6
+
+Комод шириной 120 см. Есть ящики. Материал — ЛДСП. В серии «Бьянко» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Бьянко Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/77/41</dimensions>
+    </offer>
+    <offer id="7995039626" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-byanko-6-yaschikov-7995039626/</url>
+      <price>10242</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/6%20yaschikov/7995039626/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/6%20yaschikov/7995039626/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/6%20yaschikov/7995039626/03.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995039626</vendorCode>
+      <name>Комод Бьянко 6 ящиков (Велес)</name>
+      <description>Комод Бьянко 6 ящиков. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 140×41×77 см
+• Цвет: Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 6
+
+Комод шириной 140 см. Есть ящики. Материал — ЛДСП. В серии «Бьянко» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Бьянко Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>140/77/41</dimensions>
+      <count>2</count>
+    </offer>
+    <offer id="7995893786" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-byanko-2-dveri-3-yaschika-7995893786/</url>
+      <price>8210</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/2%20dveri%203%20yaschika/7995893786/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/2%20dveri%203%20yaschika/7995893786/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/2%20dveri%203%20yaschika/7995893786/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/2%20dveri%203%20yaschika/7995893786/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/2%20dveri%203%20yaschika/7995893786/05.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995893786</vendorCode>
+      <name>Комод Бьянко 2 двери 3 ящика (Велес)</name>
+      <description>Комод Бьянко 2 двери 3 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×41×77 см
+• Цвет: Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 3
+
+Комод шириной 120 см. Есть ящики, полки. Материал — ЛДСП. В серии «Бьянко» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Бьянко Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/77/41</dimensions>
+    </offer>
+    <offer id="7995408520" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-byanko-6-yaschikov-7995408520/</url>
+      <price>9210</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/6%20yaschikov/7995408520/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/6%20yaschikov/7995408520/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995408520</vendorCode>
+      <name>Комод Бьянко 6 ящиков (Велес)</name>
+      <description>Комод Бьянко 6 ящиков. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×41×77 см
+• Цвет: Гаскон пайн/Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 6
+
+Комод шириной 120 см. Есть ящики. Материал — ЛДСП. В серии «Бьянко» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Бьянко Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/77/41</dimensions>
+    </offer>
+    <offer id="7995089220" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-byanko-6-yaschikov-7995089220/</url>
+      <price>10242</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/6%20yaschikov/7995089220/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/6%20yaschikov/7995089220/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995089220</vendorCode>
+      <name>Комод Бьянко 6 ящиков (Велес)</name>
+      <description>Комод Бьянко 6 ящиков. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 140×41×77 см
+• Цвет: Гаскон пайн/Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 6
+
+Комод шириной 140 см. Есть ящики. Материал — ЛДСП. В серии «Бьянко» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Бьянко Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>140/77/41</dimensions>
+      <count>8</count>
+    </offer>
+    <offer id="7995453754" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-byanko-2-dveri-3-yaschika-7995453754/</url>
+      <price>8210</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/2%20dveri%203%20yaschika/7995453754/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Byanko/2%20dveri%203%20yaschika/7995453754/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995453754</vendorCode>
+      <name>Комод Бьянко 2 двери 3 ящика (Велес)</name>
+      <description>Комод Бьянко 2 двери 3 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×41×77 см
+• Цвет: Гаскон пайн/Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 3
+
+Комод шириной 120 см. Есть ящики, полки. Материал — ЛДСП. В серии «Бьянко» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Бьянко Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/77/41</dimensions>
+      <count>1</count>
+    </offer>
+    <offer id="7995463905" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-4-yaschika-7995463905/</url>
+      <price>6710</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/4%20yaschika/7995463905/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/4%20yaschika/7995463905/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995463905</vendorCode>
+      <name>Комод 4 ящика (Велес)</name>
+      <description>Комод 4 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×41×87 см
+• Цвет: Тефия
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/87/41</dimensions>
+    </offer>
+    <offer id="7995112111" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-vita-4-yaschika-7995112111/</url>
+      <price>11516</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Vita/4%20yaschika/7995112111/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Vita/4%20yaschika/7995112111/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995112111</vendorCode>
+      <name>Комод Вита 4 ящика (Велес)</name>
+      <description>Комод Вита 4 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×46×93 см
+• Цвет: Белый лофт/Софт айс
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП и МДФ. В серии «Вита» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Вита Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/93/46</dimensions>
+      <count>10</count>
+    </offer>
+    <offer id="7995841059" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-vita-2-dveri-4-yaschika-7995841059/</url>
+      <price>18048</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Vita/2%20dveri%204%20yaschika/7995841059/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Vita/2%20dveri%204%20yaschika/7995841059/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995841059</vendorCode>
+      <name>Комод Вита 2 двери 4 ящика (Велес)</name>
+      <description>Комод Вита 2 двери 4 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 140×46×93 см
+• Цвет: Белый лофт/Софт айс
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 4
+
+Комод шириной 140 см. Есть ящики, полки. Материал — ЛДСП и МДФ. В серии «Вита» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Вита Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>140/93/46</dimensions>
+    </offer>
+    <offer id="7995237291" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-vita-4-yaschika-7995237291/</url>
+      <price>11516</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Vita/4%20yaschika/7995237291/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Vita/4%20yaschika/7995237291/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995237291</vendorCode>
+      <name>Комод Вита 4 ящика (Велес)</name>
+      <description>Комод Вита 4 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×46×93 см
+• Цвет: Тёмно-серый лофт/Силк маус серый
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП и МДФ. В серии «Вита» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Вита Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/93/46</dimensions>
+      <count>10</count>
+    </offer>
+    <offer id="7995834881" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-vita-2-dveri-4-yaschika-7995834881/</url>
+      <price>18048</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Vita/2%20dveri%204%20yaschika/7995834881/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Vita/2%20dveri%204%20yaschika/7995834881/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995834881</vendorCode>
+      <name>Комод Вита 2 двери 4 ящика (Велес)</name>
+      <description>Комод Вита 2 двери 4 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 140×46×93 см
+• Цвет: Тёмно-серый лофт/Силк маус серый
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 4
+
+Комод шириной 140 см. Есть ящики, полки. Материал — ЛДСП и МДФ. В серии «Вита» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Вита Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>140/93/46</dimensions>
+      <count>4</count>
+    </offer>
+    <offer id="7994966202" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-eva-2-dveri-4-yaschika-7994966202/</url>
+      <price>16048</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Eva/2%20dveri%204%20yaschika/7994966202/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Eva/2%20dveri%204%20yaschika/7994966202/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Eva/2%20dveri%204%20yaschika/7994966202/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Eva/2%20dveri%204%20yaschika/7994966202/04.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7994966202</vendorCode>
+      <name>Комод Ева 2 двери 4 ящика (Велес)</name>
+      <description>Комод Ева 2 двери 4 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 140×46×92 см
+• Цвет: Тира/Кадена вуд/Палм грин
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 4
+
+Комод шириной 140 см. Есть ящики, полки. Материал — ЛДСП и МДФ. В серии «Ева» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Ева Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>140/92/46</dimensions>
+      <count>7</count>
+    </offer>
+    <offer id="7995165869" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-eva-4-yaschika-7995165869/</url>
+      <price>10645</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Eva/4%20yaschika/7995165869/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Eva/4%20yaschika/7995165869/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995165869</vendorCode>
+      <name>Комод Ева 4 ящика (Велес)</name>
+      <description>Комод Ева 4 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×46×92 см
+• Цвет: Тира/Кадена вуд
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП. В серии «Ева» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Ева Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/92/46</dimensions>
+      <count>1</count>
+    </offer>
+    <offer id="7995358034" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-loren-4-yaschika-7995358034/</url>
+      <price>11855</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Loren/4%20yaschika/7995358034/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Loren/4%20yaschika/7995358034/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995358034</vendorCode>
+      <name>Комод Лорэн 4 ящика (Велес)</name>
+      <description>Комод Лорэн 4 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×46×92 см
+• Цвет: Тефия/Софт айс
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП и МДФ. В серии «Лорэн» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Лорэн Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/92/46</dimensions>
+      <count>6</count>
+    </offer>
+    <offer id="7995800104" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-loren-3-dveri-2-yaschika-7995800104/</url>
+      <price>19081</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Loren/3%20dveri%202%20yaschika/7995800104/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Loren/3%20dveri%202%20yaschika/7995800104/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995800104</vendorCode>
+      <name>Комод Лорэн 3 двери 2 ящика (Велес)</name>
+      <description>Комод Лорэн 3 двери 2 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 135×46×105 см
+• Цвет: Тефия/Софт айс
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики, Полки
+• Двери: 3
+• Ящики: 2
+
+Комод шириной 135 см. Есть ящики, полки. Материал — ЛДСП и МДФ. В серии «Лорэн» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Лорэн Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>135/105/46</dimensions>
+      <count>1</count>
+    </offer>
+    <offer id="7995388286" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-loren-1-dver-4-yaschika-7995388286/</url>
+      <price>16048</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Loren/1%20dver%204%20yaschika/7995388286/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Loren/1%20dver%204%20yaschika/7995388286/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995388286</vendorCode>
+      <name>Комод Лорэн 1 дверь 4 ящика (Велес)</name>
+      <description>Комод Лорэн 1 дверь 4 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 110×46×92 см
+• Цвет: Тефия/Софт айс
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики, Полки
+• Двери: 1
+• Ящики: 4
+
+Комод шириной 110 см. Есть ящики, полки. Материал — ЛДСП и МДФ. В серии «Лорэн» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Лорэн Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>110/92/46</dimensions>
+    </offer>
+    <offer id="7995572288" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-milana-4-yaschika-7995572288/</url>
+      <price>7806</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milana/4%20yaschika/7995572288/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milana/4%20yaschika/7995572288/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995572288</vendorCode>
+      <name>Комод Милана 4 ящика (Велес)</name>
+      <description>Комод Милана 4 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 94×46×94 см
+• Цвет: Гаскон пайн/Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 94 см. Есть ящики. Материал — ЛДСП. В серии «Милана» есть ещё кровати, спальные гарнитуры, прикроватные тумбы, шкафы, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Милана Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>94/94/46</dimensions>
+    </offer>
+    <offer id="7995566803" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-milana-5-yaschikov-7995566803/</url>
+      <price>7710</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milana/5%20yaschikov/7995566803/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milana/5%20yaschikov/7995566803/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995566803</vendorCode>
+      <name>Комод Милана 5 ящиков (Велес)</name>
+      <description>Комод Милана 5 ящиков. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 60×46×115 см
+• Цвет: Гаскон пайн/Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 5
+
+Комод шириной 60 см. Есть ящики. Материал — ЛДСП. В серии «Милана» есть ещё кровати, спальные гарнитуры, прикроватные тумбы, шкафы, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Милана Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>60/115/46</dimensions>
+    </offer>
+    <offer id="7995436703" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-milana-2-dveri-3-yaschika-7995436703/</url>
+      <price>10532</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milana/2%20dveri%203%20yaschika/7995436703/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milana/2%20dveri%203%20yaschika/7995436703/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995436703</vendorCode>
+      <name>Комод Милана 2 двери 3 ящика (Велес)</name>
+      <description>Комод Милана 2 двери 3 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 168×46×74 см
+• Цвет: Гаскон пайн/Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 3
+
+Комод шириной 168 см. Есть ящики, полки. Материал — ЛДСП. В серии «Милана» есть ещё кровати, спальные гарнитуры, прикроватные тумбы, шкафы, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Милана Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>168/74/46</dimensions>
+    </offer>
+    <offer id="8318375820" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-milena-4-dveri-s-nishey-8318375820/</url>
+      <price>15183</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milena/4%20dveri%20s%20nishey/8318375820/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milena/4%20dveri%20s%20nishey/8318375820/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milena/4%20dveri%20s%20nishey/8318375820/03.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>8318375820</vendorCode>
+      <name>Комод Милена 4 двери с нишей (Велес)</name>
+      <description>Комод Милена 4 двери с нишей. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 200×53×85 см
+• Цвет: Роквуд / Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Полки
+• Двери: 4
+• Ящики: 0
+
+Комод шириной 200 см. Есть полки. Материал — ЛДСП. В серии «Милена» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Милена Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>200/85/53</dimensions>
+    </offer>
+    <offer id="8479139839" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-milena-3-dveri-8479139839/</url>
+      <price>13233</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milena/3%20dveri/8479139839/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milena/3%20dveri/8479139839/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milena/3%20dveri/8479139839/03.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>8479139839</vendorCode>
+      <name>Комод Милена 3 двери (Велес)</name>
+      <description>Комод Милена 3 двери. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 150×53×85 см
+• Цвет: Роквуд / Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Полки
+• Двери: 3
+• Ящики: 0
+
+Комод шириной 150 см. Есть полки. Материал — ЛДСП. В серии «Милена» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Милена Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>150/85/53</dimensions>
+    </offer>
+    <offer id="8418223146" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-milena-2-dveri-8418223146/</url>
+      <price>10583</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milena/2%20dveri/8418223146/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milena/2%20dveri/8418223146/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milena/2%20dveri/8418223146/03.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>8418223146</vendorCode>
+      <name>Комод Милена 2 двери (Велес)</name>
+      <description>Комод Милена 2 двери. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 100×53×85 см
+• Цвет: Роквуд / Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Полки
+• Двери: 2
+• Ящики: 0
+
+Комод шириной 100 см. Есть полки. Материал — ЛДСП. В серии «Милена» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Милена Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>100/85/53</dimensions>
+    </offer>
+    <offer id="8373863165" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-milena-4-yaschika-8373863165/</url>
+      <price>11867</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milena/4%20yaschika/8373863165/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milena/4%20yaschika/8373863165/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milena/4%20yaschika/8373863165/03.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>8373863165</vendorCode>
+      <name>Комод Милена 4 ящика (Велес)</name>
+      <description>Комод Милена 4 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×46×93 см
+• Цвет: Роквуд / Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Двери: 0
+• Ящики: 4
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП. В серии «Милена» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Милена Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/93/46</dimensions>
+    </offer>
+    <offer id="8421513893" available="true">
+      <url>https://мебель-фаворит.рф/komody/tumba-2-stv-milena-s-yaschikom-8421513893/</url>
+      <price>9500</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milena/2%20dveri%201%20yaschik/8421513893/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milena/2%20dveri%201%20yaschik/8421513893/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milena/2%20dveri%201%20yaschik/8421513893/03.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>8421513893</vendorCode>
+      <name>Тумба 2-ств Милена с ящиком (Велес)</name>
+      <description>Тумба 2-ств Милена с ящиком. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 100×53×85 см
+• Цвет: Роквуд / Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 1
+
+Комод шириной 100 см. Есть ящики, полки. Материал — ЛДСП. В серии «Милена» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Милена Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>100/85/53</dimensions>
+    </offer>
+    <offer id="8481067489" available="true">
+      <url>https://мебель-фаворит.рф/komody/tumba-1-stv-milena-8481067489/</url>
+      <price>4667</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milena/1%20dver/8481067489/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milena/1%20dver/8481067489/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milena/1%20dver/8481067489/03.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>8481067489</vendorCode>
+      <name>Тумба 1-ств Милена (Велес)</name>
+      <description>Тумба 1-ств Милена. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×46×48 см
+• Цвет: Роквуд / Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Полки
+• Двери: 1
+• Ящики: 0
+
+Комод шириной 80 см. Есть полки. Материал — ЛДСП. В серии «Милена» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Милена Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/48/46</dimensions>
+    </offer>
+    <offer id="7995515742" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-siciliya-4-yaschika-7995515742/</url>
+      <price>11048</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Sitsiliya/4%20yaschika/7995515742/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Sitsiliya/4%20yaschika/7995515742/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995515742</vendorCode>
+      <name>Комод Сицилия 4 ящика (Велес)</name>
+      <description>Комод Сицилия 4 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×46×94 см
+• Цвет: Дуб альпийский/Тефия
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП. В серии «Сицилия» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Сицилия Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/94/46</dimensions>
+      <count>14</count>
+    </offer>
+    <offer id="7995211005" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-siciliya-3-dveri-7995211005/</url>
+      <price>13742</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Sitsiliya/3%20dveri/7995211005/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Sitsiliya/3%20dveri/7995211005/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995211005</vendorCode>
+      <name>Комод Сицилия 3 двери (Велес)</name>
+      <description>Комод Сицилия 3 двери. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 150×46×100 см
+• Цвет: Дуб альпийский/Тефия
+• Материал: ЛДСП
+• Что есть у товара: Полки
+• Двери: 3
+
+Комод шириной 150 см. Есть полки. Материал — ЛДСП. В серии «Сицилия» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Сицилия Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>150/100/46</dimensions>
+      <count>11</count>
+    </offer>
+    <offer id="7579378790" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-tefiya-4-yaschika-7579378790/</url>
+      <price>11855</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Tefiya/4%20yaschika/7579378790/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Tefiya/4%20yaschika/7579378790/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Tefiya/4%20yaschika/7579378790/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Tefiya/4%20yaschika/7579378790/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Tefiya/4%20yaschika/7579378790/05.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7579378790</vendorCode>
+      <name>Комод Тефия 4 ящика (Велес)</name>
+      <description>Комод Тефия 4 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×46×93 см
+• Цвет: Тефия
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП и МДФ. В серии «Тефия» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Тефия Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/93/46</dimensions>
+    </offer>
+    <offer id="7579020264" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-tefiya-2-dveri-4-yaschika-7579020264/</url>
+      <price>18000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Tefiya/2%20dveri%204%20yaschika/7579020264/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Tefiya/2%20dveri%204%20yaschika/7579020264/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Tefiya/2%20dveri%204%20yaschika/7579020264/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Tefiya/2%20dveri%204%20yaschika/7579020264/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Tefiya/2%20dveri%204%20yaschika/7579020264/05.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7579020264</vendorCode>
+      <name>Комод Тефия 2 двери 4 ящика (Велес)</name>
+      <description>Комод Тефия 2 двери 4 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 140×46×93 см
+• Цвет: Тефия
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 4
+
+Комод шириной 140 см. Есть ящики, полки. Материал — ЛДСП и МДФ. В серии «Тефия» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Тефия Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>140/93/46</dimensions>
+      <count>2</count>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
