@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog>
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф</url>
+    <categories>
+      <category id="1">Кровати двуспальные </category>
+      <category id="2">Кровати полуторные </category>
+    </categories>
+    <offers>
+    <offer id="8123104211" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-polutornaya-neta-2-8123104211/</url>
+      <price>28843</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Gizmarket/Neta/Neta%202/120x200/8123104211/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Gizmarket/Neta/Neta%202/120x200/8123104211/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Gizmarket/Neta/Neta%202/120x200/8123104211/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Gizmarket/Neta/Neta%202/120x200/8123104211/04.webp</picture>
+      <vendor>Гизмаркет</vendor>
+      <vendorCode>8123104211</vendorCode>
+      <name>Кровать Нэта 2 (Гизмаркет)</name>
+      <description>Кровать полуторная Нэта 2. Спальное место 120×200 см, с подъёмным механизмом и коробом для белья.
+
+Характеристики:
+• Спальное место: 120×200 см
+• Подъёмный механизм: есть, под основанием короб для белья
+• Цвет: Серый
+• Матрас в комплекте: Нет
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>133/100/215</dimensions>
+          <param name="Спальное место">120×200</param>
+      <param name="Комплектация">С подъёмником</param>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
