@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-18 11:16">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Кровати полуторные </category>
+    </categories>
+    <offers>
+    <offer id="8219267527" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-polutornaya-versal-120x200-8219267527/</url>
+      <price>7677</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Dub%20sonoma/8219267527/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Dub%20sonoma/8219267527/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Dub%20sonoma/8219267527/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Dub%20sonoma/8219267527/04.webp</picture>
+      <vendor>Версаль</vendor>
+      <vendorCode>8219267527</vendorCode>
+      <name>Кровать полуторная Версаль 120×200</name>
+      <description>Кровать полуторная Версаль 120×200. Фабрика Версаль.
+
+Характеристики:
+• Размер (Ш×Д×В): 128×205×80 см
+• Цвет: Дуб сонома
+• Тип кровати: Полуторная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 120 см х 200 см
+
+Полуторная со спальным местом 120×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>128/80/205</dimensions>
+      <count>22</count>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
