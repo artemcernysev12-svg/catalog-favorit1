@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-18 11:08">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Кровати полуторные </category>
+      <category id="2">Кровать с подъемным механизмом </category>
+    </categories>
+    <offers>
+    <offer id="8219282941" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-sabrina-2-160x200-8219282941/</url>
+      <price>18677</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Sabrina-2/s%20PM/160x200/Yasen%20ankor%20svetlyy/8219282941/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Sabrina-2/s%20PM/160x200/Yasen%20ankor%20svetlyy/8219282941/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Sabrina-2/s%20PM/160x200/Yasen%20ankor%20svetlyy/8219282941/03.webp</picture>
+      <vendor>Росток</vendor>
+      <vendorCode>8219282941</vendorCode>
+      <name>Кровать двуспальная Сабрина-2 160×200 (Росток)</name>
+      <description>Кровать двуспальная Сабрина-2 160×200. Фабрика Росток.
+
+Характеристики:
+• Размер (Ш×Д×В): 167×204×90 см
+• Цвет: Ясень анкор светлый
+• Тип кровати: Двуспальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Есть
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 160 см х 200 см
+
+Двуспальная со спальным местом 160×200 см. Подъёмный механизм: под основанием большой короб для белья. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП. В серии «Сабрина» есть ещё спальные гарнитуры, прикроватные тумбы, шкафы, комоды, стеллажи — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Сабрина Росток».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>167/90/204</dimensions>
+      <count>7</count>
+    </offer>
+    <offer id="8219267527" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-polutornaya-versal-120x200-8219267527/</url>
+      <price>7677</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Dub%20sonoma/8219267527/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Dub%20sonoma/8219267527/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Dub%20sonoma/8219267527/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Dub%20sonoma/8219267527/04.webp</picture>
+      <vendor>Версаль</vendor>
+      <vendorCode>8219267527</vendorCode>
+      <name>Кровать полуторная Версаль 120×200</name>
+      <description>Кровать полуторная Версаль 120×200. Фабрика Версаль.
+
+Характеристики:
+• Размер (Ш×Д×В): 128×205×80 см
+• Цвет: Дуб сонома
+• Тип кровати: Полуторная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 120 см х 200 см
+
+Полуторная со спальным местом 120×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>128/80/205</dimensions>
+      <count>22</count>
+    </offer>
+    <offer id="8218871574" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-polutornaya-versal-120x200-8218871574/</url>
+      <price>7677</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Yasen%20shimo%20svetlyy/8218871574/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Yasen%20shimo%20svetlyy/8218871574/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Yasen%20shimo%20svetlyy/8218871574/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Yasen%20shimo%20svetlyy/8218871574/04.webp</picture>
+      <vendor>Версаль</vendor>
+      <vendorCode>8218871574</vendorCode>
+      <name>Кровать полуторная Версаль 120×200</name>
+      <description>Кровать полуторная Версаль 120×200. Фабрика Версаль.
+
+Характеристики:
+• Размер (Ш×Д×В): 128×205×80 см
+• Цвет: Ясень шимо светлый
+• Тип кровати: Полуторная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 120 см х 200 см
+
+Полуторная со спальным местом 120×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>128/80/205</dimensions>
+      <count>18</count>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
