@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-18 11:02">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Кровати двуспальные </category>
+      <category id="2">Кровати односпальные </category>
+      <category id="3">Кровати полуторные </category>
+      <category id="4">Кровать с подъемным механизмом </category>
+    </categories>
+    <offers>
+    <offer id="7355199520" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-polutornaya-eko-120x200-7355199520/</url>
+      <price>6441</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/120x200/7355199520/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/120x200/7355199520/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/120x200/7355199520/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/120x200/7355199520/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/120x200/7355199520/05.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7355199520</vendorCode>
+      <name>Кровать полуторная Эко 120×200 (Эра)</name>
+      <description>Кровать полуторная Эко 120×200. Фабрика Эра.
+
+Характеристики:
+• Размер (Ш×Д×В): 120×203×85 см
+• Цвет: дуб вотан-белый гладкий
+• Тип кровати: Полуторная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 120 см х 200 см
+
+Полуторная со спальным местом 120×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП. В серии «Эко» есть ещё спальные гарнитуры, прикроватные тумбы, шкафы, комоды, стеллажи — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Эко Эра».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/85/203</dimensions>
+      <count>7</count>
+    </offer>
+    <offer id="7355083374" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-eko-140x200-7355083374/</url>
+      <price>7082</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/140x200/7355083374/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/140x200/7355083374/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/140x200/7355083374/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/140x200/7355083374/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/140x200/7355083374/05.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7355083374</vendorCode>
+      <name>Кровать двуспальная Эко 140×200 (Эра)</name>
+      <description>Кровать двуспальная Эко 140×200. Фабрика Эра.
+
+Характеристики:
+• Размер (Ш×Д×В): 140×203×85 см
+• Цвет: Белый гладкий
+• Тип кровати: Двуспальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 140 см х 200 см
+
+Двуспальная со спальным местом 140×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП. В серии «Эко» есть ещё спальные гарнитуры, прикроватные тумбы, шкафы, комоды, стеллажи — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Эко Эра».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>140/85/203</dimensions>
+      <count>5</count>
+    </offer>
+    <offer id="7355107132" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-eko-140x200-7355107132/</url>
+      <price>7082</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/140x200/7355107132/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/140x200/7355107132/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/140x200/7355107132/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/140x200/7355107132/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/140x200/7355107132/05.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7355107132</vendorCode>
+      <name>Кровать двуспальная Эко 140×200 (Эра)</name>
+      <description>Кровать двуспальная Эко 140×200. Фабрика Эра.
+
+Характеристики:
+• Размер (Ш×Д×В): 140×203×85 см
+• Цвет: дуб вотан-белый гладкий
+• Тип кровати: Двуспальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 140 см х 200 см
+
+Двуспальная со спальным местом 140×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП. В серии «Эко» есть ещё спальные гарнитуры, прикроватные тумбы, шкафы, комоды, стеллажи — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Эко Эра».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>140/85/203</dimensions>
+      <count>10</count>
+    </offer>
+    <offer id="7356007394" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-eko-140x200-7356007394/</url>
+      <price>7082</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/140x200/7356007394/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/140x200/7356007394/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/140x200/7356007394/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/140x200/7356007394/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/140x200/7356007394/05.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7356007394</vendorCode>
+      <name>Кровать двуспальная Эко 140×200 (Эра)</name>
+      <description>Кровать двуспальная Эко 140×200. Фабрика Эра.
+
+Характеристики:
+• Размер (Ш×Д×В): 140×203×85 см
+• Цвет: Венге-лоредо
+• Тип кровати: Двуспальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 140 см х 200 см
+
+Двуспальная со спальным местом 140×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП. В серии «Эко» есть ещё спальные гарнитуры, прикроватные тумбы, шкафы, комоды, стеллажи — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Эко Эра».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>140/85/203</dimensions>
+      <count>2</count>
+    </offer>
+    <offer id="7355752062" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-eko-160x200-7355752062/</url>
+      <price>7662</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/160x200/7355752062/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/160x200/7355752062/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/160x200/7355752062/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/160x200/7355752062/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/160x200/7355752062/05.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7355752062</vendorCode>
+      <name>Кровать двуспальная Эко 160×200 (Эра)</name>
+      <description>Кровать двуспальная Эко 160×200. Фабрика Эра.
+
+Характеристики:
+• Размер (Ш×Д×В): 160×203×85 см
+• Цвет: Ясень шимо светлый-темный
+• Тип кровати: Двуспальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 160 см х 200 см
+
+Двуспальная со спальным местом 160×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП. В серии «Эко» есть ещё спальные гарнитуры, прикроватные тумбы, шкафы, комоды, стеллажи — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Эко Эра».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>160/85/203</dimensions>
+    </offer>
+    <offer id="7355581675" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-odnospalnaya-eko-90x200-7355581675/</url>
+      <price>5586</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/90x200/7355581675/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/90x200/7355581675/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/90x200/7355581675/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/90x200/7355581675/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/90x200/7355581675/05.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7355581675</vendorCode>
+      <name>Кровать односпальная Эко 90×200 (Эра)</name>
+      <description>Кровать односпальная Эко 90×200. Фабрика Эра.
+
+Характеристики:
+• Размер (Ш×Д×В): 90×203×85 см
+• Цвет: дуб вотан-белый гладкий
+• Тип кровати: Односпальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 90 см х 200 см
+
+Односпальная со спальным местом 90×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП. В серии «Эко» есть ещё спальные гарнитуры, прикроватные тумбы, шкафы, комоды, стеллажи — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Эко Эра».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>90/85/203</dimensions>
+    </offer>
+    <offer id="7355870442" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-odnospalnaya-eko-90x200-7355870442/</url>
+      <price>5586</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/90x200/7355870442/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/90x200/7355870442/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/90x200/7355870442/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/90x200/7355870442/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Era/Eko/90x200/7355870442/05.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7355870442</vendorCode>
+      <name>Кровать односпальная Эко 90×200 (Эра)</name>
+      <description>Кровать односпальная Эко 90×200. Фабрика Эра.
+
+Характеристики:
+• Размер (Ш×Д×В): 90×203×85 см
+• Цвет: Венге-лоредо
+• Тип кровати: Односпальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 90 см х 200 см
+
+Односпальная со спальным местом 90×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП. В серии «Эко» есть ещё спальные гарнитуры, прикроватные тумбы, шкафы, комоды, стеллажи — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Эко Эра».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>90/85/203</dimensions>
+    </offer>
+    <offer id="8123315520" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-meleta-2-8123315520/</url>
+      <price>25832</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Gizmarket/Meleta/Meleta%202/160x200/8123315520/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Gizmarket/Meleta/Meleta%202/160x200/8123315520/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Gizmarket/Meleta/Meleta%202/160x200/8123315520/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Gizmarket/Meleta/Meleta%202/160x200/8123315520/04.webp</picture>
+      <vendor>Гизмаркет</vendor>
+      <vendorCode>8123315520</vendorCode>
+      <name>Кровать двуспальная Мелета 2 160×200 (Гизмаркет)</name>
+      <description>Кровать двуспальная Мелета 2 160×200. Фабрика Гизмаркет.
+
+Характеристики:
+• Размер (Ш×Д×В): 173×215×100 см
+• Цвет: Бежевый
+• Тип кровати: Двуспальная
+• Каркас: ЛДСП, С обивкой
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 160 см х 200 см
+
+Можно доукомплектовать:
+• Подъёмный механизм с коробом для белья
+
+Двуспальная со спальным местом 160×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП, изголовье с мягкой обивкой.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>173/100/215</dimensions>
+    </offer>
+    <offer id="8219431165" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-odnospalnaya-veneciya-1-90x200-8219431165/</url>
+      <price>15892</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Venetsiya-1/90x200/Venge%20-%20beloe%20derevo/8219431165/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Venetsiya-1/90x200/Venge%20-%20beloe%20derevo/8219431165/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Venetsiya-1/90x200/Venge%20-%20beloe%20derevo/8219431165/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Venetsiya-1/90x200/Venge%20-%20beloe%20derevo/8219431165/04.webp</picture>
+      <vendor>Росток</vendor>
+      <vendorCode>8219431165</vendorCode>
+      <name>Кровать односпальная Венеция-1 90×200 (Росток)</name>
+      <description>Кровать односпальная Венеция-1 90×200. Фабрика Росток.
+
+Характеристики:
+• Размер (Ш×Д×В): 94×204×77 см
+• Цвет: Венге / белое дерево
+• Тип кровати: Односпальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Кол-во ящиков: 2
+• Ширина х Длина спального места: 90 см х 200 см
+
+Односпальная со спальным местом 90×200 см. Ящики в изножье — 2 шт., пригодятся под постель. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП. В серии «Венеция-1» есть ещё спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Венеция-1 Росток».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>94/77/204</dimensions>
+      <count>1</count>
+    </offer>
+    <offer id="8219597683" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-odnospalnaya-veneciya-1-90x200-8219597683/</url>
+      <price>15892</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Venetsiya-1/90x200/Dub%20sonoma%20-%20beloe%20derevo/8219597683/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Venetsiya-1/90x200/Dub%20sonoma%20-%20beloe%20derevo/8219597683/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Venetsiya-1/90x200/Dub%20sonoma%20-%20beloe%20derevo/8219597683/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Venetsiya-1/90x200/Dub%20sonoma%20-%20beloe%20derevo/8219597683/04.webp</picture>
+      <vendor>Росток</vendor>
+      <vendorCode>8219597683</vendorCode>
+      <name>Кровать односпальная Венеция-1 90×200 (Росток)</name>
+      <description>Кровать односпальная Венеция-1 90×200. Фабрика Росток.
+
+Характеристики:
+• Размер (Ш×Д×В): 94×204×77 см
+• Цвет: Дуб сонома / белое дерево
+• Тип кровати: Односпальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Кол-во ящиков: 2
+• Ширина х Длина спального места: 90 см х 200 см
+
+Односпальная со спальным местом 90×200 см. Ящики в изножье — 2 шт., пригодятся под постель. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП. В серии «Венеция-1» есть ещё спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Венеция-1 Росток».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>94/77/204</dimensions>
+    </offer>
+    <offer id="8219688596" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-versal-5-140x200-8219688596/</url>
+      <price>20754</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>4</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Versal-5/s%20PM/140x200/Dub%20barrik/8219688596/01.webp</picture>
+      <vendor>Росток</vendor>
+      <vendorCode>8219688596</vendorCode>
+      <name>Кровать двуспальная Версаль-5 140×200 (Росток)</name>
+      <description>Кровать двуспальная Версаль-5 140×200. Фабрика Росток.
+
+Характеристики:
+• Размер (Ш×Д×В): 148×212×86 см
+• Цвет: Дуб баррик
+• Тип кровати: Двуспальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Есть
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 140 см х 200 см
+
+Двуспальная со спальным местом 140×200 см. Подъёмный механизм: под основанием большой короб для белья. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП. В серии «Версаль» есть ещё спальные гарнитуры, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Версаль Росток».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>148/86/212</dimensions>
+      <count>12</count>
+    </offer>
+    <offer id="8219469918" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-versal-5-140x200-8219469918/</url>
+      <price>10723</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Versal-5/bez%20PM/140x200/Dub%20barrik/8219469918/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Versal-5/bez%20PM/140x200/Dub%20barrik/8219469918/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Versal-5/bez%20PM/140x200/Dub%20barrik/8219469918/03.webp</picture>
+      <vendor>Росток</vendor>
+      <vendorCode>8219469918</vendorCode>
+      <name>Кровать двуспальная Версаль-5 140×200 (Росток)</name>
+      <description>Кровать двуспальная Версаль-5 140×200. Фабрика Росток.
+
+Характеристики:
+• Размер (Ш×Д×В): 148×213×86 см
+• Цвет: Дуб баррик
+• Тип кровати: Двуспальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 140 см х 200 см
+
+Двуспальная со спальным местом 140×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП. В серии «Версаль» есть ещё спальные гарнитуры, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Версаль Росток».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>148/86/213</dimensions>
+    </offer>
+    <offer id="8219199551" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-versal-5-160x200-8219199551/</url>
+      <price>11292</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Versal-5/bez%20PM/160x200/Dub%20barrik/8219199551/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Versal-5/bez%20PM/160x200/Dub%20barrik/8219199551/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Versal-5/bez%20PM/160x200/Dub%20barrik/8219199551/03.webp</picture>
+      <vendor>Росток</vendor>
+      <vendorCode>8219199551</vendorCode>
+      <name>Кровать двуспальная Версаль-5 160×200 (Росток)</name>
+      <description>Кровать двуспальная Версаль-5 160×200. Фабрика Росток.
+
+Характеристики:
+• Размер (Ш×Д×В): 168×213×86 см
+• Цвет: Дуб баррик
+• Тип кровати: Двуспальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 160 см х 200 см
+
+Двуспальная со спальным местом 160×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП. В серии «Версаль» есть ещё спальные гарнитуры, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Версаль Росток».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>168/86/213</dimensions>
+      <count>15</count>
+    </offer>
+    <offer id="8219282941" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-sabrina-2-160x200-8219282941/</url>
+      <price>18677</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>4</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Sabrina-2/s%20PM/160x200/Yasen%20ankor%20svetlyy/8219282941/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Sabrina-2/s%20PM/160x200/Yasen%20ankor%20svetlyy/8219282941/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Rostok/Sabrina-2/s%20PM/160x200/Yasen%20ankor%20svetlyy/8219282941/03.webp</picture>
+      <vendor>Росток</vendor>
+      <vendorCode>8219282941</vendorCode>
+      <name>Кровать двуспальная Сабрина-2 160×200 (Росток)</name>
+      <description>Кровать двуспальная Сабрина-2 160×200. Фабрика Росток.
+
+Характеристики:
+• Размер (Ш×Д×В): 167×204×90 см
+• Цвет: Ясень анкор светлый
+• Тип кровати: Двуспальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Есть
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 160 см х 200 см
+
+Двуспальная со спальным местом 160×200 см. Подъёмный механизм: под основанием большой короб для белья. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП. В серии «Сабрина» есть ещё спальные гарнитуры, прикроватные тумбы, шкафы, комоды, стеллажи — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Сабрина Росток».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>167/90/204</dimensions>
+      <count>7</count>
+    </offer>
+    <offer id="8219405932" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-odnospalnaya-versal-80x200-8219405932/</url>
+      <price>5355</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/80x200/Yasen%20ankor%20svetlyy/8219405932/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/80x200/Yasen%20ankor%20svetlyy/8219405932/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/80x200/Yasen%20ankor%20svetlyy/8219405932/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/80x200/Yasen%20ankor%20svetlyy/8219405932/04.webp</picture>
+      <vendor>Версаль</vendor>
+      <vendorCode>8219405932</vendorCode>
+      <name>Кровать односпальная Версаль 80×200</name>
+      <description>Кровать односпальная Версаль 80×200. Фабрика Версаль.
+
+Характеристики:
+• Размер (Ш×Д×В): 88×205×80 см
+• Цвет: Ясень анкор светлый
+• Тип кровати: Односпальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 80 см х 200 см
+
+Односпальная со спальным местом 80×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>88/80/205</dimensions>
+      <count>6</count>
+    </offer>
+    <offer id="8219850604" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-polutornaya-versal-120x200-8219850604/</url>
+      <price>7677</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Dub%20kraft%20belyy/8219850604/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Dub%20kraft%20belyy/8219850604/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Dub%20kraft%20belyy/8219850604/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Dub%20kraft%20belyy/8219850604/04.webp</picture>
+      <vendor>Версаль</vendor>
+      <vendorCode>8219850604</vendorCode>
+      <name>Кровать полуторная Версаль 120×200</name>
+      <description>Кровать полуторная Версаль 120×200. Фабрика Версаль.
+
+Характеристики:
+• Размер (Ш×Д×В): 128×205×80 см
+• Цвет: Дуб крафт белый
+• Тип кровати: Полуторная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 120 см х 200 см
+
+Полуторная со спальным местом 120×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>128/80/205</dimensions>
+      <count>12</count>
+    </offer>
+    <offer id="8219267527" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-polutornaya-versal-120x200-8219267527/</url>
+      <price>7677</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Dub%20sonoma/8219267527/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Dub%20sonoma/8219267527/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Dub%20sonoma/8219267527/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Dub%20sonoma/8219267527/04.webp</picture>
+      <vendor>Версаль</vendor>
+      <vendorCode>8219267527</vendorCode>
+      <name>Кровать полуторная Версаль 120×200</name>
+      <description>Кровать полуторная Версаль 120×200. Фабрика Версаль.
+
+Характеристики:
+• Размер (Ш×Д×В): 128×205×80 см
+• Цвет: Дуб сонома
+• Тип кровати: Полуторная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 120 см х 200 см
+
+Полуторная со спальным местом 120×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>128/80/205</dimensions>
+      <count>22</count>
+    </offer>
+    <offer id="8218871574" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-polutornaya-versal-120x200-8218871574/</url>
+      <price>7677</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Yasen%20shimo%20svetlyy/8218871574/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Yasen%20shimo%20svetlyy/8218871574/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Yasen%20shimo%20svetlyy/8218871574/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Yasen%20shimo%20svetlyy/8218871574/04.webp</picture>
+      <vendor>Версаль</vendor>
+      <vendorCode>8218871574</vendorCode>
+      <name>Кровать полуторная Версаль 120×200</name>
+      <description>Кровать полуторная Версаль 120×200. Фабрика Версаль.
+
+Характеристики:
+• Размер (Ш×Д×В): 128×205×80 см
+• Цвет: Ясень шимо светлый
+• Тип кровати: Полуторная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 120 см х 200 см
+
+Полуторная со спальным местом 120×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>128/80/205</dimensions>
+      <count>18</count>
+    </offer>
+    <offer id="8219425491" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-polutornaya-versal-120x200-8219425491/</url>
+      <price>7677</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Yasen%20shimo%20temnyy%20-%20yasen%20shimo%20svetlyy/8219425491/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Yasen%20shimo%20temnyy%20-%20yasen%20shimo%20svetlyy/8219425491/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Yasen%20shimo%20temnyy%20-%20yasen%20shimo%20svetlyy/8219425491/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/120x200/Yasen%20shimo%20temnyy%20-%20yasen%20shimo%20svetlyy/8219425491/04.webp</picture>
+      <vendor>Версаль</vendor>
+      <vendorCode>8219425491</vendorCode>
+      <name>Кровать полуторная Версаль 120×200</name>
+      <description>Кровать полуторная Версаль 120×200. Фабрика Версаль.
+
+Характеристики:
+• Размер (Ш×Д×В): 128×205×80 см
+• Цвет: Ясень шимо тёмный / ясень шимо светлый
+• Тип кровати: Полуторная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 120 см х 200 см
+
+Полуторная со спальным местом 120×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>128/80/205</dimensions>
+    </offer>
+    <offer id="8219551187" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-versal-140x200-8219551187/</url>
+      <price>8290</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Dub%20kraft%20belyy/8219551187/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Dub%20kraft%20belyy/8219551187/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Dub%20kraft%20belyy/8219551187/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Dub%20kraft%20belyy/8219551187/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Dub%20kraft%20belyy/8219551187/05.webp</picture>
+      <vendor>Версаль</vendor>
+      <vendorCode>8219551187</vendorCode>
+      <name>Кровать двуспальная Версаль 140×200</name>
+      <description>Кровать двуспальная Версаль 140×200. Фабрика Версаль.
+
+Характеристики:
+• Размер (Ш×Д×В): 148×205×80 см
+• Цвет: Дуб крафт белый
+• Тип кровати: Двуспальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 140 см х 200 см
+
+Двуспальная со спальным местом 140×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>148/80/205</dimensions>
+      <count>22</count>
+    </offer>
+    <offer id="8219026184" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-versal-140x200-8219026184/</url>
+      <price>8290</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Yasen%20ankor%20svetlyy/8219026184/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Yasen%20ankor%20svetlyy/8219026184/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Yasen%20ankor%20svetlyy/8219026184/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Yasen%20ankor%20svetlyy/8219026184/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Yasen%20ankor%20svetlyy/8219026184/05.webp</picture>
+      <vendor>Версаль</vendor>
+      <vendorCode>8219026184</vendorCode>
+      <name>Кровать двуспальная Версаль 140×200</name>
+      <description>Кровать двуспальная Версаль 140×200. Фабрика Версаль.
+
+Характеристики:
+• Размер (Ш×Д×В): 148×205×80 см
+• Цвет: Ясень анкор светлый
+• Тип кровати: Двуспальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 140 см х 200 см
+
+Двуспальная со спальным местом 140×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>148/80/205</dimensions>
+      <count>23</count>
+    </offer>
+    <offer id="8219494297" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-versal-140x200-8219494297/</url>
+      <price>8290</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Yasen%20shimo%20svetlyy/8219494297/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Yasen%20shimo%20svetlyy/8219494297/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Yasen%20shimo%20svetlyy/8219494297/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Yasen%20shimo%20svetlyy/8219494297/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Yasen%20shimo%20svetlyy/8219494297/05.webp</picture>
+      <vendor>Версаль</vendor>
+      <vendorCode>8219494297</vendorCode>
+      <name>Кровать двуспальная Версаль 140×200</name>
+      <description>Кровать двуспальная Версаль 140×200. Фабрика Версаль.
+
+Характеристики:
+• Размер (Ш×Д×В): 148×205×80 см
+• Цвет: Ясень шимо светлый
+• Тип кровати: Двуспальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 140 см х 200 см
+
+Двуспальная со спальным местом 140×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>148/80/205</dimensions>
+      <count>6</count>
+    </offer>
+    <offer id="8219489841" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-versal-140x200-8219489841/</url>
+      <price>8290</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Yasen%20shimo%20temnyy%20-%20yasen%20shimo%20svetlyy/8219489841/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Yasen%20shimo%20temnyy%20-%20yasen%20shimo%20svetlyy/8219489841/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Yasen%20shimo%20temnyy%20-%20yasen%20shimo%20svetlyy/8219489841/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Yasen%20shimo%20temnyy%20-%20yasen%20shimo%20svetlyy/8219489841/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/140x200/Yasen%20shimo%20temnyy%20-%20yasen%20shimo%20svetlyy/8219489841/05.webp</picture>
+      <vendor>Версаль</vendor>
+      <vendorCode>8219489841</vendorCode>
+      <name>Кровать двуспальная Версаль 140×200</name>
+      <description>Кровать двуспальная Версаль 140×200. Фабрика Версаль.
+
+Характеристики:
+• Размер (Ш×Д×В): 148×205×80 см
+• Цвет: Ясень шимо тёмный / ясень шимо светлый
+• Тип кровати: Двуспальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 140 см х 200 см
+
+Двуспальная со спальным местом 140×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>148/80/205</dimensions>
+      <count>2</count>
+    </offer>
+    <offer id="8219513088" available="true">
+      <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-versal-160x200-8219513088/</url>
+      <price>9016</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/160x200/Yasen%20shimo%20svetlyy/8219513088/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/160x200/Yasen%20shimo%20svetlyy/8219513088/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/160x200/Yasen%20shimo%20svetlyy/8219513088/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/160x200/Yasen%20shimo%20svetlyy/8219513088/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Versal/160x200/Yasen%20shimo%20svetlyy/8219513088/05.webp</picture>
+      <vendor>Версаль</vendor>
+      <vendorCode>8219513088</vendorCode>
+      <name>Кровать двуспальная Версаль 160×200</name>
+      <description>Кровать двуспальная Версаль 160×200. Фабрика Версаль.
+
+Характеристики:
+• Размер (Ш×Д×В): 168×205×80 см
+• Цвет: Ясень шимо светлый
+• Тип кровати: Двуспальная
+• Каркас: ЛДСП
+• Наличие подъемного механизма: Нет
+• Матрас в комплекте: Нет
+• Ширина х Длина спального места: 160 см х 200 см
+
+Двуспальная со спальным местом 160×200 см. Матрас подбирается отдельно — поможем с размером и жёсткостью. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>168/80/205</dimensions>
+      <count>8</count>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
