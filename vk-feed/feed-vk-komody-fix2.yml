@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-18 16:46">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Комоды и Тумбы </category>
+    </categories>
+    <offers>
+    <offer id="7995572288" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-milana-4-yaschika-7995572288/</url>
+      <price>7806</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milana/4%20yaschika/7995572288/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Veles/Milana/4%20yaschika/7995572288/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995572288</vendorCode>
+      <name>Комод Милана 4 ящика (Велес)</name>
+      <description>Комод Милана 4 ящика. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 94×46×94 см
+• Цвет: Гаскон пайн/Белый лофт
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 94 см. Есть ящики. Материал — ЛДСП. В серии «Милана» есть ещё кровати, спальные гарнитуры, прикроватные тумбы, шкафы, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Милана Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>94/94/46</dimensions>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
