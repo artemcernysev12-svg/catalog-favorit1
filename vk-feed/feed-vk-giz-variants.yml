@@ -9,7 +9,7 @@
       <category id="2">Кровати полуторные </category>
     </categories>
     <offers>
-    <offer id="8123696438-140pm" available="true">
+    <offer id="8123696438-140pm" group_id="GIZ-8123696438" available="true">
       <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-adel-8123696438/</url>
       <price>37243</price>
       <currencyId>RUB</currencyId>
@@ -20,7 +20,7 @@
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Gizmarket/Adel/160x200/8123696438/04.webp</picture>
       <vendor>Гизмаркет</vendor>
       <vendorCode>8123696438-140pm</vendorCode>
-      <name>Кровать двуспальная Адель 140×200 с подъёмным механизмом и коробом для белья (Гизмаркет)</name>
+      <name>Кровать двуспальная Адель (Гизмаркет)</name>
       <description>Кровать двуспальная Адель. Спальное место 140×200 см, с подъёмным механизмом и коробом для белья.
 
 Характеристики:
@@ -29,9 +29,13 @@
 • Цвет: Серый
 • Матрас в комплекте: Нет
 
+Размер и комплектацию выберите прямо в карточке — цена пересчитается.
+
 Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
 Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
       <dimensions>193/110/215</dimensions>
+      <param name="Спальное место">140×200</param>
+      <param name="Комплектация">С подъёмником</param>
     </offer>
     <offer id="8123696438" group_id="GIZ-8123696438" available="true">
       <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-adel-8123696438/</url>
@@ -145,7 +149,7 @@
       <param name="Спальное место">180×200</param>
       <param name="Комплектация">С подъёмником</param>
     </offer>
-    <offer id="8123776341-120pm" available="true">
+    <offer id="8123776341-120pm" group_id="GIZ-8123776341" available="true">
       <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-afina-8123776341/</url>
       <price>28843</price>
       <currencyId>RUB</currencyId>
@@ -155,7 +159,7 @@
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Gizmarket/Afina/160x200/8123776341/03.webp</picture>
       <vendor>Гизмаркет</vendor>
       <vendorCode>8123776341-120pm</vendorCode>
-      <name>Кровать двуспальная Афина 120×200 с подъёмным механизмом и коробом для белья (Гизмаркет)</name>
+      <name>Кровать двуспальная Афина (Гизмаркет)</name>
       <description>Кровать двуспальная Афина. Спальное место 120×200 см, с подъёмным механизмом и коробом для белья.
 
 Характеристики:
@@ -164,9 +168,13 @@
 • Цвет: Серый
 • Матрас в комплекте: Нет
 
+Размер и комплектацию выберите прямо в карточке — цена пересчитается.
+
 Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
 Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
       <dimensions>173/100/215</dimensions>
+      <param name="Спальное место">120×200</param>
+      <param name="Комплектация">С подъёмником</param>
     </offer>
     <offer id="8123776341-140no" group_id="GIZ-8123776341" available="true">
       <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-afina-8123776341/</url>
@@ -330,7 +338,7 @@
       <param name="Спальное место">180×200</param>
       <param name="Комплектация">С подъёмником</param>
     </offer>
-    <offer id="8123004260-120pm" available="true">
+    <offer id="8123004260-120pm" group_id="GIZ-8123004260" available="true">
       <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-meleta-8123004260/</url>
       <price>28843</price>
       <currencyId>RUB</currencyId>
@@ -341,7 +349,7 @@
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Gizmarket/Meleta/Meleta/160x200/8123004260/04.webp</picture>
       <vendor>Гизмаркет</vendor>
       <vendorCode>8123004260-120pm</vendorCode>
-      <name>Кровать двуспальная Мелета 120×200 с подъёмным механизмом и коробом для белья (Гизмаркет)</name>
+      <name>Кровать двуспальная Мелета (Гизмаркет)</name>
       <description>Кровать двуспальная Мелета. Спальное место 120×200 см, с подъёмным механизмом и коробом для белья.
 
 Характеристики:
@@ -350,9 +358,13 @@
 • Цвет: Голубой
 • Матрас в комплекте: Нет
 
+Размер и комплектацию выберите прямо в карточке — цена пересчитается.
+
 Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
 Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
       <dimensions>173/100/215</dimensions>
+      <param name="Спальное место">120×200</param>
+      <param name="Комплектация">С подъёмником</param>
     </offer>
     <offer id="8123004260-140no" group_id="GIZ-8123004260" available="true">
       <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-meleta-8123004260/</url>
@@ -522,7 +534,7 @@
       <param name="Спальное место">180×200</param>
       <param name="Комплектация">С подъёмником</param>
     </offer>
-    <offer id="8123315520-120pm" available="true">
+    <offer id="8123315520-120pm" group_id="GIZ-8123315520" available="true">
       <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-meleta-2-8123315520/</url>
       <price>28843</price>
       <currencyId>RUB</currencyId>
@@ -533,7 +545,7 @@
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Gizmarket/Meleta/Meleta%202/160x200/8123315520/04.webp</picture>
       <vendor>Гизмаркет</vendor>
       <vendorCode>8123315520-120pm</vendorCode>
-      <name>Кровать двуспальная Мелета 2 120×200 с подъёмным механизмом и коробом для белья (Гизмаркет)</name>
+      <name>Кровать двуспальная Мелета 2 (Гизмаркет)</name>
       <description>Кровать двуспальная Мелета 2. Спальное место 120×200 см, с подъёмным механизмом и коробом для белья.
 
 Характеристики:
@@ -542,9 +554,13 @@
 • Цвет: Бежевый
 • Матрас в комплекте: Нет
 
+Размер и комплектацию выберите прямо в карточке — цена пересчитается.
+
 Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
 Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
       <dimensions>173/100/215</dimensions>
+      <param name="Спальное место">120×200</param>
+      <param name="Комплектация">С подъёмником</param>
     </offer>
     <offer id="8123315520-140no" group_id="GIZ-8123315520" available="true">
       <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-meleta-2-8123315520/</url>
@@ -714,7 +730,7 @@
       <param name="Спальное место">180×200</param>
       <param name="Комплектация">С подъёмником</param>
     </offer>
-    <offer id="8123876872-120pm" available="true">
+    <offer id="8123876872-120pm" group_id="GIZ-8123876872" available="true">
       <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-neta-8123876872/</url>
       <price>28843</price>
       <currencyId>RUB</currencyId>
@@ -725,7 +741,7 @@
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Krovati/Gizmarket/Neta/Neta/160x200/8123876872/04.webp</picture>
       <vendor>Гизмаркет</vendor>
       <vendorCode>8123876872-120pm</vendorCode>
-      <name>Кровать двуспальная Нэта 120×200 с подъёмным механизмом и коробом для белья (Гизмаркет)</name>
+      <name>Кровать двуспальная Нэта (Гизмаркет)</name>
       <description>Кровать двуспальная Нэта. Спальное место 120×200 см, с подъёмным механизмом и коробом для белья.
 
 Характеристики:
@@ -734,9 +750,13 @@
 • Цвет: Зелёный
 • Матрас в комплекте: Нет
 
+Размер и комплектацию выберите прямо в карточке — цена пересчитается.
+
 Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
 Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
       <dimensions>173/100/215</dimensions>
+      <param name="Спальное место">120×200</param>
+      <param name="Комплектация">С подъёмником</param>
     </offer>
     <offer id="8123876872-140no" group_id="GIZ-8123876872" available="true">
       <url>https://мебель-фаворит.рф/krovati/krovat-dvuspalnaya-neta-8123876872/</url>
