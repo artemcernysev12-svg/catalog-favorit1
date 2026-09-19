@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-19 16:02">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Прихожие </category>
+    </categories>
+    <offers>
+    <offer id="7995821615" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-vita-7995821615/</url>
+      <price>3774</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Vita/7995821615/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Vita/7995821615/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995821615</vendorCode>
+      <name>Вешалка Вита (Велес)</name>
+      <description>Вешалка Вита. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 60×21×172 см
+• Цвет: Белый лофт/Софт айс
+• Тип размещения: Настенное
+• Материал: ЛДСП, МДФ
+• Количество крючков: 3
+
+Вешалка шириной 60 см. Материал — ЛДСП и МДФ. В серии «Вита» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Вита Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>60/172/21</dimensions>
+      <count>4</count>
+    </offer>
+    <offer id="7995352797" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-vita-7995352797/</url>
+      <price>4274</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Vita/7995352797/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Vita/7995352797/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995352797</vendorCode>
+      <name>Вешалка Вита (Велес)</name>
+      <description>Вешалка Вита. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×21×172 см
+• Цвет: Белый лофт/Софт айс
+• Тип размещения: Настенное
+• Материал: ЛДСП, МДФ
+• Количество крючков: 3
+
+Вешалка шириной 80 см. Материал — ЛДСП и МДФ. В серии «Вита» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Вита Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/172/21</dimensions>
+      <count>2</count>
+    </offer>
+    <offer id="8059670214" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-kevin-8059670214/</url>
+      <price>4500</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Mikon/Kevin/8059670214/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Mikon/Kevin/8059670214/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059670214</vendorCode>
+      <name>Вешалка Кевин (Микон)</name>
+      <description>Вешалка Кевин. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×29×160 см
+• Цвет: Белый-дуб крафт золотой
+• Тип размещения: Настенное
+• Материал: ЛДСП
+
+Вешалка шириной 80 см. Материал — ЛДСП. В серии «Кевин» есть ещё шкафы, тумбы, прихожие, стеллажи, зеркала — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Кевин Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/160/29</dimensions>
+      <count>3</count>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
