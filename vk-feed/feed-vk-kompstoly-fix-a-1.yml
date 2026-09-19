@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-19 12:26">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Компьютерные столы </category>
+    </categories>
+    <offers>
+    <offer id="7995746588" available="true">
+      <url>https://мебель-фаворит.рф/kompyuternye-stoly/pismennyy-stol-s-penalom-byanko-levyy-7995746588/</url>
+      <price>8984</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Veles/Byanko/7995746588/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Veles/Byanko/7995746588/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995746588</vendorCode>
+      <name>Письменный стол с пеналом Бьянко Левый (Велес)</name>
+      <description>Письменный стол с пеналом Бьянко Левый. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 145×57×128 см
+• Цвет: Белый лофт
+• Форма: Прямоугольный
+• Регулировка высоты: Нет
+• Материал столешницы: ЛДСП
+• Материал основания: ЛДСП
+• Что есть у стола: Полка, Тумба
+• Исполнение: Левое
+• Материал фасада: ЛДСП
+
+Письменный стол шириной 145 см. Есть полка, тумба. В серии «Бьянко» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Бьянко Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>145/128/57</dimensions>
+    </offer>
+    <offer id="7995271424" available="true">
+      <url>https://мебель-фаворит.рф/kompyuternye-stoly/pismennyy-stol-sk-7-levyy-7995271424/</url>
+      <price>5645</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Veles/SK-7/7995271424/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Veles/SK-7/7995271424/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995271424</vendorCode>
+      <name>Письменный стол СК-7 Левый (Велес)</name>
+      <description>Письменный стол СК-7 Левый. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 90×50×77 см
+• Цвет: Белый лофт
+• Форма: Прямоугольный
+• Регулировка высоты: Нет
+• Материал столешницы: ЛДСП
+• Материал основания: ЛДСП
+• Что есть у стола: Полка, Тумба, Ящик
+• Исполнение: Левое
+• Материал фасада: ЛДСП
+
+Письменный стол шириной 90 см. Есть полка, тумба, ящик. В серии «Бьянко» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Бьянко Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>90/77/50</dimensions>
+    </offer>
+    <offer id="7995046931" available="true">
+      <url>https://мебель-фаворит.рф/kompyuternye-stoly/pismennyy-stol-eva-pravyy-7995046931/</url>
+      <price>7500</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Veles/Eva/7995046931/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Veles/Eva/7995046931/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995046931</vendorCode>
+      <name>Письменный стол Ева Правый (Велес)</name>
+      <description>Письменный стол Ева Правый. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×60×76 см
+• Цвет: Тира/Кадена вуд
+• Форма: Прямоугольный
+• Регулировка высоты: Нет
+• Материал столешницы: ЛДСП
+• Материал основания: ЛДСП
+• Что есть у стола: Полка, Тумба, Ящик
+• Исполнение: Правое
+• Материал фасада: ЛДСП
+
+Письменный стол шириной 120 см. Есть полка, тумба, ящик. В серии «Ева» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Ева Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/76/60</dimensions>
+    </offer>
+    <offer id="7994913408" available="true">
+      <url>https://мебель-фаворит.рф/kompyuternye-stoly/kompyuternyy-stol-loren-7994913408/</url>
+      <price>14048</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Veles/Loren/7994913408/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Veles/Loren/7994913408/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7994913408</vendorCode>
+      <name>Компьютерный стол Лорэн (Велес)</name>
+      <description>Компьютерный стол Лорэн. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 110×60×172 см
+• Цвет: Тефия/Софт айс
+• Форма: Прямоугольный
+• Регулировка высоты: Нет
+• Материал столешницы: ЛДСП
+• Материал основания: ЛДСП
+• Что есть у стола: Полка, Надстройка, Ящик
+• Исполнение: Универсальное
+• Материал фасада: МДФ
+
+Компьютерный стол шириной 110 см. Есть полка, надстройка, ящик. В серии «Лорэн» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Лорэн Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>110/172/60</dimensions>
+    </offer>
+    <offer id="7994970327" available="true">
+      <url>https://мебель-фаворит.рф/kompyuternye-stoly/pismennyy-stol-umka-pravyy-7994970327/</url>
+      <price>10935</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Veles/Umka/7994970327/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Veles/Umka/7994970327/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7994970327</vendorCode>
+      <name>Письменный стол Умка Правый (Велес)</name>
+      <description>Письменный стол Умка Правый. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 115×80×204 см
+• Цвет: Тефия/Белый лофт
+• Форма: Прямоугольный
+• Регулировка высоты: Нет
+• Материал столешницы: ЛДСП
+• Материал основания: ЛДСП
+• Что есть у стола: Полка, Тумба, Надстройка
+• Исполнение: Правое
+• Материал фасада: ЛДСП
+
+Письменный стол шириной 115 см. Есть полка, тумба, надстройка.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>115/204/80</dimensions>
+      <count>2</count>
+    </offer>
+    <offer id="4220421221" available="true">
+      <url>https://мебель-фаворит.рф/kompyuternye-stoly/pismennyy-stol-maynd-01-4220421221/</url>
+      <price>6400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Interer%20Tsentr/Maynd-01/4220421221/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Interer%20Tsentr/Maynd-01/4220421221/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Interer%20Tsentr/Maynd-01/4220421221/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Interer%20Tsentr/Maynd-01/4220421221/04.webp</picture>
+      <vendor>Интерьер Центр</vendor>
+      <vendorCode>4220421221</vendorCode>
+      <name>Письменный стол Майнд-01 (Интерьер Центр)</name>
+      <description>Письменный стол Майнд-01. Фабрика Интерьер Центр.
+
+Характеристики:
+• Размер (Ш×Г×В): 185×120×60 см
+• Цвет: Дуб крафт-дуб крафт белый
+• Форма: Прямоугольный
+• Регулировка высоты: Нет
+• Материал столешницы: ЛДСП
+• Материал основания: ЛДСП
+• Что есть у стола: Полка, Тумба
+
+Письменный стол шириной 185 см. Есть полка, тумба.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>185/60/120</dimensions>
+    </offer>
+    <offer id="7899098102" available="true">
+      <url>https://мебель-фаворит.рф/kompyuternye-stoly/kompyuternyy-stol-skm-2-7899098102/</url>
+      <price>6717</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mikon/SKM-2/7899098102/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mikon/SKM-2/7899098102/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>7899098102</vendorCode>
+      <name>Компьютерный стол СКМ-2 (Микон)</name>
+      <description>Компьютерный стол СКМ-2. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 135×60×135 см
+• Цвет: Дуб сонома-белый
+• Форма: Прямоугольный
+• Регулировка высоты: Нет
+• Материал столешницы: ЛДСП
+• Материал основания: ЛДСП
+• Что есть у стола: Полка, Тумба, Надстройка
+
+Компьютерный стол шириной 135 см. Есть полка, тумба, надстройка.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>135/135/60</dimensions>
+    </offer>
+    <offer id="7579291080" available="true">
+      <url>https://мебель-фаворит.рф/kompyuternye-stoly/kompyuternyy-stol-chelsi-7579291080/</url>
+      <price>6433</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/Chelsi/7579291080/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/Chelsi/7579291080/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/Chelsi/7579291080/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/Chelsi/7579291080/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/Chelsi/7579291080/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7579291080</vendorCode>
+      <name>Компьютерный стол Челси (Миф)</name>
+      <description>Компьютерный стол Челси. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 100×52×76 см
+• Цвет: Графит
+• Форма: Прямоугольный
+• Регулировка высоты: Нет
+• Материал столешницы: ЛДСП
+• Материал основания: ЛДСП
+• Что есть у стола: Тумба, Ящик
+
+Компьютерный стол шириной 100 см. Есть тумба, ящик. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>100/76/52</dimensions>
+    </offer>
+    <offer id="7579128750" available="true">
+      <url>https://мебель-фаворит.рф/kompyuternye-stoly/kompyuternyy-stol-chelsi-7579128750/</url>
+      <price>6567</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/Chelsi/7579128750/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/Chelsi/7579128750/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/Chelsi/7579128750/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/Chelsi/7579128750/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/Chelsi/7579128750/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7579128750</vendorCode>
+      <name>Компьютерный стол Челси (Миф)</name>
+      <description>Компьютерный стол Челси. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 100×52×76 см
+• Цвет: Дуб сонома-белый глянец
+• Форма: Прямоугольный
+• Регулировка высоты: Нет
+• Материал столешницы: ЛДСП
+• Материал основания: ЛДСП
+• Что есть у стола: Тумба, Ящик
+
+Компьютерный стол шириной 100 см. Есть тумба, ящик. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>100/76/52</dimensions>
+    </offer>
+    <offer id="7579810821" available="true">
+      <url>https://мебель-фаворит.рф/kompyuternye-stoly/kompyuternyy-stol-chelsi-7579810821/</url>
+      <price>9883</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/Chelsi/7579810821/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/Chelsi/7579810821/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/Chelsi/7579810821/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/Chelsi/7579810821/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/Chelsi/7579810821/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7579810821</vendorCode>
+      <name>Компьютерный стол Челси (Миф)</name>
+      <description>Компьютерный стол Челси. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 138×49×76 см
+• Цвет: Дуб сонома-белый глянец
+• Форма: Прямоугольный
+• Регулировка высоты: Нет
+• Материал столешницы: ЛДСП
+• Материал основания: ЛДСП
+• Что есть у стола: Тумба, Ящик
+
+Компьютерный стол шириной 138 см. Есть тумба, ящик. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>138/76/49</dimensions>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
