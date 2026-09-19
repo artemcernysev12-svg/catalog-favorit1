@@ -1,0 +1,1532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-19 10:15">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Комоды и Тумбы </category>
+    </categories>
+    <offers>
+    <offer id="7355077100" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-angara-7355077100/</url>
+      <price>14233</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Angara/7355077100/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Angara/7355077100/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Angara/7355077100/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Angara/7355077100/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Angara/7355077100/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7355077100</vendorCode>
+      <name>Комод Ангара (Миф)</name>
+      <description>Комод Ангара. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 160×47×104 см
+• Цвет: Белый глянец-дуб сонома
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 1
+• Ящики: 4
+
+Комод шириной 160 см. Есть ящики, полки. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>160/104/47</dimensions>
+    </offer>
+    <offer id="7355607936" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-angara-7355607936/</url>
+      <price>14067</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Angara/7355607936/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Angara/7355607936/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Angara/7355607936/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7355607936</vendorCode>
+      <name>Комод Ангара (Миф)</name>
+      <description>Комод Ангара. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 160×47×104 см
+• Цвет: Графит-дуб крафт белый
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 1
+• Ящики: 4
+
+Комод шириной 160 см. Есть ящики, полки. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>160/104/47</dimensions>
+    </offer>
+    <offer id="7355387222" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-magnoliya-7355387222/</url>
+      <price>15350</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Magnoliya/7355387222/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Magnoliya/7355387222/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Magnoliya/7355387222/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7355387222</vendorCode>
+      <name>Комод Магнолия (Миф)</name>
+      <description>Комод Магнолия. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 150×44×81 см
+• Цвет: Белый глянец
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики
+• Двери: 3
+
+Комод шириной 150 см. Есть ящики. Материал — ЛДСП и МДФ.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>150/81/44</dimensions>
+    </offer>
+    <offer id="7355374559" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-magnoliya-7355374559/</url>
+      <price>15217</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Magnoliya/7355374559/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Magnoliya/7355374559/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Magnoliya/7355374559/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Magnoliya/7355374559/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Magnoliya/7355374559/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7355374559</vendorCode>
+      <name>Комод Магнолия (Миф)</name>
+      <description>Комод Магнолия. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 150×44×81 см
+• Цвет: Дерево-орех
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики
+• Двери: 3
+
+Комод шириной 150 см. Есть ящики. Материал — ЛДСП и МДФ.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>150/81/44</dimensions>
+    </offer>
+    <offer id="7323782045" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-martina-4-yaschika-7323782045/</url>
+      <price>7667</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/4%20yaschika/7323782045/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/4%20yaschika/7323782045/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/4%20yaschika/7323782045/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/4%20yaschika/7323782045/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/4%20yaschika/7323782045/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7323782045</vendorCode>
+      <name>Комод Мартина 4 ящика (Миф)</name>
+      <description>Комод Мартина 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×43×81 см
+• Цвет: Белый глянец-дуб сонома
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП. В серии «Мартина» есть ещё кровати, шкафы, компьютерные столы, прикроватные тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Мартина Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/81/43</dimensions>
+    </offer>
+    <offer id="7931274362" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-martina-4-yaschika-7931274362/</url>
+      <price>7417</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/4%20yaschika/7931274362/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/4%20yaschika/7931274362/02.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7931274362</vendorCode>
+      <name>Комод Мартина 4 ящика (Миф)</name>
+      <description>Комод Мартина 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×43×81 см
+• Цвет: Дуб крафт серый-кашемир
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП. В серии «Мартина» есть ещё кровати, шкафы, компьютерные столы, прикроватные тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Мартина Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/81/43</dimensions>
+    </offer>
+    <offer id="7931082366" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-martina-6-yaschikov-7931082366/</url>
+      <price>7533</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/6%20yaschikov/7931082366/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/6%20yaschikov/7931082366/02.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7931082366</vendorCode>
+      <name>Комод Мартина 6 ящиков (Миф)</name>
+      <description>Комод Мартина 6 ящиков. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 40×43×116 см
+• Цвет: Дуб крафт серый-кашемир
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 6
+
+Комод шириной 40 см. Есть ящики. Материал — ЛДСП. В серии «Мартина» есть ещё кровати, шкафы, компьютерные столы, прикроватные тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Мартина Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>40/116/43</dimensions>
+    </offer>
+    <offer id="7931897881" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-martina-6-yaschikov-7931897881/</url>
+      <price>7700</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/6%20yaschikov/7931897881/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/6%20yaschikov/7931897881/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/6%20yaschikov/7931897881/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/6%20yaschikov/7931897881/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/6%20yaschikov/7931897881/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7931897881</vendorCode>
+      <name>Комод Мартина 6 ящиков (Миф)</name>
+      <description>Комод Мартина 6 ящиков. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 40×43×116 см
+• Цвет: Белый-дуб сонома
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 6
+
+Комод шириной 40 см. Есть ящики. Материал — ЛДСП. В серии «Мартина» есть ещё кровати, шкафы, компьютерные столы, прикроватные тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Мартина Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>40/116/43</dimensions>
+    </offer>
+    <offer id="7323762275" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-martina-4-yaschika-7323762275/</url>
+      <price>7600</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/4%20yaschika/7323762275/01.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7323762275</vendorCode>
+      <name>Комод Мартина 4 ящика (Миф)</name>
+      <description>Комод Мартина 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×43×81 см
+• Цвет: Белый глянец-венге
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП. В серии «Мартина» есть ещё кровати, шкафы, компьютерные столы, прикроватные тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Мартина Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/81/43</dimensions>
+    </offer>
+    <offer id="7931597401" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-martina-6-yaschikov-7931597401/</url>
+      <price>7650</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/6%20yaschikov/7931597401/01.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7931597401</vendorCode>
+      <name>Комод Мартина 6 ящиков (Миф)</name>
+      <description>Комод Мартина 6 ящиков. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 40×43×116 см
+• Цвет: Белый-венге
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 6
+
+Комод шириной 40 см. Есть ящики. Материал — ЛДСП. В серии «Мартина» есть ещё кровати, шкафы, компьютерные столы, прикроватные тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Мартина Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>40/116/43</dimensions>
+    </offer>
+    <offer id="7323980464" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-martina-4-yaschika-7323980464/</url>
+      <price>7400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/4%20yaschika/7323980464/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/4%20yaschika/7323980464/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/4%20yaschika/7323980464/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/4%20yaschika/7323980464/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/4%20yaschika/7323980464/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7323980464</vendorCode>
+      <name>Комод Мартина 4 ящика (Миф)</name>
+      <description>Комод Мартина 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×43×81 см
+• Цвет: Графит-дуб крафт золотой
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП. В серии «Мартина» есть ещё кровати, шкафы, компьютерные столы, прикроватные тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Мартина Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/81/43</dimensions>
+    </offer>
+    <offer id="7930948187" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-martina-6-yaschikov-7930948187/</url>
+      <price>7517</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/6%20yaschikov/7930948187/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/6%20yaschikov/7930948187/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/6%20yaschikov/7930948187/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/6%20yaschikov/7930948187/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Martina/6%20yaschikov/7930948187/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7930948187</vendorCode>
+      <name>Комод Мартина 6 ящиков (Миф)</name>
+      <description>Комод Мартина 6 ящиков. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 40×43×116 см
+• Цвет: Графит-дуб крафт золотой
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 6
+
+Комод шириной 40 см. Есть ящики. Материал — ЛДСП. В серии «Мартина» есть ещё кровати, шкафы, компьютерные столы, прикроватные тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Мартина Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>40/116/43</dimensions>
+    </offer>
+    <offer id="7899182788" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-nord-1-dver-4-yaschika-7899182788/</url>
+      <price>11583</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7899182788/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7899182788/02.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899182788</vendorCode>
+      <name>Комод Норд 1 дверь 4 ящика (Миф)</name>
+      <description>Комод Норд 1 дверь 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×45×90 см
+• Цвет: Дуб крафт серый-кашемир
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 1
+• Ящики: 4
+
+Комод шириной 120 см. Есть ящики, полки. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, шкафы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/90/45</dimensions>
+    </offer>
+    <offer id="7899582730" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-nord-2-dveri-4-yaschika-7899582730/</url>
+      <price>14717</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7899582730/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7899582730/02.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899582730</vendorCode>
+      <name>Комод Норд 2 двери 4 ящика (Миф)</name>
+      <description>Комод Норд 2 двери 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 160×45×90 см
+• Цвет: Дуб крафт серый-кашемир
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 4
+
+Комод шириной 160 см. Есть ящики, полки. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, шкафы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>160/90/45</dimensions>
+    </offer>
+    <offer id="7611814218" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-nord-1-dver-4-yaschika-7611814218/</url>
+      <price>11983</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611814218/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611814218/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611814218/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611814218/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611814218/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7611814218</vendorCode>
+      <name>Комод Норд 1 дверь 4 ящика (Миф)</name>
+      <description>Комод Норд 1 дверь 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×45×90 см
+• Цвет: Кашемир
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 1
+• Ящики: 4
+
+Комод шириной 120 см. Есть ящики, полки. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, шкафы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/90/45</dimensions>
+    </offer>
+    <offer id="7611068674" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-nord-2-dveri-4-yaschika-7611068674/</url>
+      <price>15217</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611068674/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611068674/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611068674/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611068674/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611068674/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7611068674</vendorCode>
+      <name>Комод Норд 2 двери 4 ящика (Миф)</name>
+      <description>Комод Норд 2 двери 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 160×45×90 см
+• Цвет: Кашемир
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 4
+
+Комод шириной 160 см. Есть ящики, полки. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, шкафы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>160/90/45</dimensions>
+    </offer>
+    <offer id="7611820806" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-nord-1-dver-4-yaschika-7611820806/</url>
+      <price>11633</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611820806/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611820806/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611820806/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611820806/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611820806/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7611820806</vendorCode>
+      <name>Комод Норд 1 дверь 4 ящика (Миф)</name>
+      <description>Комод Норд 1 дверь 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×45×90 см
+• Цвет: Белый глянец
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 1
+• Ящики: 4
+
+Комод шириной 120 см. Есть ящики, полки. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, шкафы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/90/45</dimensions>
+      <count>2</count>
+    </offer>
+    <offer id="7611760533" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-nord-2-dveri-4-yaschika-7611760533/</url>
+      <price>14800</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611760533/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611760533/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611760533/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7611760533</vendorCode>
+      <name>Комод Норд 2 двери 4 ящика (Миф)</name>
+      <description>Комод Норд 2 двери 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 160×45×90 см
+• Цвет: Белый глянец
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 4
+
+Комод шириной 160 см. Есть ящики, полки. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, шкафы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>160/90/45</dimensions>
+    </offer>
+    <offer id="7610992424" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-nord-1-dver-4-yaschika-7610992424/</url>
+      <price>12217</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7610992424/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7610992424/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7610992424/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7610992424/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7610992424/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7610992424</vendorCode>
+      <name>Комод Норд 1 дверь 4 ящика (Миф)</name>
+      <description>Комод Норд 1 дверь 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×45×90 см
+• Цвет: Графит-изумруд
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 1
+• Ящики: 4
+
+Комод шириной 120 см. Есть ящики, полки. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, шкафы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/90/45</dimensions>
+    </offer>
+    <offer id="7611513925" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-nord-2-dveri-4-yaschika-7611513925/</url>
+      <price>15567</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611513925/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611513925/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611513925/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7611513925</vendorCode>
+      <name>Комод Норд 2 двери 4 ящика (Миф)</name>
+      <description>Комод Норд 2 двери 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 160×45×90 см
+• Цвет: Графит-изумруд
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 4
+
+Комод шириной 160 см. Есть ящики, полки. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, шкафы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>160/90/45</dimensions>
+    </offer>
+    <offer id="7899774571" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-nord-1-dver-4-yaschika-7899774571/</url>
+      <price>12383</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7899774571/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7899774571/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7899774571/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899774571</vendorCode>
+      <name>Комод Норд 1 дверь 4 ящика (Миф)</name>
+      <description>Комод Норд 1 дверь 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×45×90 см
+• Цвет: Дуб крафт-изумрудный
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 1
+• Ящики: 4
+
+Комод шириной 120 см. Есть ящики, полки. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, шкафы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/90/45</dimensions>
+    </offer>
+    <offer id="7899071753" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-nord-2-dveri-4-yaschika-7899071753/</url>
+      <price>15767</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7899071753/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7899071753/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7899071753/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899071753</vendorCode>
+      <name>Комод Норд 2 двери 4 ящика (Миф)</name>
+      <description>Комод Норд 2 двери 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 160×45×90 см
+• Цвет: Дуб крафт-изумрудный
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 4
+
+Комод шириной 160 см. Есть ящики, полки. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, шкафы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>160/90/45</dimensions>
+    </offer>
+    <offer id="7611460204" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-nord-1-dver-4-yaschika-7611460204/</url>
+      <price>11450</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611460204/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611460204/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611460204/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7611460204</vendorCode>
+      <name>Комод Норд 1 дверь 4 ящика (Миф)</name>
+      <description>Комод Норд 1 дверь 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×45×90 см
+• Цвет: Дуб крафт золотой
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 1
+• Ящики: 4
+
+Комод шириной 120 см. Есть ящики, полки. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, шкафы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/90/45</dimensions>
+    </offer>
+    <offer id="7611001490" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-nord-2-dveri-4-yaschika-7611001490/</url>
+      <price>14533</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611001490/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611001490/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611001490/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7611001490</vendorCode>
+      <name>Комод Норд 2 двери 4 ящика (Миф)</name>
+      <description>Комод Норд 2 двери 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 160×45×90 см
+• Цвет: Дуб крафт золотой
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 4
+
+Комод шириной 160 см. Есть ящики, полки. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, шкафы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>160/90/45</dimensions>
+    </offer>
+    <offer id="7611699992" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-nord-1-dver-4-yaschika-7611699992/</url>
+      <price>11417</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611699992/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611699992/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611699992/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7611699992</vendorCode>
+      <name>Комод Норд 1 дверь 4 ящика (Миф)</name>
+      <description>Комод Норд 1 дверь 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×45×90 см
+• Цвет: Дуб крафт светлый
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 1
+• Ящики: 4
+
+Комод шириной 120 см. Есть ящики, полки. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, шкафы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/90/45</dimensions>
+    </offer>
+    <offer id="7611705433" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-nord-2-dveri-4-yaschika-7611705433/</url>
+      <price>14483</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611705433/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611705433/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611705433/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611705433/04.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7611705433</vendorCode>
+      <name>Комод Норд 2 двери 4 ящика (Миф)</name>
+      <description>Комод Норд 2 двери 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 160×45×90 см
+• Цвет: Дуб крафт светлый
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 4
+
+Комод шириной 160 см. Есть ящики, полки. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, шкафы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>160/90/45</dimensions>
+    </offer>
+    <offer id="7611467189" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-nord-1-dver-4-yaschika-7611467189/</url>
+      <price>11433</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611467189/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611467189/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611467189/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611467189/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/1%20dver%204%20yaschika/7611467189/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7611467189</vendorCode>
+      <name>Комод Норд 1 дверь 4 ящика (Миф)</name>
+      <description>Комод Норд 1 дверь 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×45×90 см
+• Цвет: Графит
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 1
+• Ящики: 4
+
+Комод шириной 120 см. Есть ящики, полки. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, шкафы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/90/45</dimensions>
+    </offer>
+    <offer id="7611056038" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-nord-2-dveri-4-yaschika-7611056038/</url>
+      <price>14517</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611056038/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611056038/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Nord/2%20dveri%204%20yaschika/7611056038/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7611056038</vendorCode>
+      <name>Комод Норд 2 двери 4 ящика (Миф)</name>
+      <description>Комод Норд 2 двери 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 160×45×90 см
+• Цвет: Графит
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 4
+
+Комод шириной 160 см. Есть ящики, полки. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, шкафы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>160/90/45</dimensions>
+    </offer>
+    <offer id="7931470437" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-oliviya-7931470437/</url>
+      <price>16917</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7931470437/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7931470437/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7931470437/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7931470437/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7931470437/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7931470437</vendorCode>
+      <name>Комод Оливия (Миф)</name>
+      <description>Комод Оливия. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 200×42×83 см
+• Цвет: Глиненый серый-шарли мокко
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики, Полки
+• Двери: 4
+• Ящики: 1
+
+Комод шириной 200 см. Есть ящики, полки. Материал — ЛДСП и МДФ. В серии «Оливия (не металл)» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Оливия (не металл) Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>200/83/42</dimensions>
+    </offer>
+    <offer id="4220508955" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-oliviya-4-yaschika-4220508955/</url>
+      <price>11350</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/4%20yaschika/4220508955/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/4%20yaschika/4220508955/02.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>4220508955</vendorCode>
+      <name>Комод Оливия 4 ящика (Миф)</name>
+      <description>Комод Оливия 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 85×44×101 см
+• Цвет: Белый-белый глянец
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики, Полки
+• Ящики: 4
+
+Комод шириной 85 см. Есть ящики, полки. Материал — ЛДСП и МДФ. В серии «Оливия (не металл)» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Оливия (не металл) Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>85/101/44</dimensions>
+    </offer>
+    <offer id="7931219245" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-oliviya-7931219245/</url>
+      <price>17167</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7931219245/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7931219245/02.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7931219245</vendorCode>
+      <name>Комод Оливия (Миф)</name>
+      <description>Комод Оливия. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 200×42×83 см
+• Цвет: Белый-белый глянец
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики, Полки
+• Двери: 4
+• Ящики: 1
+
+Комод шириной 200 см. Есть ящики, полки. Материал — ЛДСП и МДФ. В серии «Оливия (не металл)» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Оливия (не металл) Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>200/83/42</dimensions>
+      <count>26</count>
+    </offer>
+    <offer id="7930956220" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-oliviya-7930956220/</url>
+      <price>16817</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7930956220/01.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7930956220</vendorCode>
+      <name>Комод Оливия (Миф)</name>
+      <description>Комод Оливия. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 200×42×83 см
+• Цвет: Голубой-шарли бриз
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики, Полки
+• Двери: 4
+• Ящики: 1
+
+Комод шириной 200 см. Есть ящики, полки. Материал — ЛДСП и МДФ. В серии «Оливия (не металл)» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Оливия (не металл) Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>200/83/42</dimensions>
+    </offer>
+    <offer id="7323720218" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-oliviya-7323720218/</url>
+      <price>17167</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7323720218/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7323720218/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7323720218/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7323720218/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7323720218/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7323720218</vendorCode>
+      <name>Комод Оливия (Миф)</name>
+      <description>Комод Оливия. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 200×42×83 см
+• Цвет: Графит-мрамор глянец
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики, Полки
+• Двери: 4
+• Ящики: 1
+
+Комод шириной 200 см. Есть ящики, полки. Материал — ЛДСП и МДФ. В серии «Оливия (не металл)» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Оливия (не металл) Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>200/83/42</dimensions>
+      <count>7</count>
+    </offer>
+    <offer id="7931776637" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-oliviya-4-yaschika-7931776637/</url>
+      <price>11833</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/4%20yaschika/7931776637/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/4%20yaschika/7931776637/02.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7931776637</vendorCode>
+      <name>Комод Оливия 4 ящика (Миф)</name>
+      <description>Комод Оливия 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 85×44×101 см
+• Цвет: Графит-графит глянец
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 85 см. Есть ящики. Материал — ЛДСП и МДФ. В серии «Оливия (не металл)» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Оливия (не металл) Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>85/101/44</dimensions>
+      <count>3</count>
+    </offer>
+    <offer id="7323937873" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-oliviya-7323937873/</url>
+      <price>17167</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7323937873/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7323937873/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7323937873/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7323937873/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7323937873/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7323937873</vendorCode>
+      <name>Комод Оливия (Миф)</name>
+      <description>Комод Оливия. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 200×42×83 см
+• Цвет: Графит-графит глянец
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики, Полки
+• Двери: 4
+• Ящики: 1
+
+Комод шириной 200 см. Есть ящики, полки. Материал — ЛДСП и МДФ. В серии «Оливия (не металл)» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Оливия (не металл) Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>200/83/42</dimensions>
+      <count>7</count>
+    </offer>
+    <offer id="7323604367" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-oliviya-7323604367/</url>
+      <price>15950</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7323604367/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7323604367/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7323604367/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7323604367/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Oliviya/7323604367/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7323604367</vendorCode>
+      <name>Комод Оливия (Миф)</name>
+      <description>Комод Оливия. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 200×42×83 см
+• Цвет: Графит-графит софт
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики, Полки
+• Двери: 4
+• Ящики: 1
+
+Комод шириной 200 см. Есть ящики, полки. Материал — ЛДСП и МДФ. В серии «Оливия (не металл)» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Оливия (не металл) Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>200/83/42</dimensions>
+    </offer>
+    <offer id="8187107167" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-rodzhina-8187107167/</url>
+      <price>6933</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Rodzhina/8187107167/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Rodzhina/8187107167/02.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>8187107167</vendorCode>
+      <name>Комод Роджина (Миф)</name>
+      <description>Комод Роджина. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 60×35×86 см
+• Цвет: Дуб крафт серый-кашемир
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики, Полки
+• Двери: 1
+• Ящики: 3
+
+Комод шириной 60 см. Есть ящики, полки. Материал — ЛДСП и МДФ. В серии «Роджина» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, шкафы, прихожие — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Роджина Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>60/86/35</dimensions>
+    </offer>
+    <offer id="8186990535" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-rodzhina-8186990535/</url>
+      <price>7183</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Rodzhina/8186990535/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Rodzhina/8186990535/02.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>8186990535</vendorCode>
+      <name>Комод Роджина (Миф)</name>
+      <description>Комод Роджина. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 60×35×86 см
+• Цвет: Дуб крафт-белый глянец
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики, Полки
+• Двери: 1
+• Ящики: 3
+
+Комод шириной 60 см. Есть ящики, полки. Материал — ЛДСП и МДФ. В серии «Роджина» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, шкафы, прихожие — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Роджина Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>60/86/35</dimensions>
+    </offer>
+    <offer id="8187118558" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-rodzhina-8187118558/</url>
+      <price>6967</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Rodzhina/8187118558/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Rodzhina/8187118558/02.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>8187118558</vendorCode>
+      <name>Комод Роджина (Миф)</name>
+      <description>Комод Роджина. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 60×35×86 см
+• Цвет: Графит-дуб крафт белый
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики, Полки
+• Двери: 1
+• Ящики: 3
+
+Комод шириной 60 см. Есть ящики, полки. Материал — ЛДСП и МДФ. В серии «Роджина» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, шкафы, прихожие — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Роджина Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>60/86/35</dimensions>
+    </offer>
+    <offer id="8187522802" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-rodzhina-8187522802/</url>
+      <price>7283</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Rodzhina/8187522802/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Rodzhina/8187522802/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Rodzhina/8187522802/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Rodzhina/8187522802/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Rodzhina/8187522802/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>8187522802</vendorCode>
+      <name>Комод Роджина (Миф)</name>
+      <description>Комод Роджина. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 60×35×86 см
+• Цвет: Дуб крафт-изумрудный
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики, Полки
+• Двери: 1
+• Ящики: 3
+
+Комод шириной 60 см. Есть ящики, полки. Материал — ЛДСП и МДФ. В серии «Роджина» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, шкафы, прихожие — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Роджина Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>60/86/35</dimensions>
+    </offer>
+    <offer id="8187756783" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-rodzhina-8187756783/</url>
+      <price>6900</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Rodzhina/8187756783/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Rodzhina/8187756783/02.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>8187756783</vendorCode>
+      <name>Комод Роджина (Миф)</name>
+      <description>Комод Роджина. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 60×35×86 см
+• Цвет: Дуб крафт-графит
+• Материал: ЛДСП, МДФ
+• Что есть у товара: Ящики, Полки
+• Двери: 1
+• Ящики: 3
+
+Комод шириной 60 см. Есть ящики, полки. Материал — ЛДСП и МДФ. В серии «Роджина» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, шкафы, прихожие — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Роджина Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>60/86/35</dimensions>
+    </offer>
+    <offer id="7931357817" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-fiesta-new-4-yaschika-7931357817/</url>
+      <price>8183</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/4%20yaschika/7931357817/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/4%20yaschika/7931357817/02.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7931357817</vendorCode>
+      <name>Комод Фиеста New 4 ящика (Миф)</name>
+      <description>Комод Фиеста New 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×44×90 см
+• Цвет: Дуб крафт серый-кашемир
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП. В серии «Фиеста NEW» есть ещё кровати — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Фиеста NEW Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/90/44</dimensions>
+    </offer>
+    <offer id="7931856540" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-fiesta-new-3-dveri-1-yaschik-7931856540/</url>
+      <price>8800</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/3%20dveri%201%20yaschik/7931856540/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/3%20dveri%201%20yaschik/7931856540/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/3%20dveri%201%20yaschik/7931856540/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7931856540</vendorCode>
+      <name>Комод Фиеста New 3 двери 1 ящик (Миф)</name>
+      <description>Комод Фиеста New 3 двери 1 ящик. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×44×90 см
+• Цвет: Дуб крафт серый-кашемир
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 3
+• Ящики: 1
+
+Комод шириной 120 см. Есть ящики, полки. Материал — ЛДСП. В серии «Фиеста NEW» есть ещё кровати — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Фиеста NEW Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/90/44</dimensions>
+    </offer>
+    <offer id="7931454297" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-fiesta-new-2-dveri-3-yaschika-7931454297/</url>
+      <price>10250</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/2%20dveri%203%20yaschika/7931454297/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/2%20dveri%203%20yaschika/7931454297/02.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7931454297</vendorCode>
+      <name>Комод Фиеста New 2 двери 3 ящика (Миф)</name>
+      <description>Комод Фиеста New 2 двери 3 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×44×90 см
+• Цвет: Дуб крафт серый-кашемир
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 3
+
+Комод шириной 120 см. Есть ящики, полки. Материал — ЛДСП. В серии «Фиеста NEW» есть ещё кровати — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Фиеста NEW Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/90/44</dimensions>
+    </offer>
+    <offer id="7931915440" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-fiesta-new-4-yaschika-7931915440/</url>
+      <price>8183</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/4%20yaschika/7931915440/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/4%20yaschika/7931915440/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/4%20yaschika/7931915440/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7931915440</vendorCode>
+      <name>Комод Фиеста New 4 ящика (Миф)</name>
+      <description>Комод Фиеста New 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×44×90 см
+• Цвет: Дуб крафт белый-графит
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП. В серии «Фиеста NEW» есть ещё кровати — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Фиеста NEW Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/90/44</dimensions>
+    </offer>
+    <offer id="7931606823" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-fiesta-new-3-dveri-1-yaschik-7931606823/</url>
+      <price>8800</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/3%20dveri%201%20yaschik/7931606823/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/3%20dveri%201%20yaschik/7931606823/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/3%20dveri%201%20yaschik/7931606823/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7931606823</vendorCode>
+      <name>Комод Фиеста New 3 двери 1 ящик (Миф)</name>
+      <description>Комод Фиеста New 3 двери 1 ящик. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×44×90 см
+• Цвет: Дуб крафт белый-графит
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 3
+• Ящики: 1
+
+Комод шириной 120 см. Есть ящики, полки. Материал — ЛДСП. В серии «Фиеста NEW» есть ещё кровати — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Фиеста NEW Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/90/44</dimensions>
+    </offer>
+    <offer id="7355758782" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-fiesta-new-2-dveri-3-yaschika-7355758782/</url>
+      <price>10250</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/2%20dveri%203%20yaschika/7355758782/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/2%20dveri%203%20yaschika/7355758782/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/2%20dveri%203%20yaschika/7355758782/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/2%20dveri%203%20yaschika/7355758782/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/2%20dveri%203%20yaschika/7355758782/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7355758782</vendorCode>
+      <name>Комод Фиеста New 2 двери 3 ящика (Миф)</name>
+      <description>Комод Фиеста New 2 двери 3 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×44×90 см
+• Цвет: Дуб крафт белый-графит
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 3
+
+Комод шириной 120 см. Есть ящики, полки. Материал — ЛДСП. В серии «Фиеста NEW» есть ещё кровати — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Фиеста NEW Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/90/44</dimensions>
+    </offer>
+    <offer id="7899620986" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-chelsi-3-yaschika-7899620986/</url>
+      <price>5583</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/3%20yaschika/7899620986/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/3%20yaschika/7899620986/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/3%20yaschika/7899620986/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899620986</vendorCode>
+      <name>Комод Челси 3 ящика (Миф)</name>
+      <description>Комод Челси 3 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×33×76 см
+• Цвет: Кашемир
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 3
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/76/33</dimensions>
+    </offer>
+    <offer id="7899277395" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-chelsi-4-yaschika-7899277395/</url>
+      <price>8300</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/4%20yaschika/7899277395/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/4%20yaschika/7899277395/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/4%20yaschika/7899277395/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899277395</vendorCode>
+      <name>Комод Челси 4 ящика (Миф)</name>
+      <description>Комод Челси 4 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×45×99 см
+• Цвет: Кашемир
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 4
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/99/45</dimensions>
+    </offer>
+    <offer id="7899710655" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-chelsi-6-yaschikov-7899710655/</url>
+      <price>10633</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/6%20yaschikov/7899710655/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/6%20yaschikov/7899710655/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/6%20yaschikov/7899710655/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899710655</vendorCode>
+      <name>Комод Челси 6 ящиков (Миф)</name>
+      <description>Комод Челси 6 ящиков. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×45×76 см
+• Цвет: Кашемир
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 6
+
+Комод шириной 120 см. Есть ящики. Материал — ЛДСП. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/76/45</dimensions>
+    </offer>
+    <offer id="7899200422" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-chelsi-8-yaschikov-7899200422/</url>
+      <price>13733</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/8%20yaschikov/7899200422/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/8%20yaschikov/7899200422/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/8%20yaschikov/7899200422/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899200422</vendorCode>
+      <name>Комод Челси 8 ящиков (Миф)</name>
+      <description>Комод Челси 8 ящиков. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×45×99 см
+• Цвет: Кашемир
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Ящики: 8
+
+Комод шириной 120 см. Есть ящики. Материал — ЛДСП. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/99/45</dimensions>
+    </offer>
+    <offer id="7899404250" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-chelsi-2-dveri-1-yaschik-7899404250/</url>
+      <price>5017</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/2%20dveri%201%20yaschik/7899404250/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/2%20dveri%201%20yaschik/7899404250/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/2%20dveri%201%20yaschik/7899404250/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899404250</vendorCode>
+      <name>Комод Челси 2 двери 1 ящик (Миф)</name>
+      <description>Комод Челси 2 двери 1 ящик. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×33×76 см
+• Цвет: Кашемир
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 1
+
+Комод шириной 80 см. Есть ящики, полки. Материал — ЛДСП. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/76/33</dimensions>
+    </offer>
+    <offer id="7899449888" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-chelsi-1-dver-3-yaschika-7899449888/</url>
+      <price>6150</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/1%20dver%203%20yaschika/7899449888/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/1%20dver%203%20yaschika/7899449888/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/1%20dver%203%20yaschika/7899449888/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/1%20dver%203%20yaschika/7899449888/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/1%20dver%203%20yaschika/7899449888/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899449888</vendorCode>
+      <name>Комод Челси 1 дверь 3 ящика (Миф)</name>
+      <description>Комод Челси 1 дверь 3 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×33×76 см
+• Цвет: Кашемир
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 1
+• Ящики: 3
+
+Комод шириной 80 см. Есть ящики, полки. Материал — ЛДСП. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/76/33</dimensions>
+    </offer>
+    <offer id="7899523974" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-chelsi-2-dveri-3-yaschika-7899523974/</url>
+      <price>9267</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/2%20dveri%203%20yaschika/7899523974/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/2%20dveri%203%20yaschika/7899523974/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/2%20dveri%203%20yaschika/7899523974/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899523974</vendorCode>
+      <name>Комод Челси 2 двери 3 ящика (Миф)</name>
+      <description>Комод Челси 2 двери 3 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×45×76 см
+• Цвет: Кашемир
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 3
+
+Комод шириной 120 см. Есть ящики, полки. Материал — ЛДСП. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/76/45</dimensions>
+    </offer>
+    <offer id="7899703735" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-chelsi-2-dveri-6-yaschikov-7899703735/</url>
+      <price>12767</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/2%20dveri%206%20yaschikov/7899703735/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/2%20dveri%206%20yaschikov/7899703735/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/2%20dveri%206%20yaschikov/7899703735/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899703735</vendorCode>
+      <name>Комод Челси 2 двери 6 ящиков (Миф)</name>
+      <description>Комод Челси 2 двери 6 ящиков. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×45×99 см
+• Цвет: Кашемир
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 6
+
+Комод шириной 120 см. Есть ящики, полки. Материал — ЛДСП. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/99/45</dimensions>
+    </offer>
+    <offer id="7323124635" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-chelsi-3-yaschika-7323124635/</url>
+      <price>5883</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/3%20yaschika/7323124635/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/3%20yaschika/7323124635/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/3%20yaschika/7323124635/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/3%20yaschika/7323124635/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/3%20yaschika/7323124635/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7323124635</vendorCode>
+      <name>Комод Челси 3 ящика (Миф)</name>
+      <description>Комод Челси 3 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×33×76 см
+• Цвет: Белый глянец
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Ящики: 3
+
+Комод шириной 80 см. Есть ящики, полки. Материал — ЛДСП. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/76/33</dimensions>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
