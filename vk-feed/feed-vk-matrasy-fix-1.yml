@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-19 18:52">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Матрасы</category>
+    </categories>
+    <offers>
+    <offer id="8091880940" available="true">
+      <url>https://мебель-фаворит.рф/matrasy/matras-titan-monolit-8091880940/</url>
+      <price>40600</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Titan/Monolit/8091880940/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Titan/Monolit/8091880940/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Titan/Monolit/8091880940/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Titan/Monolit/8091880940/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Titan/Monolit/8091880940/05.webp</picture>
+      <vendor>Корона</vendor>
+      <vendorCode>8091880940</vendorCode>
+      <name>Матрас Титан Монолит (Корона)</name>
+      <description>Матрас Титан Монолит. Фабрика Корона, серия «Титан».
+
+Характеристики:
+• Размер в цене: 80×200 см, высота 27 см
+• Тип: беспружинный, ортопедический
+• Жёсткость: жёсткий
+• Нагрузка на спальное место: без ограничения по весу
+• Чехол: трикотаж (Nice)
+• Особенности: двусторонний, Elax, бикоттон
+• Кому подойдёт: взрослым, спортсменам, тяжеловесам
+
+Состав: Наполнитель: пенополиуретан высокой плотности «hyperlax», бикоттон, высокоэластичный пенополиуретан «elax».
+
+Размеры (ширина × длина, см): 80×190, 80×200, 90×190, 90×200, 120×190, 120×200, 140×190, 140×200, 160×190, 160×200, 180×190, 180×200.
+Цена в карточке — за 80×200 см. Цены других размеров — на сайте по ссылке или напишите нам.
+Сейчас на складе: 140×200 — остальные размеры под заказ.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/27/200</dimensions>
+    </offer>
+    <offer id="8091481149" available="true">
+      <url>https://мебель-фаворит.рф/matrasy/matras-karbon-nova-8091481149/</url>
+      <price>12000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Karbon/Nova/8091481149/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Karbon/Nova/8091481149/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Karbon/Nova/8091481149/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Karbon/Nova/8091481149/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Karbon/Nova/8091481149/05.webp</picture>
+      <vendor>Корона</vendor>
+      <vendorCode>8091481149</vendorCode>
+      <name>Матрас Карбон Нова (Корона)</name>
+      <description>Матрас Карбон Нова. Фабрика Корона, серия «Карбон».
+
+Характеристики:
+• Размер в цене: 80×200 см, высота 19 см
+• Тип: беспружинный, ортопедический
+• Жёсткость сторон: жёсткий / средне-жёсткий
+• Нагрузка на спальное место: до 120 кг
+• Чехол: трикотаж (Carbon)
+• Особенности: двусторонний, угольная пена
+• Кому подойдёт: взрослым
+
+Состав: Наполнитель: пена «carbon foam» с угольной пропиткой, рифлёная ортопедическая массажная пена высокой плотности «ormaform», массажная пена высокой плотности.
+
+Размеры (ширина × длина, см): 80×190, 80×200, 90×190, 90×200, 120×190, 120×200, 140×190, 140×200, 160×190, 160×200, 180×190, 180×200.
+Цена в карточке — за 80×200 см. Цены других размеров — на сайте по ссылке или напишите нам.
+Сейчас на складе: 80×200, 160×200, 180×200 — остальные размеры под заказ.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/19/200</dimensions>
+      <count>6</count>
+    </offer>
+    <offer id="8091000677" available="true">
+      <url>https://мебель-фаворит.рф/matrasy/matras-linum-memori-8091000677/</url>
+      <price>21400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Linum/Memori/8091000677/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Linum/Memori/8091000677/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Linum/Memori/8091000677/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Linum/Memori/8091000677/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Linum/Memori/8091000677/05.webp</picture>
+      <vendor>Корона</vendor>
+      <vendorCode>8091000677</vendorCode>
+      <name>Матрас Линум Мемори (Корона)</name>
+      <description>Матрас Линум Мемори. Фабрика Корона, серия «Линум».
+
+Характеристики:
+• Размер в цене: 80×200 см, высота 25 см
+• Тип: пружинный, ортопедический
+• Пружинный блок: TFK 500
+• Жёсткость: средне-мягкий
+• Нагрузка на спальное место: до 120 кг
+• Чехол: трикотаж (Linum); жаккард (Luxe)
+• Особенности: односторонний, Memorix (память формы), кокос, угольная пена, Armoflex, войлок, лён, натуральный чехол
+• Кому подойдёт: взрослым
+
+Состав: Блок независимых пружин TFK 500 (14 см); короб «Armoflex»; короб ППУ; термовойлок; анатомическая пена с эффектом памяти «Memorix» 40 мм; кокосовая койра 10 мм; пена высокой плотности «Carbon Foam» с угольной пропиткой 25 мм. Чехол: трикотаж «Linum» или жаккард «Luxe», стёганные на синтепоне 300 г и ППУ 10 мм. Используется только с одной стороны (сторона Memorix).
+
+Размеры (ширина × длина, см): 80×190, 80×200, 90×190, 90×200, 120×190, 120×200, 140×190, 140×200, 160×190, 160×200, 180×190, 180×200.
+Цена в карточке — за 80×200 см. Цены других размеров — на сайте по ссылке или напишите нам.
+Сейчас на складе: 140×200 — остальные размеры под заказ.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/25/200</dimensions>
+    </offer>
+    <offer id="8091421794" available="true">
+      <url>https://мебель-фаворит.рф/matrasy/matras-premium-layt-8091421794/</url>
+      <price>17200</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Premium/Layt/8091421794/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Premium/Layt/8091421794/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Premium/Layt/8091421794/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Premium/Layt/8091421794/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Premium/Layt/8091421794/05.webp</picture>
+      <vendor>Корона</vendor>
+      <vendorCode>8091421794</vendorCode>
+      <name>Матрас Премиум Лайт (Корона)</name>
+      <description>Матрас Премиум Лайт. Фабрика Корона, серия «Премиум».
+
+Характеристики:
+• Размер в цене: 80×200 см, высота 23 см
+• Тип: пружинный, ортопедический
+• Пружинный блок: TFK 1000
+• Жёсткость: средне-жёсткий
+• Нагрузка на спальное место: до 120 кг
+• Чехол: трикотаж (Floris); жаккард (Lima)
+• Особенности: двусторонний, кокос, Armoflex, войлок, лён
+• Кому подойдёт: взрослым
+
+Состав: Блок независимых пружин «Multipocket» S1000 (14 см); короб «Armoflex»; короб ППУ; термовойлок; кокосовая койра 10 мм; массажная эластичная пена 20 мм. Чехол: трикотаж «Floris» или жаккард «Lima», стёганные на синтепоне 300 г.
+
+Размеры (ширина × длина, см): 80×190, 80×200, 90×190, 90×200, 120×190, 120×200, 140×190, 140×200, 160×190, 160×200, 180×190, 180×200.
+Цена в карточке — за 80×200 см. Цены других размеров — на сайте по ссылке или напишите нам.
+Сейчас на складе: 120×200, 160×200 — остальные размеры под заказ.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/23/200</dimensions>
+    </offer>
+    <offer id="8090942921" available="true">
+      <url>https://мебель-фаворит.рф/matrasy/matras-platinum-kokos-lateks-8090942921/</url>
+      <price>48200</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Platinum/Kokos-Lateks/8090942921/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Platinum/Kokos-Lateks/8090942921/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Platinum/Kokos-Lateks/8090942921/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Platinum/Kokos-Lateks/8090942921/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Platinum/Kokos-Lateks/8090942921/05.webp</picture>
+      <vendor>Корона</vendor>
+      <vendorCode>8090942921</vendorCode>
+      <name>Матрас Платинум Кокос-Латекс (Корона)</name>
+      <description>Матрас Платинум Кокос-Латекс. Фабрика Корона, серия «Платинум».
+
+Характеристики:
+• Размер в цене: 120×200 см, высота 28 см
+• Тип: пружинный, ортопедический
+• Пружинный блок: TFK 1000
+• Жёсткость: средне-жёсткий
+• Нагрузка на спальное место: до 130 кг
+• Чехол: трикотаж (Melange)
+• Особенности: двусторонний, кокос, латекс, Armoflex, войлок, лён
+• Кому подойдёт: взрослым, пожилым
+
+Состав: Блок независимых пружин «Multipocket» S1000 (14 см); короб «Armoflex»; короб ППУ; термовойлок; кокосовая койра 10 мм; натуральный латекс 30 мм. Чехол: бельгийский трикотаж «Melange», стёганный на синтепоне 600 г и ППУ 10 мм.
+
+Размеры (ширина × длина, см): 120×190, 120×200, 140×190, 140×200, 160×190, 160×200, 180×190, 180×200.
+Цена в карточке — за 120×200 см. Цены других размеров — на сайте по ссылке или напишите нам.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/28/200</dimensions>
+    </offer>
+    <offer id="8091807062" available="true">
+      <url>https://мебель-фаворит.рф/matrasy/matras-platinum-optima-8091807062/</url>
+      <price>36200</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Platinum/Optima/8091807062/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Platinum/Optima/8091807062/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Platinum/Optima/8091807062/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Platinum/Optima/8091807062/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Platinum/Optima/8091807062/05.webp</picture>
+      <vendor>Корона</vendor>
+      <vendorCode>8091807062</vendorCode>
+      <name>Матрас Платинум Оптима (Корона)</name>
+      <description>Матрас Платинум Оптима. Фабрика Корона, серия «Платинум».
+
+Характеристики:
+• Размер в цене: 120×200 см, высота 25 см
+• Тип: пружинный, ортопедический
+• Пружинный блок: TFK 1000
+• Жёсткость: мягкий
+• Нагрузка на спальное место: до 120 кг
+• Чехол: трикотаж (Melange)
+• Особенности: односторонний, кокос, Memorix (память формы), Armoflex, войлок, лён
+• Кому подойдёт: взрослым, пожилым
+
+Состав: Блок независимых пружин «Multipocket» S1000 (14 см); короб «Armoflex»; короб ППУ; термовойлок; кокосовая койра 10 мм; пена с эффектом памяти «Memorix» 40 мм. Чехол: бельгийский трикотаж «Melange». Используется только с одной стороны (сторона Memorix).
+
+Размеры (ширина × длина, см): 120×190, 120×200, 140×190, 140×200, 160×190, 160×200, 180×190, 180×200.
+Цена в карточке — за 120×200 см. Цены других размеров — на сайте по ссылке или напишите нам.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/25/200</dimensions>
+    </offer>
+    <offer id="8091366507" available="true">
+      <url>https://мебель-фаворит.рф/matrasy/matras-ultra-balans-8091366507/</url>
+      <price>18000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Ultra/Balans/Balans/8091366507/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Ultra/Balans/Balans/8091366507/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Ultra/Balans/Balans/8091366507/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Ultra/Balans/Balans/8091366507/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Ultra/Balans/Balans/8091366507/05.webp</picture>
+      <vendor>Корона</vendor>
+      <vendorCode>8091366507</vendorCode>
+      <name>Матрас Ультра Баланс (Корона)</name>
+      <description>Матрас Ультра Баланс. Фабрика Корона, серия «Ультра».
+
+Характеристики:
+• Размер в цене: 80×200 см, высота 22 см
+• Тип: беспружинный, ортопедический
+• Жёсткость сторон: средне-жёсткий / жёсткий
+• Нагрузка на спальное место: до 130 кг
+• Чехол: жаккард (Lima)
+• Особенности: двусторонний, кокос
+• Кому подойдёт: взрослым, спортсменам, тяжеловесам
+
+Состав: Ортопедическая пена «Ormaform» высокой плотности 150 мм (основа); рифлёная массажная пена «Ormaform» 35 мм; кокосовая койра 10 мм. Чехол: жаккард «Lima», стёганный на синтепоне 300 г.
+
+Размеры (ширина × длина, см): 80×190, 80×200, 90×190, 90×200, 120×190, 120×200, 140×190, 140×200, 160×190, 160×200, 180×190, 180×200.
+Цена в карточке — за 80×200 см. Цены других размеров — на сайте по ссылке или напишите нам.
+Сейчас на складе: 80×200, 90×200, 140×200, 160×200 — остальные размеры под заказ.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/22/200</dimensions>
+      <count>3</count>
+    </offer>
+    <offer id="8090898168" available="true">
+      <url>https://мебель-фаворит.рф/matrasy/matras-ultra-layt-kombi-8090898168/</url>
+      <price>8400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Ultra/Layt/Layt%20Kombi/8090898168/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Ultra/Layt/Layt%20Kombi/8090898168/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Ultra/Layt/Layt%20Kombi/8090898168/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Ultra/Layt/Layt%20Kombi/8090898168/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Matrasy/Korona/Ultra/Layt/Layt%20Kombi/8090898168/05.webp</picture>
+      <vendor>Корона</vendor>
+      <vendorCode>8090898168</vendorCode>
+      <name>Матрас Ультра Лайт Комби (Корона)</name>
+      <description>Матрас Ультра Лайт Комби. Фабрика Корона, серия «Ультра».
+
+Характеристики:
+• Размер в цене: 80×200 см, высота 16 см
+• Тип: беспружинный, ортопедический
+• Жёсткость: средне-жёсткий
+• Нагрузка на спальное место: до 100 кг
+• Чехол: трикотаж; жаккард (Aries)
+• Особенности: двусторонний
+• Кому подойдёт: взрослым
+
+Состав: Высокоэластичный пенополиуретан 140 мм; эластичная массажная пена 20 мм. Чехол на выбор: жаккард х/б «Aries» или трикот.
+
+Размеры (ширина × длина, см): 80×190, 80×200, 90×190, 90×200, 120×190, 120×200, 140×190, 140×200, 160×190, 160×200, 180×190, 180×200.
+Цена в карточке — за 80×200 см. Цены других размеров — на сайте по ссылке или напишите нам.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/16/200</dimensions>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
