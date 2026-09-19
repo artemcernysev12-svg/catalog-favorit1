@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-19 10:09">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Комоды и Тумбы </category>
+    </categories>
+    <offers>
+    <offer id="7259656154" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-k800-3-2-7259656154/</url>
+      <price>6105</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Era/K800/5%20yaschikov/7259656154/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Era/K800/5%20yaschikov/7259656154/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Era/K800/5%20yaschikov/7259656154/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Era/K800/5%20yaschikov/7259656154/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Era/K800/5%20yaschikov/7259656154/05.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7259656154</vendorCode>
+      <name>Комод К800 3/2 (Эра)</name>
+      <description>Комод К800 3/2. Фабрика Эра.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×44×83 см
+• Цвет: Белый гладкий
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Количество ящиков: 5 ящиков
+• Ящики: 5
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП. В серии «Эко» есть ещё кровати, спальные гарнитуры, прикроватные тумбы, шкафы, стеллажи — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Эко Эра».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/83/44</dimensions>
+      <count>5</count>
+    </offer>
+    <offer id="7259858484" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-k800-3-2-7259858484/</url>
+      <price>6105</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Era/K800/5%20yaschikov/7259858484/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Era/K800/5%20yaschikov/7259858484/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Era/K800/5%20yaschikov/7259858484/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Era/K800/5%20yaschikov/7259858484/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Era/K800/5%20yaschikov/7259858484/05.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7259858484</vendorCode>
+      <name>Комод К800 3/2 (Эра)</name>
+      <description>Комод К800 3/2. Фабрика Эра.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×44×83 см
+• Цвет: Дуб вотан-белый гладкий
+• Материал: ЛДСП
+• Что есть у товара: Ящики
+• Количество ящиков: 5 ящиков
+• Ящики: 5
+
+Комод шириной 80 см. Есть ящики. Материал — ЛДСП. В серии «Эко» есть ещё кровати, спальные гарнитуры, прикроватные тумбы, шкафы, стеллажи — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Эко Эра».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/83/44</dimensions>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
