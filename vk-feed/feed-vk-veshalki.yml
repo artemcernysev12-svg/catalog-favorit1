@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-19 16:02">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Прихожие </category>
+    </categories>
+    <offers>
+    <offer id="7995783014" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-alte-7995783014/</url>
+      <price>5032</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Alte/7995783014/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Alte/7995783014/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995783014</vendorCode>
+      <name>Вешалка Альте (Велес)</name>
+      <description>Вешалка Альте. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×21×165 см
+• Цвет: Белый лофт
+• Тип размещения: Настенное
+• Материал: ЛДСП
+• Количество крючков: 3
+
+Вешалка шириной 80 см. Материал — ЛДСП. В серии «Альте» есть ещё шкафы, тумбы, прихожие, зеркала — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Альте Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/165/21</dimensions>
+    </offer>
+    <offer id="7995362174" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-alte-7995362174/</url>
+      <price>5032</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Alte/7995362174/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Alte/7995362174/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995362174</vendorCode>
+      <name>Вешалка Альте (Велес)</name>
+      <description>Вешалка Альте. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×21×165 см
+• Цвет: Тефия
+• Тип размещения: Настенное
+• Материал: ЛДСП
+• Количество крючков: 3
+
+Вешалка шириной 80 см. Материал — ЛДСП. В серии «Альте» есть ещё шкафы, тумбы, прихожие, зеркала — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Альте Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/165/21</dimensions>
+      <count>3</count>
+    </offer>
+    <offer id="7995559721" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-byanko-7995559721/</url>
+      <price>2452</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Byanko/7995559721/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Byanko/7995559721/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995559721</vendorCode>
+      <name>Вешалка Бьянко (Велес)</name>
+      <description>Вешалка Бьянко. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 60×21×156 см
+• Цвет: Белый лофт
+• Тип размещения: Настенное
+• Материал: ЛДСП
+• Количество крючков: 3
+
+Вешалка шириной 60 см. Материал — ЛДСП. В серии «Бьянко» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Бьянко Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>60/156/21</dimensions>
+    </offer>
+    <offer id="7995821615" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-vita-7995821615/</url>
+      <price>3774</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Vita/7995821615/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Vita/7995821615/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995821615</vendorCode>
+      <name>Вешалка Вита (Велес)</name>
+      <description>Вешалка Вита. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 60×21×172 см
+• Цвет: Белый лофт/Софт айс
+• Тип размещения: Настенное
+• Материал: ЛДСП, МДФ
+• Количество крючков: 3
+
+Вешалка шириной 60 см. Материал — ЛДСП и МДФ. В серии «Вита» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Вита Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>60/172/21</dimensions>
+      <count>4</count>
+    </offer>
+    <offer id="7995745091" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-vita-7995745091/</url>
+      <price>3774</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Vita/7995745091/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Vita/7995745091/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995745091</vendorCode>
+      <name>Вешалка Вита (Велес)</name>
+      <description>Вешалка Вита. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 60×21×172 см
+• Цвет: Тёмно-серый лофт/Силк маус серый
+• Тип размещения: Настенное
+• Материал: ЛДСП, МДФ
+• Количество крючков: 3
+
+Вешалка шириной 60 см. Материал — ЛДСП и МДФ. В серии «Вита» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Вита Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>60/172/21</dimensions>
+      <count>6</count>
+    </offer>
+    <offer id="7995352797" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-vita-7995352797/</url>
+      <price>4274</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Vita/7995352797/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Vita/7995352797/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995352797</vendorCode>
+      <name>Вешалка Вита (Велес)</name>
+      <description>Вешалка Вита. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×21×172 см
+• Цвет: Белый лофт/Софт айс
+• Тип размещения: Настенное
+• Материал: ЛДСП, МДФ
+• Количество крючков: 3
+
+Вешалка шириной 80 см. Материал — ЛДСП и МДФ. В серии «Вита» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Вита Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/172/21</dimensions>
+      <count>2</count>
+    </offer>
+    <offer id="7995093846" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-vita-7995093846/</url>
+      <price>4274</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Vita/7995093846/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Vita/7995093846/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995093846</vendorCode>
+      <name>Вешалка Вита (Велес)</name>
+      <description>Вешалка Вита. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×21×172 см
+• Цвет: Тёмно-серый лофт/Силк маус серый
+• Тип размещения: Настенное
+• Материал: ЛДСП, МДФ
+• Количество крючков: 3
+
+Вешалка шириной 80 см. Материал — ЛДСП и МДФ. В серии «Вита» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Вита Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/172/21</dimensions>
+    </offer>
+    <offer id="7995158584" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-loren-7995158584/</url>
+      <price>6032</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Loren/7995158584/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Loren/7995158584/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995158584</vendorCode>
+      <name>Вешалка Лорэн (Велес)</name>
+      <description>Вешалка Лорэн. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×21×172 см
+• Цвет: Тефия
+• Тип размещения: Настенное
+• Материал: ЛДСП
+• Количество крючков: 3
+
+Вешалка шириной 80 см. Материал — ЛДСП. В серии «Лорэн» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Лорэн Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/172/21</dimensions>
+    </offer>
+    <offer id="7995860480" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-milana-7995860480/</url>
+      <price>2306</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Milana/7995860480/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Milana/7995860480/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995860480</vendorCode>
+      <name>Вешалка Милана (Велес)</name>
+      <description>Вешалка Милана. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 60×21×167 см
+• Цвет: Гаскон пайн
+• Тип размещения: Настенное
+• Материал: ЛДСП
+• Количество крючков: 3
+
+Вешалка шириной 60 см. Материал — ЛДСП. В серии «Милана» есть ещё кровати, спальные гарнитуры, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Милана Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>60/167/21</dimensions>
+    </offer>
+    <offer id="8375569221" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-milena-800-8375569221/</url>
+      <price>5533</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Milena/8375569221/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Milena/8375569221/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Veles/Milena/8375569221/03.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>8375569221</vendorCode>
+      <name>Вешалка Милена 800 (Велес)</name>
+      <description>Вешалка Милена 800. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×22×172 см
+• Цвет: Роквуд / Белый лофт
+• Тип размещения: Настенное
+• Материал: ЛДСП
+• Количество крючков: 3
+
+Вешалка шириной 80 см. Материал — ЛДСП. В серии «Милена» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Милена Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/172/22</dimensions>
+    </offer>
+    <offer id="8026924022" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-arbe-8026924022/</url>
+      <price>6815</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Mikon/Arbe/8026924022/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Mikon/Arbe/8026924022/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8026924022</vendorCode>
+      <name>Вешалка Арбе (Микон)</name>
+      <description>Вешалка Арбе. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 90×27×208 см
+• Цвет: Белый-палермо бруно
+• Тип размещения: Настенное
+• Материал: ЛДСП
+
+Вешалка шириной 90 см. Материал — ЛДСП. В серии «Арбе» есть ещё шкафы, тумбы, прихожие, зеркала — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Арбе Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>90/208/27</dimensions>
+    </offer>
+    <offer id="8058916529" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-kevin-8058916529/</url>
+      <price>3400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Mikon/Kevin/8058916529/01.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8058916529</vendorCode>
+      <name>Вешалка Кевин (Микон)</name>
+      <description>Вешалка Кевин. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 60×29×160 см
+• Цвет: Белый
+• Тип размещения: Настенное
+• Материал: ЛДСП
+
+Вешалка шириной 60 см. Материал — ЛДСП. В серии «Кевин» есть ещё шкафы, тумбы, прихожие, стеллажи, зеркала — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Кевин Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>60/160/29</dimensions>
+      <count>4</count>
+    </offer>
+    <offer id="8059867886" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-kevin-8059867886/</url>
+      <price>3400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Mikon/Kevin/8059867886/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Mikon/Kevin/8059867886/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059867886</vendorCode>
+      <name>Вешалка Кевин (Микон)</name>
+      <description>Вешалка Кевин. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 60×29×160 см
+• Цвет: Белый-дуб крафт золотой
+• Тип размещения: Настенное
+• Материал: ЛДСП
+
+Вешалка шириной 60 см. Материал — ЛДСП. В серии «Кевин» есть ещё шкафы, тумбы, прихожие, стеллажи, зеркала — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Кевин Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>60/160/29</dimensions>
+      <count>4</count>
+    </offer>
+    <offer id="8059670214" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-kevin-8059670214/</url>
+      <price>4500</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Mikon/Kevin/8059670214/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Mikon/Kevin/8059670214/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059670214</vendorCode>
+      <name>Вешалка Кевин (Микон)</name>
+      <description>Вешалка Кевин. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×29×160 см
+• Цвет: Белый-дуб крафт золотой
+• Тип размещения: Настенное
+• Материал: ЛДСП
+
+Вешалка шириной 80 см. Материал — ЛДСП. В серии «Кевин» есть ещё шкафы, тумбы, прихожие, стеллажи, зеркала — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Кевин Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/160/29</dimensions>
+      <count>3</count>
+    </offer>
+    <offer id="8059188234" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-kevin-8059188234/</url>
+      <price>4500</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Mikon/Kevin/8059188234/01.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059188234</vendorCode>
+      <name>Вешалка Кевин (Микон)</name>
+      <description>Вешалка Кевин. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×29×160 см
+• Цвет: Белый
+• Тип размещения: Настенное
+• Материал: ЛДСП
+
+Вешалка шириной 80 см. Материал — ЛДСП. В серии «Кевин» есть ещё шкафы, тумбы, прихожие, стеллажи, зеркала — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Кевин Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/160/29</dimensions>
+      <count>4</count>
+    </offer>
+    <offer id="8059707919" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-menks-8059707919/</url>
+      <price>3017</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Mikon/Menks/8059707919/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Mikon/Menks/8059707919/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059707919</vendorCode>
+      <name>Вешалка Мэнкс (Микон)</name>
+      <description>Вешалка Мэнкс. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 60×25×120 см
+• Цвет: Белый
+• Тип размещения: Настенное
+• Материал: ЛДСП
+
+Вешалка шириной 60 см. Материал — ЛДСП. В серии «Мэнкс» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Мэнкс Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>60/120/25</dimensions>
+    </offer>
+    <offer id="8059542529" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-menks-8059542529/</url>
+      <price>4583</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Mikon/Menks/8059542529/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Mikon/Menks/8059542529/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Mikon/Menks/8059542529/03.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059542529</vendorCode>
+      <name>Вешалка Мэнкс (Микон)</name>
+      <description>Вешалка Мэнкс. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×25×120 см
+• Цвет: Белый
+• Тип размещения: Настенное
+• Материал: ЛДСП
+
+Вешалка шириной 80 см. Материал — ЛДСП. В серии «Мэнкс» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Мэнкс Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/120/25</dimensions>
+      <count>2</count>
+    </offer>
+    <offer id="7931120543" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-nika-7931120543/</url>
+      <price>2289</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Era/Nika/7931120543/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Era/Nika/7931120543/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Era/Nika/7931120543/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Era/Nika/7931120543/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Era/Nika/7931120543/05.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7931120543</vendorCode>
+      <name>Вешалка Ника (Эра)</name>
+      <description>Вешалка Ника. Фабрика Эра.
+
+Характеристики:
+• Размер (Ш×Г×В): 50×20×155 см
+• Цвет: Белый гладкий
+• Тип размещения: Настенное
+• Материал: ЛДСП
+
+Вешалка шириной 50 см. Материал — ЛДСП. В серии «Ника» есть ещё шкафы, тумбы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Ника Эра».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>50/155/20</dimensions>
+    </offer>
+    <offer id="7931036754" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-nika-7931036754/</url>
+      <price>2289</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Era/Nika/7931036754/01.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7931036754</vendorCode>
+      <name>Вешалка Ника (Эра)</name>
+      <description>Вешалка Ника. Фабрика Эра.
+
+Характеристики:
+• Размер (Ш×Г×В): 50×20×155 см
+• Цвет: Венге
+• Тип размещения: Настенное
+• Материал: ЛДСП
+
+Вешалка шириной 50 см. Материал — ЛДСП. В серии «Ника» есть ещё шкафы, тумбы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Ника Эра».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>50/155/20</dimensions>
+    </offer>
+    <offer id="7930997259" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-nika-7930997259/</url>
+      <price>2289</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Era/Nika/7930997259/01.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7930997259</vendorCode>
+      <name>Вешалка Ника (Эра)</name>
+      <description>Вешалка Ника. Фабрика Эра.
+
+Характеристики:
+• Размер (Ш×Г×В): 50×20×155 см
+• Цвет: Ясень шимо
+• Тип размещения: Настенное
+• Материал: ЛДСП
+
+Вешалка шириной 50 см. Материал — ЛДСП. В серии «Ника» есть ещё шкафы, тумбы, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Ника Эра».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>50/155/20</dimensions>
+    </offer>
+    <offer id="8219523497" available="true">
+      <url>https://мебель-фаворит.рф/garderobnye/veshalka-diana-4-8219523497/</url>
+      <price>2077</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Rostok/Diana-4/Venge%20-%20dub%20molochnyy/8219523497/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garderobnye%20sistemy%20i%20veshalki/Rostok/Diana-4/Venge%20-%20dub%20molochnyy/8219523497/02.webp</picture>
+      <vendor>Росток</vendor>
+      <vendorCode>8219523497</vendorCode>
+      <name>Вешалка Диана-4 (Росток)</name>
+      <description>Вешалка Диана-4. Фабрика Росток.
+
+Характеристики:
+• Размер (Ш×Г×В): 60×25×101 см
+• Цвет: Венге-дуб молочный
+• Тип размещения: Настенное
+• Материал: ЛДСП
+• Количество крючков: 4
+
+Вешалка шириной 60 см. Материал — ЛДСП. В серии «Диана-4» есть ещё прихожие, шкафы, тумбы, стеллажи — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Диана-4 Росток».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>60/101/25</dimensions>
+      <count>1</count>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
