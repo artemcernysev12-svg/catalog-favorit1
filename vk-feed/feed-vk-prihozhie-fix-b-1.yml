@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-19 14:47">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Модульные прихожие</category>
+      <category id="2">Прихожие </category>
+    </categories>
+    <offers>
+    <offer id="7611065876" available="true">
+      <url>https://мебель-фаворит.рф/prihozhie/prihozhaya-chelsi-7611065876/</url>
+      <price>27283</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7611065876/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7611065876/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7611065876/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7611065876/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7611065876/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7611065876</vendorCode>
+      <name>Прихожая Челси (Миф)</name>
+      <description>Прихожая Челси. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 200×51×200 см
+• Цвет: Дуб сонома-белый глянец
+• Материал: ЛДСП
+• Что есть у товара: Зеркало
+
+Прихожая шириной 200 см. Есть зеркало. Материал — ЛДСП. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>200/200/51</dimensions>
+    </offer>
+    <offer id="7931403355" available="true">
+      <url>https://мебель-фаворит.рф/prihozhie/prihozhaya-viza-7931403355/</url>
+      <price>13493</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Era/Viza/7931403355/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Era/Viza/7931403355/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Era/Viza/7931403355/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Era/Viza/7931403355/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Era/Viza/7931403355/05.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7931403355</vendorCode>
+      <name>Прихожая Виза (Эра)</name>
+      <description>Прихожая Виза. Фабрика Эра.
+
+Характеристики:
+• Размер (Ш×Г×В): 121×35×203 см
+• Цвет: Ясень шимо темный-светлый
+• Материал: ЛДСП
+• Что есть у товара: Зеркало
+
+Прихожая шириной 121 см. Есть зеркало. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>121/203/35</dimensions>
+      <count>1</count>
+    </offer>
+    <offer id="7931268349" available="true">
+      <url>https://мебель-фаворит.рф/prihozhie/modulnaya-prihozhaya-nika-n4-era-7931268349/</url>
+      <price>24223</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Era/Nika%20N4/7931268349/01.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7931268349</vendorCode>
+      <name>Модульная прихожая Ника №4 (Эра)</name>
+      <description>Модульная прихожая Ника №4. Фабрика Эра.
+
+Характеристики:
+• Размер (Ш×Г×В): 175×35×203 см
+• Цвет: Белый гладкий
+• Материал: ЛДСП
+• Что есть у товара: Зеркало
+
+Модульная прихожая шириной 175 см. Есть зеркало. Материал — ЛДСП. В серии «Ника» есть ещё шкафы, тумбы, вешалки, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Ника Эра».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>175/203/35</dimensions>
+    </offer>
+    <offer id="8187179317" available="true">
+      <url>https://мебель-фаворит.рф/prihozhie/prihozhaya-flesh-8187179317/</url>
+      <price>9650</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Flesh/Prikhozhaya/8187179317/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Flesh/Prikhozhaya/8187179317/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Flesh/Prikhozhaya/8187179317/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Flesh/Prikhozhaya/8187179317/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Flesh/Prikhozhaya/8187179317/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>8187179317</vendorCode>
+      <name>Прихожая Флэш (Миф)</name>
+      <description>Прихожая Флэш. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 60×41×213 см
+• Цвет: Дуб крафт-браш мени грин
+• Материал: ЛДСП, МДФ
+• Конфигурация: Простая
+• Исполнение: Универсальное
+
+Прихожая шириной 60 см. Материал — ЛДСП и МДФ. В серии «Флэш» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Флэш Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>60/213/41</dimensions>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
