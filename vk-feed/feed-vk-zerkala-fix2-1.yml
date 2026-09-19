@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-19 16:33">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Зеркала</category>
+      <category id="2">Зеркала в прихожую </category>
+    </categories>
+    <offers>
+    <offer id="7995195098" available="true">
+      <url>https://мебель-фаворит.рф/zerkala/zerkalo-loren-7995195098/</url>
+      <price>3613</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Zerkala/Veles/Loren/7995195098/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Zerkala/Veles/Loren/7995195098/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995195098</vendorCode>
+      <name>Зеркало Лорэн (Велес)</name>
+      <description>Зеркало Лорэн. Фабрика Велес.
+
+Характеристики:
+• Ширина: 60 см
+• Высота: 128 см
+• Цвет: Тефия
+• Тип зеркала: Для прихожей
+• Расположение: Настенное
+• Форма: Прямоугольное
+• Рама/Окантовка: Есть
+
+Зеркало шириной 60 см. Цвет — тефия. В серии «Лорэн» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Лорэн Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
