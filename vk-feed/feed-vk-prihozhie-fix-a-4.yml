@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-19 14:47">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Модульные прихожие</category>
+      <category id="2">Прихожие </category>
+    </categories>
+    <offers>
+    <offer id="7899881708" available="true">
+      <url>https://мебель-фаворит.рф/prihozhie/prihozhaya-arbe-7899881708/</url>
+      <price>31615</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Arbe/7899881708/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Arbe/7899881708/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Arbe/7899881708/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Arbe/7899881708/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Arbe/7899881708/05.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>7899881708</vendorCode>
+      <name>Прихожая Арбе (Микон)</name>
+      <description>Прихожая Арбе. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 220×38×210 см
+• Цвет: Белый-палермо бруно
+• Материал: ЛДСП
+
+Прихожая шириной 220 см. Материал — ЛДСП. В серии «Арбе» есть ещё шкафы, тумбы, вешалки, зеркала — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Арбе Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>220/210/38</dimensions>
+    </offer>
+    <offer id="4347795114" available="true">
+      <url>https://мебель-фаворит.рф/prihozhie/prihozhaya-briz-4347795114/</url>
+      <price>35816</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Briz/4347795114/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Briz/4347795114/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>4347795114</vendorCode>
+      <name>Прихожая Бриз (Микон)</name>
+      <description>Прихожая Бриз. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 290×48×210 см
+• Цвет: Белый дуб юкон
+• Материал: ЛДСП
+• Что есть у товара: Зеркало
+
+Прихожая шириной 290 см. Есть зеркало. Материал — ЛДСП. В серии «Бриз» есть ещё шкафы, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Бриз Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>290/210/48</dimensions>
+    </offer>
+    <offer id="8027286113" available="true">
+      <url>https://мебель-фаворит.рф/prihozhie/prihozhaya-briz-8027286113/</url>
+      <price>11283</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Briz/8027286113/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Briz/8027286113/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Briz/8027286113/03.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8027286113</vendorCode>
+      <name>Прихожая Бриз (Микон)</name>
+      <description>Прихожая Бриз. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 100×40×210 см
+• Цвет: Белый-дуб юкон
+• Материал: ЛДСП, Стекло
+• Что есть у товара: Зеркало
+
+Прихожая шириной 100 см. Есть зеркало. Материал — ЛДСП и Стекло. В серии «Бриз» есть ещё шкафы, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Бриз Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>100/210/40</dimensions>
+    </offer>
+    <offer id="7771865616" available="true">
+      <url>https://мебель-фаворит.рф/prihozhie/modulnaya-prihozhaya-vitra-mikon-7771865616/</url>
+      <price>18900</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Vitra/7771865616/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Vitra/7771865616/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Vitra/7771865616/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Vitra/7771865616/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Vitra/7771865616/05.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>7771865616</vendorCode>
+      <name>Модульная прихожая Витра (Микон)</name>
+      <description>Модульная прихожая Витра. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 140×34×200 см
+• Цвет: Дуб крафт
+• Материал: ЛДСП, Стекло
+• Что есть у товара: Зеркало
+
+Модульная прихожая шириной 140 см. Есть зеркало. Материал — ЛДСП и Стекло. В серии «Витра» есть ещё шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Витра Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>140/200/34</dimensions>
+    </offer>
+    <offer id="4347529124" available="true">
+      <url>https://мебель-фаворит.рф/prihozhie/prihozhaya-kevin-4347529124/</url>
+      <price>32368</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Kevin/4347529124/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Kevin/4347529124/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Kevin/4347529124/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Kevin/4347529124/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mikon/Kevin/4347529124/05.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>4347529124</vendorCode>
+      <name>Прихожая Кевин (Микон)</name>
+      <description>Прихожая Кевин. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 200×37×215 см
+• Цвет: Дуб крафт золотой
+• Материал: ЛДСП
+• Что есть у товара: Зеркало
+
+Прихожая шириной 200 см. Есть зеркало. Материал — ЛДСП. В серии «Кевин» есть ещё шкафы, тумбы, вешалки, стеллажи, зеркала — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Кевин Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>200/215/37</dimensions>
+    </offer>
+    <offer id="7898982292" available="true">
+      <url>https://мебель-фаворит.рф/prihozhie/prihozhaya-chelsi-7898982292/</url>
+      <price>15617</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7898982292/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7898982292/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7898982292/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7898982292/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7898982292/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7898982292</vendorCode>
+      <name>Прихожая Челси (Миф)</name>
+      <description>Прихожая Челси. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×37×200 см
+• Цвет: Белый глянец
+• Материал: ЛДСП
+• Что есть у товара: Зеркало
+
+Прихожая шириной 120 см. Есть зеркало. Материал — ЛДСП. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/200/37</dimensions>
+    </offer>
+    <offer id="7899609895" available="true">
+      <url>https://мебель-фаворит.рф/prihozhie/prihozhaya-chelsi-7899609895/</url>
+      <price>16150</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7899609895/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7899609895/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7899609895/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7899609895/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7899609895/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899609895</vendorCode>
+      <name>Прихожая Челси (Миф)</name>
+      <description>Прихожая Челси. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×37×200 см
+• Цвет: Дуб сонома-белый глянец
+• Материал: ЛДСП
+• Что есть у товара: Зеркало
+
+Прихожая шириной 120 см. Есть зеркало. Материал — ЛДСП. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/200/37</dimensions>
+    </offer>
+    <offer id="7611065876" available="true">
+      <url>https://мебель-фаворит.рф/prihozhie/prihozhaya-chelsi-7611065876/</url>
+      <price>27283</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7611065876/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7611065876/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7611065876/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7611065876/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7611065876/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7611065876</vendorCode>
+      <name>Прихожая Челси (Миф)</name>
+      <description>Прихожая Челси. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 200×51×200 см
+• Цвет: Дуб сонома-белый глянец
+• Материал: ЛДСП
+• Что есть у товара: Зеркало
+
+Прихожая шириной 200 см. Есть зеркало. Материал — ЛДСП. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>200/200/51</dimensions>
+    </offer>
+    <offer id="7899485337" available="true">
+      <url>https://мебель-фаворит.рф/prihozhie/prihozhaya-chelsi-7899485337/</url>
+      <price>15500</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7899485337/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7899485337/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7899485337/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7899485337/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Chelsi/7899485337/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899485337</vendorCode>
+      <name>Прихожая Челси (Миф)</name>
+      <description>Прихожая Челси. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×37×200 см
+• Цвет: Графит
+• Материал: ЛДСП
+• Что есть у товара: Зеркало
+
+Прихожая шириной 120 см. Есть зеркало. Материал — ЛДСП. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/200/37</dimensions>
+    </offer>
+    <offer id="8155416890" available="true">
+      <url>https://мебель-фаворит.рф/prihozhie/modulnaya-prihozhaya-nord-n1-grafit-izumrudnyy-8155416890/</url>
+      <price>46817</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Nord/Modulnaya%20prikhozhaya/N1/8155416890/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Nord/Modulnaya%20prikhozhaya/N1/8155416890/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Nord/Modulnaya%20prikhozhaya/N1/8155416890/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Nord/Modulnaya%20prikhozhaya/N1/8155416890/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Prikhozhie%20i%20obuvnitsy/Mif/Nord/Modulnaya%20prikhozhaya/N1/8155416890/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>8155416890</vendorCode>
+      <name>Модульная прихожая Норд №1 графит / изумрудный (Миф)</name>
+      <description>Модульная прихожая Норд №1 графит / изумрудный. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 200×51×265 см
+• Цвет: Графит-изумрудный
+• Материал: ЛДСП, Стекло
+• Что есть у товара: Зеркало
+
+Модульная прихожая шириной 200 см. Есть зеркало. Материал — ЛДСП и Стекло. В серии «Норд» есть ещё ТВ-тумбы, шкафы, комоды, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>200/265/51</dimensions>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
