@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-19 16:33">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Зеркала</category>
+      <category id="2">Зеркала в прихожую </category>
+    </categories>
+    <offers>
+    <offer id="7995035476" available="true">
+      <url>https://мебель-фаворит.рф/zerkala/zerkalo-vita-7995035476/</url>
+      <price>4016</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Zerkala/Veles/Vita/7995035476/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Zerkala/Veles/Vita/7995035476/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995035476</vendorCode>
+      <name>Зеркало Вита (Велес)</name>
+      <description>Зеркало Вита. Фабрика Велес.
+
+Характеристики:
+• Ширина: 60 см
+• Высота: 140 см
+• Цвет: Белый лофт
+• Тип зеркала: Для прихожей
+• Расположение: Настенное
+• Форма: Прямоугольное
+• Рама/Окантовка: Есть
+
+Зеркало шириной 60 см. Цвет — белый лофт. В серии «Вита» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Вита Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <count>6</count>
+    </offer>
+    <offer id="7995195098" available="true">
+      <url>https://мебель-фаворит.рф/zerkala/zerkalo-loren-7995195098/</url>
+      <price>3613</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Zerkala/Veles/Loren/7995195098/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Zerkala/Veles/Loren/7995195098/02.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995195098</vendorCode>
+      <name>Зеркало Лорэн (Велес)</name>
+      <description>Зеркало Лорэн. Фабрика Велес.
+
+Характеристики:
+• Ширина: 60 см
+• Высота: 128 см
+• Цвет: Тефия
+• Тип зеркала: Для прихожей
+• Расположение: Настенное
+• Форма: Прямоугольное
+• Рама/Окантовка: Есть
+
+Зеркало шириной 60 см. Цвет — тефия. В серии «Лорэн» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Лорэн Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+    </offer>
+    <offer id="8059035934" available="true">
+      <url>https://мебель-фаворит.рф/zerkala/zerkalo-sonata-8059035934/</url>
+      <price>3167</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Zerkala/Mikon/Sonata/8059035934/01.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059035934</vendorCode>
+      <name>Зеркало Соната (Микон)</name>
+      <description>Зеркало Соната. Фабрика Микон.
+
+Характеристики:
+• Ширина: 70 см
+• Высота: 70 см
+• Цвет: Белый
+• Тип зеркала: Для макияжа
+• Расположение: Настенное
+• Форма: Круглое
+• Рама/Окантовка: Есть
+
+Зеркало шириной 70 см. Цвет — белый. В серии «Соната» есть ещё кровати, спальные гарнитуры, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Соната Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <count>1</count>
+    </offer>
+    <offer id="7931165507" available="true">
+      <url>https://мебель-фаворит.рф/zerkala/zerkalo-nika-7931165507/</url>
+      <price>2351</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Zerkala/Era/Nika/7931165507/01.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7931165507</vendorCode>
+      <name>Зеркало Ника (Эра)</name>
+      <description>Зеркало Ника. Фабрика Эра.
+
+Характеристики:
+• Ширина: 50 см
+• Высота: 91 см
+• Цвет: Венге
+• Тип зеркала: Для прихожей
+• Расположение: Настенное
+• Форма: Прямоугольное
+• Рама/Окантовка: Нет
+
+Зеркало шириной 50 см. Цвет — венге. В серии «Ника» есть ещё шкафы, тумбы, прихожие, вешалки, стеллажи — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Ника Эра».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
