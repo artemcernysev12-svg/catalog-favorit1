@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-19 10:15">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Комоды и Тумбы </category>
+    </categories>
+    <offers>
+    <offer id="7355758782" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-fiesta-new-2-dveri-3-yaschika-7355758782/</url>
+      <price>10250</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/2%20dveri%203%20yaschika/7355758782/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/2%20dveri%203%20yaschika/7355758782/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/2%20dveri%203%20yaschika/7355758782/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/2%20dveri%203%20yaschika/7355758782/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Fiesta%20New/2%20dveri%203%20yaschika/7355758782/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7355758782</vendorCode>
+      <name>Комод Фиеста New 2 двери 3 ящика (Миф)</name>
+      <description>Комод Фиеста New 2 двери 3 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×44×90 см
+• Цвет: Дуб крафт белый-графит
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 2
+• Ящики: 3
+
+Комод шириной 120 см. Есть ящики, полки. Материал — ЛДСП. В серии «Фиеста NEW» есть ещё кровати — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Фиеста NEW Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/90/44</dimensions>
+    </offer>
+    <offer id="7899449888" available="true">
+      <url>https://мебель-фаворит.рф/komody/komod-chelsi-1-dver-3-yaschika-7899449888/</url>
+      <price>6150</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/1%20dver%203%20yaschika/7899449888/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/1%20dver%203%20yaschika/7899449888/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/1%20dver%203%20yaschika/7899449888/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/1%20dver%203%20yaschika/7899449888/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Komody%20i%20tumby/Mif/Chelsi/1%20dver%203%20yaschika/7899449888/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899449888</vendorCode>
+      <name>Комод Челси 1 дверь 3 ящика (Миф)</name>
+      <description>Комод Челси 1 дверь 3 ящика. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×33×76 см
+• Цвет: Кашемир
+• Материал: ЛДСП
+• Что есть у товара: Ящики, Полки
+• Двери: 1
+• Ящики: 3
+
+Комод шириной 80 см. Есть ящики, полки. Материал — ЛДСП. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/76/33</dimensions>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
