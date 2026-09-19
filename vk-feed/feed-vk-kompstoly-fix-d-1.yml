@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-19 12:26">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Компьютерные столы </category>
+    </categories>
+    <offers>
+    <offer id="7579239379" available="true">
+      <url>https://мебель-фаворит.рф/kompyuternye-stoly/kompyuternyy-stol-n1-7579239379/</url>
+      <price>7417</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/N1/7579239379/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/N1/7579239379/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/N1/7579239379/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/N1/7579239379/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kompyuternye%20stoly/Mif/N1/7579239379/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7579239379</vendorCode>
+      <name>Компьютерный стол №1 (Миф)</name>
+      <description>Компьютерный стол №1. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 145×50×135 см
+• Цвет: Дуб беленый
+• Форма: Прямоугольный
+• Регулировка высоты: Нет
+• Материал столешницы: ЛДСП
+• Материал основания: ЛДСП
+• Что есть у стола: Полка, Тумба, Ящик
+
+Компьютерный стол шириной 145 см. Есть полка, тумба, ящик.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>145/135/50</dimensions>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
