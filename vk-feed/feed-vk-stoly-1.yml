@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-22 17:19">
+<yml_catalog date="2026-09-22 18:11">
   <shop>
     <name>Мебель Фаворит</name>
     <company>Мебель Фаворит</company>
@@ -8,14 +8,15 @@
     <categories>
       <category id="1">Журнальные столики </category>
       <category id="2">Обеденные столы</category>
-      <category id="3">Туалетные столы</category>
+      <category id="3">Стол-книжка</category>
+      <category id="4">Туалетные столы</category>
     </categories>
     <offers>
     <offer id="4636004295" available="true">
       <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-4636004295/</url>
       <price>7900</price>
       <currencyId>RUB</currencyId>
-      <categoryId>3</categoryId>
+      <categoryId>4</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Grimernyy/4636004295/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Grimernyy/4636004295/02.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Grimernyy/4636004295/03.webp</picture>
@@ -45,7 +46,7 @@
       <url>https://мебель-фаворит.рф/stoly/stol-knizhka-komfort-2-7995670609/</url>
       <price>4790</price>
       <currencyId>RUB</currencyId>
-      <categoryId>2</categoryId>
+      <categoryId>3</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Komfort-2/7995670609/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Komfort-2/7995670609/02.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Komfort-2/7995670609/03.webp</picture>
@@ -74,7 +75,7 @@
       <url>https://мебель-фаворит.рф/stoly/stol-knizhka-komfort-2-7995108969/</url>
       <price>4790</price>
       <currencyId>RUB</currencyId>
-      <categoryId>2</categoryId>
+      <categoryId>3</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Komfort-2/7995108969/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Komfort-2/7995108969/02.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Komfort-2/7995108969/03.webp</picture>
@@ -210,7 +211,7 @@
       <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-milana-7995859401/</url>
       <price>11823</price>
       <currencyId>RUB</currencyId>
-      <categoryId>3</categoryId>
+      <categoryId>4</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Milana/7995859401/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Milana/7995859401/02.webp</picture>
       <vendor>Велес</vendor>
@@ -237,7 +238,7 @@
       <url>https://мебель-фаворит.рф/stoly/konsol-s-yaschikom-tefiya-7579850762/</url>
       <price>5161</price>
       <currencyId>RUB</currencyId>
-      <categoryId>3</categoryId>
+      <categoryId>4</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Tefiya/7579850762/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Tefiya/7579850762/02.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Tefiya/7579850762/03.webp</picture>
@@ -271,7 +272,7 @@
       <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-asti-8058945050/</url>
       <price>4883</price>
       <currencyId>RUB</currencyId>
-      <categoryId>3</categoryId>
+      <categoryId>4</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mikon/Asti/8058945050/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mikon/Asti/8058945050/02.webp</picture>
       <vendor>Микон</vendor>
@@ -298,7 +299,7 @@
       <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-asti-8059356530/</url>
       <price>4883</price>
       <currencyId>RUB</currencyId>
-      <categoryId>3</categoryId>
+      <categoryId>4</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mikon/Asti/8059356530/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mikon/Asti/8059356530/02.webp</picture>
       <vendor>Микон</vendor>
@@ -308,7 +309,7 @@
 
 Характеристики:
 • Размер (Ш×Д×В): 42×90×75 см
-• Цвет: Дуб крафт золотой-ателье
+• Цвет: Дуб крафт золотой / Ателье светлое
 • Форма: Прямоугольный
 • Раскладной механизм: Нет
 • Материал столешницы: ЛДСП
@@ -325,7 +326,7 @@
       <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-lill-8059647334/</url>
       <price>8300</price>
       <currencyId>RUB</currencyId>
-      <categoryId>3</categoryId>
+      <categoryId>4</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mikon/Lill/8059647334/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mikon/Lill/8059647334/02.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mikon/Lill/8059647334/03.webp</picture>
@@ -336,7 +337,7 @@
 
 Характеристики:
 • Размер (Ш×Д×В): 56×110×75 см
-• Цвет: Дуб крафт белый-табачный
+• Цвет: Дуб крафт белый / Дуб крафт табачный
 • Форма: Прямоугольный
 • Раскладной механизм: Нет
 • Материал столешницы: ЛДСП
@@ -354,7 +355,7 @@
       <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-menks-8059506858/</url>
       <price>6183</price>
       <currencyId>RUB</currencyId>
-      <categoryId>3</categoryId>
+      <categoryId>4</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mikon/Menks/8059506858/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mikon/Menks/8059506858/02.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mikon/Menks/8059506858/03.webp</picture>
@@ -543,7 +544,7 @@
       <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-sofiya-8058995326/</url>
       <price>9333</price>
       <currencyId>RUB</currencyId>
-      <categoryId>3</categoryId>
+      <categoryId>4</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mikon/Sofiya/8058995326/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mikon/Sofiya/8058995326/02.webp</picture>
       <vendor>Микон</vendor>
@@ -570,7 +571,7 @@
       <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-sofiya-8059824284/</url>
       <price>9333</price>
       <currencyId>RUB</currencyId>
-      <categoryId>3</categoryId>
+      <categoryId>4</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mikon/Sofiya/8059824284/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mikon/Sofiya/8059824284/02.webp</picture>
       <vendor>Микон</vendor>
@@ -934,7 +935,7 @@
       <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-eko-7931848848/</url>
       <price>5083</price>
       <currencyId>RUB</currencyId>
-      <categoryId>3</categoryId>
+      <categoryId>4</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Era/Eko/7931848848/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Era/Eko/7931848848/02.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Era/Eko/7931848848/03.webp</picture>
@@ -962,7 +963,7 @@
       <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-eko-7931089356/</url>
       <price>5083</price>
       <currencyId>RUB</currencyId>
-      <categoryId>3</categoryId>
+      <categoryId>4</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Era/Eko/7931089356/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Era/Eko/7931089356/02.webp</picture>
       <vendor>Эра</vendor>
@@ -989,7 +990,7 @@
       <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-eko-7931444684/</url>
       <price>5083</price>
       <currencyId>RUB</currencyId>
-      <categoryId>3</categoryId>
+      <categoryId>4</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Era/Eko/7931444684/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Era/Eko/7931444684/02.webp</picture>
       <vendor>Эра</vendor>
@@ -1016,7 +1017,7 @@
       <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-eko-7931025043/</url>
       <price>5083</price>
       <currencyId>RUB</currencyId>
-      <categoryId>3</categoryId>
+      <categoryId>4</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Era/Eko/7931025043/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Era/Eko/7931025043/02.webp</picture>
       <vendor>Эра</vendor>
@@ -1043,7 +1044,7 @@
       <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-milana-8219561683/</url>
       <price>8292</price>
       <currencyId>RUB</currencyId>
-      <categoryId>3</categoryId>
+      <categoryId>4</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/Milana/Yasen%20ankor%20-%20dub%20elza/8219561683/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/Milana/Yasen%20ankor%20-%20dub%20elza/8219561683/02.webp</picture>
       <vendor>Росток</vendor>
@@ -1289,7 +1290,7 @@
       <url>https://мебель-фаворит.рф/stoly/stol-knizhka-st-1-0-8219572818/</url>
       <price>4815</price>
       <currencyId>RUB</currencyId>
-      <categoryId>2</categoryId>
+      <categoryId>3</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1.0/Venge%20-%20dub%20molochnyy/8219572818/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1.0/Venge%20-%20dub%20molochnyy/8219572818/02.webp</picture>
       <vendor>Росток</vendor>
@@ -1316,7 +1317,7 @@
       <url>https://мебель-фаворит.рф/stoly/stol-knizhka-st-1-0-8219864176/</url>
       <price>5046</price>
       <currencyId>RUB</currencyId>
-      <categoryId>2</categoryId>
+      <categoryId>3</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1.0/Dub%20barrik/8219864176/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1.0/Dub%20barrik/8219864176/02.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1.0/Dub%20barrik/8219864176/03.webp</picture>
@@ -1345,7 +1346,7 @@
       <url>https://мебель-фаворит.рф/stoly/stol-knizhka-st-1m-8219018084/</url>
       <price>5708</price>
       <currencyId>RUB</currencyId>
-      <categoryId>2</categoryId>
+      <categoryId>3</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1M/Venge%20-%20dub%20molochnyy/8219018084/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1M/Venge%20-%20dub%20molochnyy/8219018084/02.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1M/Venge%20-%20dub%20molochnyy/8219018084/03.webp</picture>
@@ -1374,7 +1375,7 @@
       <url>https://мебель-фаворит.рф/stoly/stol-knizhka-st-1m-8219751106/</url>
       <price>6000</price>
       <currencyId>RUB</currencyId>
-      <categoryId>2</categoryId>
+      <categoryId>3</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1M/Dub%20barrik/8219751106/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1M/Dub%20barrik/8219751106/02.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1M/Dub%20barrik/8219751106/03.webp</picture>
@@ -1403,7 +1404,7 @@
       <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-kim-8187246011/</url>
       <price>10417</price>
       <currencyId>RUB</currencyId>
-      <categoryId>3</categoryId>
+      <categoryId>4</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mif/Kim/Venge%20-%20belyy%20glyanets/8187246011/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mif/Kim/Venge%20-%20belyy%20glyanets/8187246011/02.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mif/Kim/Venge%20-%20belyy%20glyanets/8187246011/03.webp</picture>
@@ -1414,7 +1415,7 @@
 
 Характеристики:
 • Размер (Ш×Д×В): 44×140×82 см
-• Цвет: Венге-белый глянец
+• Цвет: Венге / Белый глянец
 • Форма: Прямоугольный
 • Раскладной механизм: Нет
 • Материал столешницы: ЛДСП
@@ -1432,7 +1433,7 @@
       <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-kim-8187552915/</url>
       <price>10117</price>
       <currencyId>RUB</currencyId>
-      <categoryId>3</categoryId>
+      <categoryId>4</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mif/Kim/Sonoma%20-%20belyy%20glyanets/8187552915/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mif/Kim/Sonoma%20-%20belyy%20glyanets/8187552915/02.webp</picture>
       <vendor>Миф</vendor>
@@ -1442,7 +1443,7 @@
 
 Характеристики:
 • Размер (Ш×Д×В): 44×140×82 см
-• Цвет: Сонома-белый глянец
+• Цвет: Дуб сонома / Белый глянец
 • Форма: Прямоугольный
 • Раскладной механизм: Нет
 • Материал столешницы: ЛДСП
@@ -1459,7 +1460,7 @@
       <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-kim-8187332891/</url>
       <price>10033</price>
       <currencyId>RUB</currencyId>
-      <categoryId>3</categoryId>
+      <categoryId>4</categoryId>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mif/Kim/Sonoma%20-%20grafit%20soft/8187332891/01.webp</picture>
       <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mif/Kim/Sonoma%20-%20grafit%20soft/8187332891/02.webp</picture>
       <vendor>Миф</vendor>
@@ -1469,7 +1470,7 @@
 
 Характеристики:
 • Размер (Ш×Д×В): 44×140×82 см
-• Цвет: Сонома-графит софт
+• Цвет: Дуб сонома / Графит софт NEW
 • Форма: Прямоугольный
 • Раскладной механизм: Нет
 • Материал столешницы: ЛДСП
