@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-22 11:32">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Антресоли к шкафам</category>
+      <category id="2">Готовые решения</category>
+      <category id="3">Двухстворчатые шкафы</category>
+      <category id="4">Одностворчатые шкафы </category>
+      <category id="5">Пятистворчатые шкафы</category>
+      <category id="6">Трехстворчатые шкафы</category>
+      <category id="7">Угловые шкафы</category>
+      <category id="8">Четырехстворчатые шкафы</category>
+      <category id="9">Шкафы-купе</category>
+    </categories>
+    <offers>
+    <offer id="8155819825" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/komplekt-shkafov-nord-n2-8155819825/</url>
+      <price>77450</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Komplekty/Komplekt%20N2/8155819825/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Komplekty/Komplekt%20N2/8155819825/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Komplekty/Komplekt%20N2/8155819825/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Komplekty/Komplekt%20N2/8155819825/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Komplekty/Komplekt%20N2/8155819825/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>8155819825</vendorCode>
+      <name>Комплект шкафов Норд №2 (Миф)</name>
+      <description>Комплект шкафов Норд №2. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 211×171×265 см
+• Цвет: Графит
+• Тип дверей: Распашные
+• Количество створок: Больше 5
+• Форма: Угловой
+• Материал: ЛДСП
+
+Состав комплекта:
+• Шкаф 4-х створчатый Норд — 160×51×223 см
+• Шкаф 3-х створчатый Норд — 120×51×223 см
+• Пенал угловой Норд — 51×51×223 см
+• Антресоль 4-х створчатая Норд — 160×51×41 см
+• Антресоль 3-х створчатая Норд — 120×51×41 см
+• Антресоль к пеналу угловому Норд — 51×51×41 см
+
+Шкаф шириной 211 см. Что есть: больше 5. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>211/265/171</dimensions>
+    </offer>
+    <offer id="8155126869" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/komplekt-shkafov-nord-n5-8155126869/</url>
+      <price>41849</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Komplekty/Komplekt%20N5/8155126869/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Komplekty/Komplekt%20N5/8155126869/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Komplekty/Komplekt%20N5/8155126869/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>8155126869</vendorCode>
+      <name>Комплект шкафов Норд №5 (Миф)</name>
+      <description>Комплект шкафов Норд №5. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 200×51×223 см
+• Цвет: Дуб крафт белый
+• Тип дверей: Распашные
+• Количество створок: Пятистворчатый
+• Форма: Прямой
+• Материал: ЛДСП
+
+Состав комплекта:
+• Шкаф 2-х створчатый Норд ×2 — 80×51×223 см
+• Пенал со стеклом Норд — 40×51×223 см
+
+Шкаф шириной 200 см. Что есть: пятистворчатый. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>200/223/51</dimensions>
+    </offer>
+    <offer id="8155706761" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-2-h-stvorchatyy-nord-s-yaschikami-8155706761/</url>
+      <price>16000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/Stvorchatye/Raspashnoy%202-kh%20stvorchatyy%20s%20Yaschikami/8155706761/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/Stvorchatye/Raspashnoy%202-kh%20stvorchatyy%20s%20Yaschikami/8155706761/02.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>8155706761</vendorCode>
+      <name>Шкаф 2-х створчатый Норд с ящиками (Миф)</name>
+      <description>Шкаф 2-х створчатый Норд с ящиками. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×51×223 см
+• Цвет: Белый-белый глянец
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Прямой
+• Материал: ЛДСП
+
+Можно доукомплектовать:
+• Антресоль сверху — высота 2230 → 2640 мм
+
+Шкаф шириной 80 см. Что есть: двухстворчатый. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, комоды, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/223/51</dimensions>
+    </offer>
+    <offer id="8187649554" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-2-h-stvorchatyy-rodzhina-8187649554/</url>
+      <price>12217</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Rodzhina/Stvorchatye/2-kh%20stvorchatyy/8187649554/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Rodzhina/Stvorchatye/2-kh%20stvorchatyy/8187649554/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Rodzhina/Stvorchatye/2-kh%20stvorchatyy/8187649554/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>8187649554</vendorCode>
+      <name>Шкаф 2-х створчатый Роджина (Миф)</name>
+      <description>Шкаф 2-х створчатый Роджина. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×35×182 см
+• Цвет: Дуб крафт-белый глянец
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Прямой
+• Материал: ЛДСП
+
+Шкаф шириной 80 см. Что есть: двухстворчатый. Материал — ЛДСП. В серии «Роджина» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, комоды, прихожие — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Роджина Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/182/35</dimensions>
+      <count>1</count>
+    </offer>
+    <offer id="7899425473" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/penal-chelsi-s-yaschikami-7899425473/</url>
+      <price>8683</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>4</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Chelsi/Stvorchatye/Penal%20s%20yaschikami/7899425473/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Chelsi/Stvorchatye/Penal%20s%20yaschikami/7899425473/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Chelsi/Stvorchatye/Penal%20s%20yaschikami/7899425473/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899425473</vendorCode>
+      <name>Пенал Челси с ящиками (Миф)</name>
+      <description>Пенал Челси с ящиками. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 45×51×179 см
+• Цвет: Кашемир
+• Тип дверей: Распашные
+• Количество створок: Одностворчатый
+• Форма: Прямой
+• Материал: ЛДСП
+
+Пенал шириной 45 см. Что есть: одностворчатый. Материал — ЛДСП. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, комоды, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>45/179/51</dimensions>
+    </offer>
+    <offer id="7291407445" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-2-h-stvorchatyy-chelsi-7291407445/</url>
+      <price>10717</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Chelsi/Stvorchatye/2-kh%20stvorchatyy/7291407445/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Chelsi/Stvorchatye/2-kh%20stvorchatyy/7291407445/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Chelsi/Stvorchatye/2-kh%20stvorchatyy/7291407445/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Chelsi/Stvorchatye/2-kh%20stvorchatyy/7291407445/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Chelsi/Stvorchatye/2-kh%20stvorchatyy/7291407445/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7291407445</vendorCode>
+      <name>Шкаф 2-х створчатый Челси (Миф)</name>
+      <description>Шкаф 2-х створчатый Челси. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×51×202 см
+• Цвет: Белый глянец
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Прямой
+• Материал: ЛДСП
+
+Шкаф шириной 80 см. Что есть: двухстворчатый. Материал — ЛДСП. В серии «Челси» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, комоды, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Челси Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/202/51</dimensions>
+    </offer>
+    <offer id="8187135787" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-2-h-stvorchatyy-iris-8187135787/</url>
+      <price>23350</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Iris/Stvorchatye/2-kh%20stvorchatyy/8187135787/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Iris/Stvorchatye/2-kh%20stvorchatyy/8187135787/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Iris/Stvorchatye/2-kh%20stvorchatyy/8187135787/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>8187135787</vendorCode>
+      <name>Шкаф 2-х створчатый Ирис (Миф)</name>
+      <description>Шкаф 2-х створчатый Ирис. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 90×51×223 см
+• Цвет: Дуб крафт / браш вайт
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ
+• Полки и штанги: С полками и штангой
+
+Можно доукомплектовать:
+• Антресоль сверху — высота 2230 → 2590 мм
+
+Шкаф шириной 90 см. Что есть: двухстворчатый. Материал — ЛДСП и МДФ. В серии «Ирис» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Ирис Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>90/223/51</dimensions>
+      <count>1</count>
+    </offer>
+    <offer id="8187459970" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-2-h-stvorchatyy-flesh-8187459970/</url>
+      <price>17817</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Flesh/Stvorchatye/2-kh%20stvorchatyy/8187459970/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Flesh/Stvorchatye/2-kh%20stvorchatyy/8187459970/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Flesh/Stvorchatye/2-kh%20stvorchatyy/8187459970/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Flesh/Stvorchatye/2-kh%20stvorchatyy/8187459970/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Flesh/Stvorchatye/2-kh%20stvorchatyy/8187459970/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>8187459970</vendorCode>
+      <name>Шкаф 2-х створчатый Флэш (Миф)</name>
+      <description>Шкаф 2-х створчатый Флэш. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 90×41×213 см
+• Цвет: Дуб крафт / браш вайт
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ
+• Полки и штанги: С полками и штангой
+
+Шкаф шириной 90 см. Что есть: двухстворчатый. Материал — ЛДСП и МДФ. В серии «Флэш» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, комоды, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Флэш Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>90/213/41</dimensions>
+    </offer>
+    <offer id="8187367837" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/penal-flesh-8187367837/</url>
+      <price>11233</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>4</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Flesh/Stvorchatye/Odnostvorchatyy/8187367837/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Flesh/Stvorchatye/Odnostvorchatyy/8187367837/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Flesh/Stvorchatye/Odnostvorchatyy/8187367837/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Flesh/Stvorchatye/Odnostvorchatyy/8187367837/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Flesh/Stvorchatye/Odnostvorchatyy/8187367837/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>8187367837</vendorCode>
+      <name>Пенал Флэш (Миф)</name>
+      <description>Пенал Флэш. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 45×41×213 см
+• Цвет: Дуб крафт / браш графит
+• Тип дверей: Распашные
+• Количество створок: Одностворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ
+• Полки и штанги: С полками и штангой
+
+Пенал шириной 45 см. Что есть: одностворчатый. Материал — ЛДСП и МДФ. В серии «Флэш» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, комоды, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Флэш Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>45/213/41</dimensions>
+    </offer>
+    <offer id="8187020991" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-3-h-stvorchatyy-luna-8187020991/</url>
+      <price>33400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>6</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Luna/Stvorchatye/3-kh%20stvorchatyy/8187020991/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Luna/Stvorchatye/3-kh%20stvorchatyy/8187020991/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Luna/Stvorchatye/3-kh%20stvorchatyy/8187020991/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Luna/Stvorchatye/3-kh%20stvorchatyy/8187020991/04.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>8187020991</vendorCode>
+      <name>Шкаф 3-х створчатый Луна (Миф)</name>
+      <description>Шкаф 3-х створчатый Луна. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×52×240 см
+• Цвет: Дуб крафт / браш вайт
+• Тип дверей: Распашные
+• Количество створок: Трёхстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ
+• Полки и штанги: С полками и штангой
+
+Шкаф шириной 120 см. Что есть: трёхстворчатый. Материал — ЛДСП и МДФ.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/240/52</dimensions>
+      <count>1</count>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
