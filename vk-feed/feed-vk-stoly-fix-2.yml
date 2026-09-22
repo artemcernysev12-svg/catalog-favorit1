@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-22 17:19">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Журнальные столики </category>
+      <category id="2">Обеденные столы</category>
+      <category id="3">Туалетные столы</category>
+    </categories>
+    <offers>
+    <offer id="7931025043" available="true">
+      <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-eko-7931025043/</url>
+      <price>5083</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Era/Eko/7931025043/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Era/Eko/7931025043/02.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7931025043</vendorCode>
+      <name>Гримерный стол Эко (Эра)</name>
+      <description>Гримерный стол Эко. Фабрика Эра.
+
+Характеристики:
+• Размер (Ш×Д×В): 39×100×78 см
+• Цвет: Ясень шимо светлый-темный
+• Форма: Прямоугольный
+• Раскладной механизм: Нет
+• Материал столешницы: ЛДСП
+• Материал основания: ЛДСП
+• Что есть у товара: Полка, Тумба
+
+Гримерный стол шириной 39 см. Есть полка, тумба. В серии «Эко» есть ещё кровати, спальные гарнитуры, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Эко Эра».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>39/78/100</dimensions>
+    </offer>
+    <offer id="8219561683" available="true">
+      <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-milana-8219561683/</url>
+      <price>8292</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/Milana/Yasen%20ankor%20-%20dub%20elza/8219561683/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/Milana/Yasen%20ankor%20-%20dub%20elza/8219561683/02.webp</picture>
+      <vendor>Росток</vendor>
+      <vendorCode>8219561683</vendorCode>
+      <name>Гримерный стол Милана (Росток)</name>
+      <description>Гримерный стол Милана. Фабрика Росток.
+
+Характеристики:
+• Размер (Ш×Д×В): 44×90×148 см
+• Цвет: Ясень анкор-дуб эльза
+• Форма: Прямоугольный
+• Раскладной механизм: Нет
+• Материал столешницы: ЛДСП
+• Материал основания: ЛДСП
+• Что есть у товара: Тумба
+
+Гримерный стол шириной 44 см. Есть тумба. В серии «Милана» есть ещё спальные гарнитуры, кровати, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Милана Росток».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>44/148/90</dimensions>
+    </offer>
+    <offer id="8218901364" available="true">
+      <url>https://мебель-фаворит.рф/stoly/zhurnalnyy-stol-estet-8218901364/</url>
+      <price>3385</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/Estet/Beloe%20derevo%20-%20belyy%20zhemchug/8218901364/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/Estet/Beloe%20derevo%20-%20belyy%20zhemchug/8218901364/02.webp</picture>
+      <vendor>Росток</vendor>
+      <vendorCode>8218901364</vendorCode>
+      <name>Журнальный стол Эстет (Росток)</name>
+      <description>Журнальный стол Эстет. Фабрика Росток.
+
+Характеристики:
+• Размер (Ш×Д×В): 50×50×45 см
+• Цвет: Белое дерево-белый жемчуг
+• Форма: Круглый
+• Раскладной механизм: Нет
+• Материал столешницы: МДФ
+• Материал основания: ЛДСП
+• Что есть у товара: Полка
+
+Журнальный стол шириной 50 см. Есть полка.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>50/45/50</dimensions>
+      <count>1</count>
+    </offer>
+    <offer id="8219720445" available="true">
+      <url>https://мебель-фаворит.рф/stoly/zhurnalnyy-stol-estet-8219720445/</url>
+      <price>3385</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/Estet/Dub%20sonoma%20svetlyy%20-%20belyy%20zhemchug/8219720445/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/Estet/Dub%20sonoma%20svetlyy%20-%20belyy%20zhemchug/8219720445/02.webp</picture>
+      <vendor>Росток</vendor>
+      <vendorCode>8219720445</vendorCode>
+      <name>Журнальный стол Эстет (Росток)</name>
+      <description>Журнальный стол Эстет. Фабрика Росток.
+
+Характеристики:
+• Размер (Ш×Д×В): 50×50×45 см
+• Цвет: Дуб сонома светлый-белый жемчуг
+• Форма: Круглый
+• Раскладной механизм: Нет
+• Материал столешницы: МДФ
+• Материал основания: ЛДСП
+• Что есть у товара: Полка
+
+Журнальный стол шириной 50 см. Есть полка.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>50/45/50</dimensions>
+      <count>7</count>
+    </offer>
+    <offer id="8219396127" available="true">
+      <url>https://мебель-фаворит.рф/stoly/obedennyy-stol-so-1-8219396127/</url>
+      <price>8015</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/so-1/Venge/8219396127/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/so-1/Venge/8219396127/02.webp</picture>
+      <vendor>Росток</vendor>
+      <vendorCode>8219396127</vendorCode>
+      <name>Обеденный стол СО-1 (Росток)</name>
+      <description>Обеденный стол СО-1. Фабрика Росток.
+
+Характеристики:
+• Размер (Ш×Д×В): 84×114×75 см
+• Цвет: Венге
+• Форма: Овальный
+• Раскладной механизм: Есть
+• Длина в разложенном виде: 160
+• Материал столешницы: ЛДСП
+• Материал основания: Металл
+
+Обеденный стол шириной 84 см. Цвет — венге.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>84/75/114</dimensions>
+      <count>3</count>
+    </offer>
+    <offer id="8219572818" available="true">
+      <url>https://мебель-фаворит.рф/stoly/stol-knizhka-st-1-0-8219572818/</url>
+      <price>4815</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1.0/Venge%20-%20dub%20molochnyy/8219572818/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1.0/Venge%20-%20dub%20molochnyy/8219572818/02.webp</picture>
+      <vendor>Росток</vendor>
+      <vendorCode>8219572818</vendorCode>
+      <name>Стол-книжка СТ-1.0 (Росток)</name>
+      <description>Стол-книжка СТ-1.0. Фабрика Росток.
+
+Характеристики:
+• Размер (Ш×Д×В): 85×30×76 см
+• Цвет: Венге-дуб молочный
+• Форма: Прямоугольный
+• Раскладной механизм: Есть
+• Длина в разложенном виде: 170
+• Материал столешницы: ЛДСП
+• Материал основания: ЛДСП
+
+Стол-книжка шириной 85 см. Цвет — венге-дуб молочный.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>85/76/30</dimensions>
+    </offer>
+    <offer id="8219864176" available="true">
+      <url>https://мебель-фаворит.рф/stoly/stol-knizhka-st-1-0-8219864176/</url>
+      <price>5046</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1.0/Dub%20barrik/8219864176/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1.0/Dub%20barrik/8219864176/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1.0/Dub%20barrik/8219864176/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1.0/Dub%20barrik/8219864176/04.webp</picture>
+      <vendor>Росток</vendor>
+      <vendorCode>8219864176</vendorCode>
+      <name>Стол-книжка СТ-1.0 (Росток)</name>
+      <description>Стол-книжка СТ-1.0. Фабрика Росток.
+
+Характеристики:
+• Размер (Ш×Д×В): 85×30×76 см
+• Цвет: Дуб баррик
+• Форма: Прямоугольный
+• Раскладной механизм: Есть
+• Длина в разложенном виде: 170
+• Материал столешницы: ЛДСП
+• Материал основания: ЛДСП
+
+Стол-книжка шириной 85 см. Цвет — дуб баррик.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>85/76/30</dimensions>
+    </offer>
+    <offer id="8219751106" available="true">
+      <url>https://мебель-фаворит.рф/stoly/stol-knizhka-st-1m-8219751106/</url>
+      <price>6000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1M/Dub%20barrik/8219751106/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1M/Dub%20barrik/8219751106/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1M/Dub%20barrik/8219751106/03.webp</picture>
+      <vendor>Росток</vendor>
+      <vendorCode>8219751106</vendorCode>
+      <name>Стол-книжка СТ-1М (Росток)</name>
+      <description>Стол-книжка СТ-1М. Фабрика Росток.
+
+Характеристики:
+• Размер (Ш×Д×В): 87×23×76 см
+• Цвет: Дуб баррик
+• Форма: Прямоугольный
+• Раскладной механизм: Есть
+• Длина в разложенном виде: 160
+• Материал столешницы: ЛДСП
+• Материал основания: Металл
+
+Стол-книжка шириной 87 см. Цвет — дуб баррик.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>87/76/23</dimensions>
+      <count>8</count>
+    </offer>
+    <offer id="8187332891" available="true">
+      <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-kim-8187332891/</url>
+      <price>10033</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mif/Kim/Sonoma%20-%20grafit%20soft/8187332891/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Mif/Kim/Sonoma%20-%20grafit%20soft/8187332891/02.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>8187332891</vendorCode>
+      <name>Гримерный стол Ким (Миф)</name>
+      <description>Гримерный стол Ким. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Д×В): 44×140×82 см
+• Цвет: Сонома-графит софт
+• Форма: Прямоугольный
+• Раскладной механизм: Нет
+• Материал столешницы: ЛДСП
+• Материал основания: ЛДСП
+• Что есть у товара: Тумба
+
+Гримерный стол шириной 44 см. Есть тумба. В серии «Ким» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, зеркала — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Ким Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>44/82/140</dimensions>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
