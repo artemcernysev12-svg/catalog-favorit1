@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-22 10:15">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Готовые решения</category>
+    </categories>
+    <offers>
+    <offer id="7995547782" available="true">
+      <url>https://мебель-фаворит.рф/spalnye-garnitury/spalnya-byanko-modulnaya-veles-7995547782/</url>
+      <price>66388</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Byanko/Vzroslaya/7995547782/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Byanko/Vzroslaya/7995547782/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Byanko/Vzroslaya/7995547782/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Byanko/Vzroslaya/7995547782/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Byanko/Vzroslaya/7995547782/05.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995547782</vendorCode>
+      <name>Спальня Бьянко модульная (Велес)</name>
+      <description>Спальня Бьянко модульная. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Д×В): 164×204×90 см
+• Цвет: Белый лофт
+• Ширина х Длина спального места: 160 см х 200 см
+• Материал: ЛДСП
+• Возрастная группа: Взрослая
+
+Состав комплекта:
+• Бьянко Комод с 4 ящиками — 80×41×100 см
+• Бьянко Тумба прикроватная с 2 ящиками ×2 — 40×41×55 см
+• Бьянко Пенал 1-ств с полками — 40×50×210 см
+• Бьянко Шкаф 2-ств с 2 ящиками — 90×50×210 см
+• Бьянко Шкаф угловой — 78×78×210 см
+• Кровать 1,2 Бьянко с П/М механизмом и ортопедом — 124×204×90 см или Кровать 1,4 Бьянко с П/М механизмом и ортопедом — 144×204×90 см или Кровать 1,6 Бьянко с П/М механизмом и ортопедом — 164×204×90 см
+
+Спальный гарнитур шириной 164 см. Материал — ЛДСП. В серии «Бьянко» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Бьянко Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>164/90/204</dimensions>
+    </offer>
+    <offer id="7739861945" available="true">
+      <url>https://мебель-фаворит.рф/spalnye-garnitury/spalnya-vita-modulnaya-veles-7739861945/</url>
+      <price>85694</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Vita/Vzroslaya/7739861945/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Vita/Vzroslaya/7739861945/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Vita/Vzroslaya/7739861945/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Vita/Vzroslaya/7739861945/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Vita/Vzroslaya/7739861945/05.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7739861945</vendorCode>
+      <name>Спальня Вита модульная (Велес)</name>
+      <description>Спальня Вита модульная. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Д×В): 165×204×100 см
+• Цвет: Белый лофт/Софт айс
+• Ширина х Длина спального места: 160 см х 200 см
+• Материал: ЛДСП, МДФ
+• Возрастная группа: Взрослая
+
+Состав комплекта:
+• Вита Комод с 4 ящиками — 80×46×93 см
+• Вита Зеркало — 60×140 см
+• Вита Полка универсальная 2-ств — 120×32×93 см
+• Вита Шкаф 3-ств с зеркалом — 120×52×220 см
+• Вита Тумба прикроватная ×2 — 50×46×45 см
+• Кровать 1,2 Вита с П/М механизмом и ортопедом — 125×204×100 см или Кровать 1,4 Вита с П/М механизмом и ортопедом — 145×204×100 см или Кровать 1,6 Вита с П/М механизмом и ортопедом — 165×204×100 см
+
+Спальный гарнитур шириной 165 см. Материал — ЛДСП и МДФ. В серии «Вита» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Вита Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>165/100/204</dimensions>
+    </offer>
+    <offer id="7739304119" available="true">
+      <url>https://мебель-фаворит.рф/spalnye-garnitury/spalnya-vita-modulnaya-veles-7739304119/</url>
+      <price>112065</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Vita/Vzroslaya/7739304119/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Vita/Vzroslaya/7739304119/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Vita/Vzroslaya/7739304119/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Vita/Vzroslaya/7739304119/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Vita/Vzroslaya/7739304119/05.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7739304119</vendorCode>
+      <name>Спальня Вита модульная (Велес)</name>
+      <description>Спальня Вита модульная. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Д×В): 165×204×100 см
+• Цвет: Белый лофт/Софт айс
+• Ширина х Длина спального места: 160 см х 200 см
+• Материал: ЛДСП, МДФ
+• Возрастная группа: Взрослая
+
+Состав комплекта:
+• Вита Комод 2-ств с 4 ящиками — 140×46×93 см
+• Вита Зеркало — 60×140 см
+• Вита Шкаф 2-ств для одежды — 80×52×220 см
+• Вита Шкаф угловой — 80×80×220 см
+• Вита Шкаф 2-ств с полками (штанга в комплекте) — 70×52×220 см
+• Вита Стеллаж угловой — 30×50×220 см
+• Вита Тумба прикроватная ×2 — 50×46×45 см
+• Кровать 1,2 Вита с П/М механизмом и ортопедом — 125×204×100 см или Кровать 1,4 Вита с П/М механизмом и ортопедом — 145×204×100 см или Кровать 1,6 Вита с П/М механизмом и ортопедом — 165×204×100 см
+
+Спальный гарнитур шириной 165 см. Материал — ЛДСП и МДФ. В серии «Вита» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Вита Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>165/100/204</dimensions>
+    </offer>
+    <offer id="7739702257" available="true">
+      <url>https://мебель-фаворит.рф/spalnye-garnitury/molodezhnaya-spalnya-eva-modulnaya-veles-7739702257/</url>
+      <price>82678</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Eva/Molodezhnaya/7739702257/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Eva/Molodezhnaya/7739702257/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Eva/Molodezhnaya/7739702257/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Eva/Molodezhnaya/7739702257/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Eva/Molodezhnaya/7739702257/05.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7739702257</vendorCode>
+      <name>Молодёжная спальня Ева модульная (Велес)</name>
+      <description>Молодёжная спальня Ева модульная. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Д×В): 105×203×102 см
+• Цвет: Тира/Кадена вуд/Палм грин
+• Ширина х Длина спального места: 90 см х 200 см
+• Материал: ЛДСП, МДФ
+• Возрастная группа: Подростковая
+
+Состав комплекта:
+• Ева Стол письменный 2-х тумбовый — 150×60×76 см
+• Ева Шкаф настенный 1-ств — 150×42×52 см
+• Ева Тумба прикроватная — 50×40×44 см
+• Ева Кровать 0,9 — 105×203×102 см
+• Ева Шкаф 2-ств с 2 ящиками ×2 — 80×52×230 см
+• Ева Пенал 1-ств с ящиком и полками — 40×52×230 см
+
+Спальный гарнитур шириной 105 см. Материал — ЛДСП и МДФ. В серии «Ева» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Ева Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>105/102/203</dimensions>
+    </offer>
+    <offer id="7995003697" available="true">
+      <url>https://мебель-фаворит.рф/spalnye-garnitury/molodezhnaya-spalnya-milana-modulnaya-veles-7995003697/</url>
+      <price>50161</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Milana/Molodezhnaya/7995003697/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Milana/Molodezhnaya/7995003697/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Milana/Molodezhnaya/7995003697/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Milana/Molodezhnaya/7995003697/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Milana/Molodezhnaya/7995003697/05.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995003697</vendorCode>
+      <name>Молодёжная спальня Милана модульная (Велес)</name>
+      <description>Молодёжная спальня Милана модульная. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Д×В): 93×203×110 см
+• Цвет: Гаскон пайн/Белый лофт
+• Ширина х Длина спального места: 90 см х 200 см
+• Материал: ЛДСП
+• Возрастная группа: Подростковая
+
+Состав комплекта:
+• Милана Стол письменный универсальный — 120×60×76 см
+• Милана Кровать 0,9 — 93×203×110 см
+• Милана Шкаф 2-ств с 2 ящиками — 94×60×220 см
+• Милана Шкаф-стеллаж Левый — 30×60×220 см или Милана Шкаф-стеллаж Правый — 30×60×220 см
+• Милана Комод с 4 ящиками — 94×46×94 см
+• Милана Зеркало — 94×60 см
+
+Спальный гарнитур шириной 93 см. Материал — ЛДСП. В серии «Милана» есть ещё кровати, прикроватные тумбы, шкафы, комоды, тумбы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Милана Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>93/110/203</dimensions>
+    </offer>
+    <offer id="7739391649" available="true">
+      <url>https://мебель-фаворит.рф/spalnye-garnitury/spalnya-siciliya-modulnaya-veles-7739391649/</url>
+      <price>65532</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Sitsiliya/Vzroslaya/7739391649/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Sitsiliya/Vzroslaya/7739391649/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Sitsiliya/Vzroslaya/7739391649/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Sitsiliya/Vzroslaya/7739391649/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Sitsiliya/Vzroslaya/7739391649/05.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7739391649</vendorCode>
+      <name>Спальня Сицилия модульная (Велес)</name>
+      <description>Спальня Сицилия модульная. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Д×В): 176×204×102 см
+• Цвет: Дуб альпийский/Тефия
+• Ширина х Длина спального места: 160 см х 200 см
+• Материал: ЛДСП
+• Возрастная группа: Взрослая
+
+Состав комплекта:
+• Сицилия Зеркало — 80×136 см
+• Сицилия Консоль с ящиком — 100×46×16 см
+• Сицилия Шкаф 3-ств с зеркалом — 140×52×230 см
+• Кровать 1,2 Сицилия с П/М механизмом и ортопедом — 136×204×102 см или Кровать 1,4 Сицилия с П/М механизмом и ортопедом — 156×204×102 см или Кровать 1,6 Сицилия с П/М механизмом и ортопедом — 176×204×102 см
+• Сицилия Тумба прикроватная ×2 — 50×34×45 см
+
+Спальный гарнитур шириной 176 см. Материал — ЛДСП. В серии «Сицилия» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Сицилия Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>176/102/204</dimensions>
+    </offer>
+    <offer id="7579916392" available="true">
+      <url>https://мебель-фаворит.рф/spalnye-garnitury/detskaya-spalnya-tefiya-modulnaya-veles-7579916392/</url>
+      <price>74630</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Tefiya/Detskaya/7579916392/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Tefiya/Detskaya/7579916392/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Tefiya/Detskaya/7579916392/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Tefiya/Detskaya/7579916392/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Veles/Tefiya/Detskaya/7579916392/05.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7579916392</vendorCode>
+      <name>Детская спальня Тефия модульная (Велес)</name>
+      <description>Детская спальня Тефия модульная. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Д×В): 83×203×70 см
+• Цвет: Тефия/Софт Сантьяго
+• Ширина х Длина спального места: 80 см х 200 см
+• Материал: ЛДСП, МДФ
+• Возрастная группа: Детская
+
+Состав комплекта:
+• Тефия Пенал с полками (штанга в комплекте) ×2 — 40×52×220 см
+• Тефия Кровать с 2 ящиками — 83×203×70 см
+• Тефия Шкаф угловой — 80×80×220 см
+• Тефия Пенал с 3 ящиками — 40×52×220 см
+• Тефия Стол письменный Левый — 120×60×76 см или Тефия Стол письменный Правый — 120×60×76 см
+• Тефия Полка настенная №3 — 120×16×24 см
+
+Спальный гарнитур шириной 83 см. Материал — ЛДСП и МДФ. В серии «Тефия» есть ещё ТВ-тумбы, кровати, прикроватные тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Тефия Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>83/70/203</dimensions>
+    </offer>
+    <offer id="8059052075" available="true">
+      <url>https://мебель-фаворит.рф/spalnye-garnitury/spalnya-asti-modulnaya-mikon-8059052075/</url>
+      <price>44716</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Mikon/Asti/Vzroslaya/8059052075/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Spalnye%20garnitury/Mikon/Asti/Vzroslaya/8059052075/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059052075</vendorCode>
+      <name>Спальня Асти модульная (Микон)</name>
+      <description>Спальня Асти модульная. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Д×В): 173×204×97 см
+• Цвет: Белый
+• Ширина х Длина спального места: 160 см х 200 см
+
+Состав комплекта:
+• Асти шкаф 4-х ств — 160×54×220 см
+• Асти тумба прикроватная ×2 — 40×37×46 см
+• Кровать двуспальная 160х200 Асти — 173×204×97 см или Кровать двуспальная 140х200 Асти — 153×204×97 см
+
+Спальный гарнитур шириной 173 см. Цвет — белый. В серии «Асти» есть ещё кровати, прикроватные тумбы, шкафы, комоды, столы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Асти Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>173/97/204</dimensions>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
