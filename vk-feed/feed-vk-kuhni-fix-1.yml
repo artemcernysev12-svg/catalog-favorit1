@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-22 16:37">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Готовые кухни</category>
+      <category id="2">Модульные кухни</category>
+    </categories>
+    <offers>
+    <offer id="7963353410" available="true">
+      <url>https://мебель-фаворит.рф/kuhni/kuhnya-era-2-0-m-7963353410/</url>
+      <price>26764</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Era/2.0m/7963353410/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Era/2.0m/7963353410/02.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7963353410</vendorCode>
+      <name>Кухня Эра 2.0 м</name>
+      <description>Кухня Эра 2.0 м. Фабрика Эра.
+
+Характеристики:
+• Ширина: 200 см
+• Высота: 200 см
+• Цвет: Дуб горный-белый
+• Поверхность фасада: Матовая
+• Материал фасада: ЛДСП, Стекло
+• Столешница в комплекте: Есть
+• Материал столешницы: ЛДСП
+• Цвет столешницы: Чёрный
+• Форма кухни: Прямая
+• Остров в комплекте: Нет
+• Комплектация: Шкаф под мойку, Шкаф с ящиками, Навесные шкафы
+• Глубина нижних шкафов: 60
+
+Состав комплекта:
+• Эра Н400-1я шкаф нижний с ящиком — 40×60×83 см
+• Эра Н800-1я шкаф нижний с ящиком — 80×60×83 см
+• Эра M800 шкаф нижний под мойку — 80×40×80 см
+• Эра В400 шкаф верхний — 40×29×62 см
+• Эра вс800Г шкаф верхний ×2 — 80×29×62 см
+• Столешница Чёрный мрамор — 300×60×26 см
+
+Кухня шириной 200 см. Цвет — дуб горный-белый.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>200/200/60</dimensions>
+    </offer>
+    <offer id="7963555346" available="true">
+      <url>https://мебель-фаворит.рф/kuhni/kuhnya-era-2-8-m-7963555346/</url>
+      <price>35044</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Era/2.8m/7963555346/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Era/2.8m/7963555346/02.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7963555346</vendorCode>
+      <name>Кухня Эра 2.8 м</name>
+      <description>Кухня Эра 2.8 м. Фабрика Эра.
+
+Характеристики:
+• Ширина: 280 см
+• Высота: 200 см
+• Цвет: Дуб горный-белый
+• Поверхность фасада: Матовая
+• Материал фасада: ЛДСП, Стекло
+• Столешница в комплекте: Есть
+• Материал столешницы: ЛДСП
+• Цвет столешницы: Чёрный
+• Форма кухни: Прямая
+• Остров в комплекте: Нет
+• Комплектация: Шкаф под мойку, Шкаф с ящиками, Пенал, Навесные шкафы
+• Глубина нижних шкафов: 60
+
+Состав комплекта:
+• Эра П400-1я шкаф Пенал — 40×60×205 см
+• Эра Н800-1я шкаф нижний с ящиком ×2 — 80×60×83 см
+• Эра M800 шкаф нижний под мойку — 80×40×80 см
+• Эра В800 шкаф верхний — 80×29×62 см
+• Эра вс800Г шкаф верхний ×2 — 80×29×62 см
+• Столешница Чёрный мрамор — 300×60×26 см
+
+Кухня шириной 280 см. Цвет — дуб горный-белый.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>280/200/60</dimensions>
+    </offer>
+    <offer id="7963324631" available="true">
+      <url>https://мебель-фаворит.рф/kuhni/kuhnya-hozyayushka-1-2-m-7963324631/</url>
+      <price>16797</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Khozyayushka/1.2m/7963324631/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Khozyayushka/1.2m/7963324631/02.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7963324631</vendorCode>
+      <name>Кухня Хозяюшка 1.2 м (Эра)</name>
+      <description>Кухня Хозяюшка 1.2 м. Фабрика Эра.
+
+Характеристики:
+• Ширина: 120 см
+• Высота: 200 см
+• Цвет: Белый гладкий-дуб вотан
+• Поверхность фасада: Матовая
+• Материал фасада: ЛДСП
+• Столешница в комплекте: Есть
+• Материал столешницы: ЛДСП
+• Цвет столешницы: Белый
+• Форма кухни: Прямая
+• Остров в комплекте: Нет
+• Комплектация: Шкаф под мойку, Шкаф с ящиками, Навесные шкафы
+• Глубина нижних шкафов: 60
+
+Состав комплекта:
+• Кухня Хозяюшка 1,2
+• Столешница Антарес 26мм — 300×60×26 см
+
+Кухня шириной 120 см. Цвет — белый гладкий-дуб вотан.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/200/60</dimensions>
+    </offer>
+    <offer id="7962921782" available="true">
+      <url>https://мебель-фаворит.рф/kuhni/kuhnya-hozyayushka-1-8-m-7962921782/</url>
+      <price>18613</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Khozyayushka/1.8m/7962921782/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Khozyayushka/1.8m/7962921782/02.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7962921782</vendorCode>
+      <name>Кухня Хозяюшка 1.8 м (Эра)</name>
+      <description>Кухня Хозяюшка 1.8 м. Фабрика Эра.
+
+Характеристики:
+• Ширина: 180 см
+• Высота: 200 см
+• Цвет: Белый гладкий-дуб вотан
+• Поверхность фасада: Матовая
+• Материал фасада: ЛДСП
+• Столешница в комплекте: Есть
+• Материал столешницы: ЛДСП
+• Цвет столешницы: Белый
+• Форма кухни: Прямая
+• Остров в комплекте: Нет
+• Комплектация: Шкаф под мойку, Шкаф с ящиками, Навесные шкафы, Навесной шкаф под вытяжку
+• Глубина нижних шкафов: 60
+
+Состав комплекта:
+• Кухня Хозяюшка 1,2
+• ВГ600 шкаф для вытяжки
+• Столешница Антарес 26мм — 300×60×26 см
+
+Кухня шириной 180 см. Цвет — белый гладкий-дуб вотан.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>180/200/60</dimensions>
+    </offer>
+    <offer id="7963128427" available="true">
+      <url>https://мебель-фаворит.рф/kuhni/kuhnya-hozyayushka-1-2-m-7963128427/</url>
+      <price>16797</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Khozyayushka/1.2m/7963128427/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Khozyayushka/1.2m/7963128427/02.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7963128427</vendorCode>
+      <name>Кухня Хозяюшка 1.2 м (Эра)</name>
+      <description>Кухня Хозяюшка 1.2 м. Фабрика Эра.
+
+Характеристики:
+• Ширина: 120 см
+• Высота: 200 см
+• Цвет: Дуб вотан
+• Поверхность фасада: Матовая
+• Материал фасада: ЛДСП
+• Столешница в комплекте: Есть
+• Материал столешницы: ЛДСП
+• Цвет столешницы: Белый
+• Форма кухни: Прямая
+• Остров в комплекте: Нет
+• Комплектация: Шкаф под мойку, Шкаф с ящиками, Навесные шкафы
+• Глубина нижних шкафов: 60
+
+Состав комплекта:
+• Кухня Хозяюшка 1,2
+• Столешница Антарес 26мм — 300×60×26 см
+
+Кухня шириной 120 см. Цвет — дуб вотан.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/200/60</dimensions>
+    </offer>
+    <offer id="7963603892" available="true">
+      <url>https://мебель-фаворит.рф/kuhni/kuhnya-hozyayushka-1-7-m-7963603892/</url>
+      <price>17804</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Khozyayushka/1.7m/7963603892/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Khozyayushka/1.7m/7963603892/02.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7963603892</vendorCode>
+      <name>Кухня Хозяюшка 1.7 м (Эра)</name>
+      <description>Кухня Хозяюшка 1.7 м. Фабрика Эра.
+
+Характеристики:
+• Ширина: 170 см
+• Высота: 200 см
+• Цвет: Дуб вотан
+• Поверхность фасада: Матовая
+• Материал фасада: ЛДСП
+• Столешница в комплекте: Есть
+• Материал столешницы: ЛДСП
+• Цвет столешницы: Белый
+• Форма кухни: Прямая
+• Остров в комплекте: Нет
+• Комплектация: Шкаф под мойку, Шкаф с ящиками, Навесные шкафы, Навесной шкаф под вытяжку
+• Глубина нижних шкафов: 60
+
+Состав комплекта:
+• Кухня Хозяюшка 1,1
+• ВГ600 шкаф для вытяжки
+• Столешница Антарес 26мм — 300×60×26 см
+
+Кухня шириной 170 см. Цвет — дуб вотан.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>170/200/60</dimensions>
+    </offer>
+    <offer id="7963739541" available="true">
+      <url>https://мебель-фаворит.рф/kuhni/kuhnya-malva-1-0-m-7963739541/</url>
+      <price>14996</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/1.0m/7963739541/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/1.0m/7963739541/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/1.0m/7963739541/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/1.0m/7963739541/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/1.0m/7963739541/05.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7963739541</vendorCode>
+      <name>Кухня Мальва 1.0 м (Эра)</name>
+      <description>Кухня Мальва 1.0 м. Фабрика Эра.
+
+Характеристики:
+• Ширина: 100 см
+• Высота: 200 см
+• Цвет: Венге-лоредо
+• Поверхность фасада: Матовая
+• Материал фасада: ЛДСП
+• Столешница в комплекте: Есть
+• Материал столешницы: ЛДСП
+• Цвет столешницы: Чёрный
+• Форма кухни: Прямая
+• Остров в комплекте: Нет
+• Комплектация: Шкаф под мойку, Шкаф с ящиками, Навесные шкафы
+• Глубина нижних шкафов: 60
+
+Состав комплекта:
+• Мальва Н500-1я шкаф нижний с ящиком — 50×60×83 см
+• Мальва M500 шкаф нижний под мойку — 50×40×80 см
+• Мальва В500 шкаф верхний ×2 — 50×29×62 см
+• Столешница Чёрный мрамор — 300×60×26 см
+
+Кухня шириной 100 см. Цвет — венге-лоредо.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>100/200/60</dimensions>
+    </offer>
+    <offer id="7963516079" available="true">
+      <url>https://мебель-фаворит.рф/kuhni/kuhnya-malva-1-6-m-7963516079/</url>
+      <price>22032</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/1.6m/7963516079/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/1.6m/7963516079/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/1.6m/7963516079/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/1.6m/7963516079/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/1.6m/7963516079/05.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7963516079</vendorCode>
+      <name>Кухня Мальва 1.6 м (Эра)</name>
+      <description>Кухня Мальва 1.6 м. Фабрика Эра.
+
+Характеристики:
+• Ширина: 160 см
+• Высота: 200 см
+• Цвет: Венге-лоредо
+• Поверхность фасада: Матовая
+• Материал фасада: ЛДСП
+• Столешница в комплекте: Есть
+• Материал столешницы: ЛДСП
+• Цвет столешницы: Чёрный
+• Форма кухни: Прямая
+• Остров в комплекте: Нет
+• Комплектация: Шкаф под мойку, Шкаф с ящиками, Навесные шкафы
+• Глубина нижних шкафов: 60
+
+Состав комплекта:
+• Мальва Н400-1я шкаф нижний с ящиком — 40×60×83 см
+• Мальва Н600-1я шкаф нижний с ящиком — 60×60×83 см
+• Мальва M600 шкаф нижний под мойку — 60×40×80 см
+• Мальва В400 шкаф верхний — 40×29×62 см
+• Мальва В600 шкаф верхний ×2 — 60×29×62 см
+• Столешница Чёрный мрамор — 300×60×26 см
+
+Кухня шириной 160 см. Цвет — венге-лоредо.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>160/200/60</dimensions>
+    </offer>
+    <offer id="7963676962" available="true">
+      <url>https://мебель-фаворит.рф/kuhni/kuhnya-modulnaya-malva-7963676962/</url>
+      <price>34628</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/7963676962/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/7963676962/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/7963676962/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/7963676962/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/7963676962/05.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7963676962</vendorCode>
+      <name>Кухня модульная Мальва (Эра)</name>
+      <description>Кухня модульная Мальва. Фабрика Эра.
+
+Характеристики:
+• Ширина: 300 см
+• Высота: 200 см
+• Цвет: Венге-лоредо
+• Поверхность фасада: Матовая
+• Материал фасада: ЛДСП
+• Столешница в комплекте: Есть
+• Материал столешницы: ЛДСП
+• Цвет столешницы: Чёрный
+• Форма кухни: Прямая
+• Остров в комплекте: Нет
+• Комплектация: Шкаф под мойку, Шкаф с ящиками, Навесные шкафы, Навесной шкаф под вытяжку
+• Глубина нижних шкафов: 60
+
+Состав комплекта:
+• Мальва Н400-1я шкаф нижний с ящиком ×2 — 40×60×83 см
+• Мальва Н800-1я шкаф нижний с ящиком — 80×60×83 см
+• Мальва M800 шкаф нижний под мойку — 80×40×80 см
+• Мальва В400 шкаф верхний ×2 — 40×29×62 см
+• Мальва В800 шкаф верхний ×2 — 80×29×62 см
+• Мальва газ600 шкаф верхний — 60×29×31 см
+• Столешница Чёрный мрамор — 300×60×26 см
+
+Кухня шириной 300 см. Цвет — венге-лоредо.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>300/200/60</dimensions>
+    </offer>
+    <offer id="7931054731" available="true">
+      <url>https://мебель-фаворит.рф/kuhni/kuhnya-brauni-1-0-m-7931054731/</url>
+      <price>14996</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Brauni/1.0m/7931054731/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Brauni/1.0m/7931054731/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Brauni/1.0m/7931054731/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Brauni/1.0m/7931054731/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Brauni/1.0m/7931054731/05.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7931054731</vendorCode>
+      <name>Кухня Брауни 1.0 м (Эра)</name>
+      <description>Кухня Брауни 1.0 м. Фабрика Эра.
+
+Характеристики:
+• Ширина: 100 см
+• Высота: 200 см
+• Цвет: Белый гладкий-дуб вотан
+• Поверхность фасада: Матовая
+• Материал фасада: ЛДСП
+• Столешница в комплекте: Есть
+• Материал столешницы: ЛДСП
+• Цвет столешницы: Чёрный
+• Форма кухни: Прямая
+• Остров в комплекте: Нет
+• Комплектация: Шкаф под мойку, Шкаф с ящиками, Навесные шкафы, Сушилка для посуды
+• Глубина нижних шкафов: 60
+
+Состав комплекта:
+• Брауни Н500-1я шкаф нижний с ящиком — 50×60×83 см
+• Брауни M500 шкаф нижний под мойку — 50×40×80 см
+• Брауни В500 шкаф верхний для кухни ×2 — 50×29×62 см
+• Столешница Чёрный мрамор — 300×60×26 см
+
+Кухня шириной 100 см. Цвет — белый гладкий-дуб вотан.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>100/200/60</dimensions>
+    </offer>
+    <offer id="7931374111" available="true">
+      <url>https://мебель-фаворит.рф/kuhni/kuhnya-brauni-1-6-m-7931374111/</url>
+      <price>22032</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Brauni/1.6m/7931374111/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Brauni/1.6m/7931374111/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Brauni/1.6m/7931374111/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Brauni/1.6m/7931374111/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Brauni/1.6m/7931374111/05.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7931374111</vendorCode>
+      <name>Кухня Брауни 1.6 м (Эра)</name>
+      <description>Кухня Брауни 1.6 м. Фабрика Эра.
+
+Характеристики:
+• Ширина: 160 см
+• Высота: 200 см
+• Цвет: Белый гладкий-дуб вотан
+• Поверхность фасада: Матовая
+• Материал фасада: ЛДСП
+• Столешница в комплекте: Есть
+• Материал столешницы: ЛДСП
+• Цвет столешницы: Чёрный
+• Форма кухни: Прямая
+• Остров в комплекте: Нет
+• Комплектация: Шкаф под мойку, Шкаф с ящиками, Навесные шкафы
+• Глубина нижних шкафов: 60
+
+Состав комплекта:
+• Брауни Н400-1я шкаф нижний с ящиком — 40×60×83 см
+• Брауни Н600-1я шкаф нижний с ящиком — 60×60×83 см
+• Брауни M600 шкаф нижний под мойку — 60×40×80 см
+• Брауни В400 шкаф верхний — 40×29×62 см
+• Брауни В600 шкаф верхний для кухни ×2 — 60×29×62 см
+• Столешница Чёрный мрамор — 300×60×26 см
+
+Кухня шириной 160 см. Цвет — белый гладкий-дуб вотан.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>160/200/60</dimensions>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
