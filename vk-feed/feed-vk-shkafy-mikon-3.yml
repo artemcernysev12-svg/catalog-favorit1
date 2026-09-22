@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-22 11:32">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Двухстворчатые шкафы</category>
+      <category id="2">Одностворчатые шкафы </category>
+      <category id="3">Пятистворчатые шкафы</category>
+      <category id="4">Трехстворчатые шкафы</category>
+      <category id="5">Угловые шкафы</category>
+      <category id="6">Четырехстворчатые шкафы</category>
+      <category id="7">Шкафы-купе</category>
+    </categories>
+    <offers>
+    <offer id="8027845289" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/penal-sofiya-s-polkami-8027845289/</url>
+      <price>9483</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Penal%20s%20Polkami/8027845289/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Penal%20s%20Polkami/8027845289/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8027845289</vendorCode>
+      <name>Пенал София с полками (Микон)</name>
+      <description>Пенал София с полками. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 36×35×221 см
+• Цвет: Дуб крафт белый
+• Тип дверей: Распашные
+• Количество створок: Одностворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ
+
+Пенал шириной 36 см. Что есть: одностворчатый. Материал — ЛДСП и МДФ. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>36/221/35</dimensions>
+    </offer>
+    <offer id="8027184784" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/penal-sofiya-s-yaschikami-8027184784/</url>
+      <price>12583</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Penal%20s%20Yaschikami/8027184784/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Penal%20s%20Yaschikami/8027184784/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8027184784</vendorCode>
+      <name>Пенал София с ящиками (Микон)</name>
+      <description>Пенал София с ящиками. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 54×35×221 см
+• Цвет: Дуб крафт белый
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ
+
+Пенал шириной 54 см. Что есть: двухстворчатый. Материал — ЛДСП и МДФ. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>54/221/35</dimensions>
+    </offer>
+    <offer id="8027325575" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-2-h-stvorchatyy-sofiya-kombinirovannyy-8027325575/</url>
+      <price>18933</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/2-kh%20stvorchatyy/8027325575/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/2-kh%20stvorchatyy/8027325575/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8027325575</vendorCode>
+      <name>Шкаф 2-х створчатый София комбинированный (Микон)</name>
+      <description>Шкаф 2-х створчатый София комбинированный. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 90×35×221 см
+• Цвет: Дуб крафт белый
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ
+
+Шкаф шириной 90 см. Что есть: двухстворчатый. Материал — ЛДСП и МДФ. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>90/221/35</dimensions>
+    </offer>
+    <offer id="8027291338" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-2-h-stvorchatyy-sofiya-s-vitrinoy-8027291338/</url>
+      <price>20150</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/2-kh%20stvorchatyy%20s%20Vitrinoy/8027291338/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/2-kh%20stvorchatyy%20s%20Vitrinoy/8027291338/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8027291338</vendorCode>
+      <name>Шкаф 2-х створчатый София с витриной (Микон)</name>
+      <description>Шкаф 2-х створчатый София с витриной. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 90×35×185 см
+• Цвет: Дуб крафт белый
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ, Стекло
+
+Шкаф шириной 90 см. Что есть: двухстворчатый. Материал — ЛДСП, МДФ и Стекло. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>90/185/35</dimensions>
+    </offer>
+    <offer id="8059081163" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-3-h-stvorchatyy-sofiya-8059081163/</url>
+      <price>26417</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>4</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/3-kh%20stvorchatyy/8059081163/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/3-kh%20stvorchatyy/8059081163/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059081163</vendorCode>
+      <name>Шкаф 3-х створчатый София (Микон)</name>
+      <description>Шкаф 3-х створчатый София. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 135×55×221 см
+• Цвет: Дуб крафт белый
+• Тип дверей: Распашные
+• Количество створок: Трёхстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ
+
+Шкаф шириной 135 см. Что есть: трёхстворчатый. Материал — ЛДСП и МДФ. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>135/221/55</dimensions>
+    </offer>
+    <offer id="8059045618" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-3-h-stvorchatyy-sofiya-s-zerkalom-8059045618/</url>
+      <price>29600</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>4</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/3-kh%20stvorchatyy%20s%20Zerkalom/8059045618/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/3-kh%20stvorchatyy%20s%20Zerkalom/8059045618/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059045618</vendorCode>
+      <name>Шкаф 3-х створчатый София с зеркалом (Микон)</name>
+      <description>Шкаф 3-х створчатый София с зеркалом. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 135×55×221 см
+• Цвет: Дуб крафт белый
+• Тип дверей: Распашные
+• Количество створок: Трёхстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ, Стекло
+
+Шкаф шириной 135 см. Что есть: трёхстворчатый. Материал — ЛДСП, МДФ и Стекло. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>135/221/55</dimensions>
+    </offer>
+    <offer id="8059812137" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-uglovoy-sofiya-8059812137/</url>
+      <price>18983</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>5</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Uglovoy/8059812137/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Uglovoy/8059812137/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Uglovoy/8059812137/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Uglovoy/8059812137/04.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059812137</vendorCode>
+      <name>Шкаф угловой София (Микон)</name>
+      <description>Шкаф угловой София. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 86×86×221 см
+• Цвет: Дуб крафт белый
+• Тип дверей: Распашные
+• Количество створок: Одностворчатый
+• Форма: Угловой
+• Материал: ЛДСП, МДФ
+
+Шкаф шириной 86 см. Что есть: одностворчатый. Материал — ЛДСП и МДФ. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>86/221/86</dimensions>
+    </offer>
+    <offer id="8059335230" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-torcevoy-sofiya-8059335230/</url>
+      <price>10717</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Tortsevoy/8059335230/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Tortsevoy/8059335230/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059335230</vendorCode>
+      <name>Шкаф торцевой София (Микон)</name>
+      <description>Шкаф торцевой София. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 35×55×221 см
+• Цвет: Дуб крафт белый
+• Тип дверей: Распашные
+• Количество створок: Одностворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ
+
+Шкаф шириной 35 см. Что есть: одностворчатый. Материал — ЛДСП и МДФ. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>35/221/55</dimensions>
+    </offer>
+    <offer id="8027310111" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/penal-vitrina-sofiya-8027310111/</url>
+      <price>11067</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Penal%20nadstroyka/8027310111/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Penal%20nadstroyka/8027310111/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8027310111</vendorCode>
+      <name>Пенал-витрина София (Микон)</name>
+      <description>Пенал-витрина София. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 36×35×180 см
+• Цвет: Дуб крафт белый
+• Тип дверей: Распашные
+• Количество створок: Одностворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ, Стекло
+
+Пенал шириной 36 см. Что есть: одностворчатый. Материал — ЛДСП, МДФ и Стекло. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>36/180/35</dimensions>
+    </offer>
+    <offer id="8059453206" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-2-h-stvorchatyy-sofiya-8059453206/</url>
+      <price>19117</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/2-kh%20stvorchatyy/8059453206/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/2-kh%20stvorchatyy/8059453206/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059453206</vendorCode>
+      <name>Шкаф 2-х створчатый София (Микон)</name>
+      <description>Шкаф 2-х створчатый София. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 90×55×221 см
+• Цвет: Дуб крафт белый
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ
+
+Шкаф шириной 90 см. Что есть: двухстворчатый. Материал — ЛДСП и МДФ. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>90/221/55</dimensions>
+      <count>1</count>
+    </offer>
+    <offer id="8027840111" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/penal-platyanoy-sofiya-8027840111/</url>
+      <price>10517</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Penal/8027840111/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Penal/8027840111/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8027840111</vendorCode>
+      <name>Пенал платяной София (Микон)</name>
+      <description>Пенал платяной София. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 54×35×221 см
+• Цвет: Дуб крафт табачный
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ
+
+Пенал шириной 54 см. Что есть: двухстворчатый. Материал — ЛДСП и МДФ. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>54/221/35</dimensions>
+    </offer>
+    <offer id="8027022526" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/penal-sofiya-s-vitrinoy-8027022526/</url>
+      <price>15650</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Penal%20s%20Vitrinoy/8027022526/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Penal%20s%20Vitrinoy/8027022526/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8027022526</vendorCode>
+      <name>Пенал София с витриной (Микон)</name>
+      <description>Пенал София с витриной. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 54×35×221 см
+• Цвет: Дуб крафт табачный
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ, Стекло
+
+Пенал шириной 54 см. Что есть: двухстворчатый. Материал — ЛДСП, МДФ и Стекло. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>54/221/35</dimensions>
+      <count>3</count>
+    </offer>
+    <offer id="8059142801" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/penal-sofiya-s-zerkalom-i-yaschikami-8059142801/</url>
+      <price>14717</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Penal%20s%20Zerkalom%20i%20Yaschikami/8059142801/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Penal%20s%20Zerkalom%20i%20Yaschikami/8059142801/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059142801</vendorCode>
+      <name>Пенал София с зеркалом и ящиками (Микон)</name>
+      <description>Пенал София с зеркалом и ящиками. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 45×55×221 см
+• Цвет: Дуб крафт табачный
+• Тип дверей: Распашные
+• Количество створок: Одностворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ, Стекло
+
+Пенал шириной 45 см. Что есть: одностворчатый. Материал — ЛДСП, МДФ и Стекло. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>45/221/55</dimensions>
+    </offer>
+    <offer id="8027154257" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/penal-sofiya-s-polkami-8027154257/</url>
+      <price>8400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Penal%20s%20Polkami/8027154257/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Penal%20s%20Polkami/8027154257/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8027154257</vendorCode>
+      <name>Пенал София с полками (Микон)</name>
+      <description>Пенал София с полками. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 36×35×221 см
+• Цвет: Дуб крафт табачный
+• Тип дверей: Распашные
+• Количество створок: Одностворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ
+
+Пенал шириной 36 см. Что есть: одностворчатый. Материал — ЛДСП и МДФ. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>36/221/35</dimensions>
+      <count>3</count>
+    </offer>
+    <offer id="8027090800" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/penal-sofiya-s-yaschikami-8027090800/</url>
+      <price>12583</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Penal%20s%20Yaschikami/8027090800/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Penal%20s%20Yaschikami/8027090800/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8027090800</vendorCode>
+      <name>Пенал София с ящиками (Микон)</name>
+      <description>Пенал София с ящиками. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 54×35×221 см
+• Цвет: Дуб крафт табачный
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ
+
+Пенал шириной 54 см. Что есть: двухстворчатый. Материал — ЛДСП и МДФ. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>54/221/35</dimensions>
+    </offer>
+    <offer id="8027485981" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-2-h-stvorchatyy-sofiya-kombinirovannyy-8027485981/</url>
+      <price>16767</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/2-kh%20stvorchatyy/8027485981/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/2-kh%20stvorchatyy/8027485981/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8027485981</vendorCode>
+      <name>Шкаф 2-х створчатый София комбинированный (Микон)</name>
+      <description>Шкаф 2-х створчатый София комбинированный. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 90×35×221 см
+• Цвет: Дуб крафт табачный
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ
+
+Шкаф шириной 90 см. Что есть: двухстворчатый. Материал — ЛДСП и МДФ. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>90/221/35</dimensions>
+      <count>3</count>
+    </offer>
+    <offer id="8059864361" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-2-h-stvorchatyy-sofiya-8059864361/</url>
+      <price>19117</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/2-kh%20stvorchatyy/8059864361/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/2-kh%20stvorchatyy/8059864361/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059864361</vendorCode>
+      <name>Шкаф 2-х створчатый София (Микон)</name>
+      <description>Шкаф 2-х створчатый София. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 90×55×221 см
+• Цвет: Дуб крафт табачный
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ
+
+Шкаф шириной 90 см. Что есть: двухстворчатый. Материал — ЛДСП и МДФ. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>90/221/55</dimensions>
+    </offer>
+    <offer id="8027851087" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-2-h-stvorchatyy-sofiya-s-vitrinoy-8027851087/</url>
+      <price>20150</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/2-kh%20stvorchatyy%20s%20Vitrinoy/8027851087/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/2-kh%20stvorchatyy%20s%20Vitrinoy/8027851087/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8027851087</vendorCode>
+      <name>Шкаф 2-х створчатый София с витриной (Микон)</name>
+      <description>Шкаф 2-х створчатый София с витриной. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 90×35×185 см
+• Цвет: Дуб крафт табачный
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ, Стекло
+
+Шкаф шириной 90 см. Что есть: двухстворчатый. Материал — ЛДСП, МДФ и Стекло. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>90/185/35</dimensions>
+    </offer>
+    <offer id="8059589536" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-3-h-stvorchatyy-sofiya-8059589536/</url>
+      <price>26417</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>4</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/3-kh%20stvorchatyy/8059589536/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/3-kh%20stvorchatyy/8059589536/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059589536</vendorCode>
+      <name>Шкаф 3-х створчатый София (Микон)</name>
+      <description>Шкаф 3-х створчатый София. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 135×55×221 см
+• Цвет: Дуб крафт табачный
+• Тип дверей: Распашные
+• Количество створок: Трёхстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ
+
+Шкаф шириной 135 см. Что есть: трёхстворчатый. Материал — ЛДСП и МДФ. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>135/221/55</dimensions>
+    </offer>
+    <offer id="8059223102" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-3-h-stvorchatyy-sofiya-s-zerkalom-8059223102/</url>
+      <price>27467</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>4</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/3-kh%20stvorchatyy%20s%20Zerkalom/8059223102/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/3-kh%20stvorchatyy%20s%20Zerkalom/8059223102/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059223102</vendorCode>
+      <name>Шкаф 3-х створчатый София с зеркалом (Микон)</name>
+      <description>Шкаф 3-х створчатый София с зеркалом. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 135×55×221 см
+• Цвет: Дуб крафт табачный
+• Тип дверей: Распашные
+• Количество створок: Трёхстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ, Стекло
+
+Шкаф шириной 135 см. Что есть: трёхстворчатый. Материал — ЛДСП, МДФ и Стекло. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>135/221/55</dimensions>
+    </offer>
+    <offer id="8059784749" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-uglovoy-sofiya-8059784749/</url>
+      <price>18983</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>5</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Uglovoy/8059784749/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Uglovoy/8059784749/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059784749</vendorCode>
+      <name>Шкаф угловой София (Микон)</name>
+      <description>Шкаф угловой София. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 86×86×221 см
+• Цвет: Дуб крафт табачный
+• Тип дверей: Распашные
+• Количество створок: Одностворчатый
+• Форма: Угловой
+• Материал: ЛДСП, МДФ
+
+Шкаф шириной 86 см. Что есть: одностворчатый. Материал — ЛДСП и МДФ. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>86/221/86</dimensions>
+    </offer>
+    <offer id="8059391377" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-torcevoy-sofiya-8059391377/</url>
+      <price>10717</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Tortsevoy/8059391377/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Tortsevoy/8059391377/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8059391377</vendorCode>
+      <name>Шкаф торцевой София (Микон)</name>
+      <description>Шкаф торцевой София. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 35×55×221 см
+• Цвет: Дуб крафт табачный
+• Тип дверей: Распашные
+• Количество створок: Одностворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ
+
+Шкаф шириной 35 см. Что есть: одностворчатый. Материал — ЛДСП и МДФ. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>35/221/55</dimensions>
+    </offer>
+    <offer id="8027769663" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/penal-vitrina-sofiya-8027769663/</url>
+      <price>11067</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Penal%20nadstroyka/8027769663/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Sofiya/Stvorchatye/Penal%20nadstroyka/8027769663/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>8027769663</vendorCode>
+      <name>Пенал-витрина София (Микон)</name>
+      <description>Пенал-витрина София. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 36×35×180 см
+• Цвет: Дуб крафт табачный
+• Тип дверей: Распашные
+• Количество створок: Одностворчатый
+• Форма: Прямой
+• Материал: ЛДСП, МДФ, Стекло
+
+Пенал шириной 36 см. Что есть: одностворчатый. Материал — ЛДСП, МДФ и Стекло. В серии «София» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «София Микон».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>36/180/35</dimensions>
+    </offer>
+    <offer id="7771452927" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-kupe-4-h-dvernyy-tvist-7771452927/</url>
+      <price>25350</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>7</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Tvist/Kupe/4-kh%20dvernyy/7771452927/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Tvist/Kupe/4-kh%20dvernyy/7771452927/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>7771452927</vendorCode>
+      <name>Шкаф купе 4-х дверный Твист (Микон)</name>
+      <description>Шкаф купе 4-х дверный Твист. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 170×53×210 см
+• Цвет: Белый
+• Тип дверей: Купе
+• Количество створок: Четырёхстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, Стекло
+
+Шкаф шириной 170 см. Что есть: четырёхстворчатый, двери-купе. Материал — ЛДСП и Стекло.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>170/210/53</dimensions>
+      <count>2</count>
+    </offer>
+    <offer id="7770996396" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-kupe-4-h-dvernyy-tvist-7770996396/</url>
+      <price>25350</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>7</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Tvist/Kupe/4-kh%20dvernyy/7770996396/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Tvist/Kupe/4-kh%20dvernyy/7770996396/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>7770996396</vendorCode>
+      <name>Шкаф купе 4-х дверный Твист (Микон)</name>
+      <description>Шкаф купе 4-х дверный Твист. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 170×53×210 см
+• Цвет: Дуб крафт золотой-белый
+• Тип дверей: Купе
+• Количество створок: Четырёхстворчатый
+• Форма: Прямой
+• Материал: ЛДСП, Стекло
+
+Шкаф шириной 170 см. Что есть: четырёхстворчатый, двери-купе. Материал — ЛДСП и Стекло.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>170/210/53</dimensions>
+      <count>3</count>
+    </offer>
+    <offer id="7771130391" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-kupe-4-h-dvernyy-tvist-7771130391/</url>
+      <price>25350</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>7</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Tvist/Kupe/4-kh%20dvernyy/7771130391/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mikon/Tvist/Kupe/4-kh%20dvernyy/7771130391/02.webp</picture>
+      <vendor>Микон</vendor>
+      <vendorCode>7771130391</vendorCode>
+      <name>Шкаф купе 4-х дверный Твист (Микон)</name>
+      <description>Шкаф купе 4-х дверный Твист. Фабрика Микон.
+
+Характеристики:
+• Размер (Ш×Г×В): 170×53×210 см
+• Цвет: Белый-дуб юкон
+• Тип дверей: Купе
+• Количество створок: Четырёхстворчатый
+• Форма: Прямой
+• Материал: ЛДСП
+
+Шкаф шириной 170 см. Что есть: четырёхстворчатый, двери-купе. Материал — ЛДСП.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>170/210/53</dimensions>
+      <count>6</count>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
