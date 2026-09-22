@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-22 15:16">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Гостиные</category>
+    </categories>
+    <offers>
+    <offer id="7739491351" available="true">
+      <url>https://мебель-фаворит.рф/garnitury/gostinaya-vita-modulnaya-veles-7739491351/</url>
+      <price>28967</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garnitury%20i%20komplekty/Veles/Vita/7739491351/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garnitury%20i%20komplekty/Veles/Vita/7739491351/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garnitury%20i%20komplekty/Veles/Vita/7739491351/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garnitury%20i%20komplekty/Veles/Vita/7739491351/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garnitury%20i%20komplekty/Veles/Vita/7739491351/05.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7739491351</vendorCode>
+      <name>Гостиная Вита модульная (Велес)</name>
+      <description>Гостиная Вита модульная. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Г×В): 200×53×205 см
+• Цвет: Белый лофт/Софт айс
+
+Состав комплекта:
+• Вита Тумба ТВ — 200×53×42 см
+• Вита Пенал (надстройка) ×2 — 35×42×163 см
+• Вита Полка настенная №1 — 130×30×40 см
+
+Гостиная шириной 200 см. Цвет — белый лофт/софт айс. В серии «Вита» есть ещё ТВ-тумбы, кровати, спальные гарнитуры, прикроватные тумбы, шкафы — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Вита Велес».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>200/205/53</dimensions>
+    </offer>
+    <offer id="7931886884" available="true">
+      <url>https://мебель-фаворит.рф/garnitury/gostinaya-baston-era-7931886884/</url>
+      <price>25825</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garnitury%20i%20komplekty/Era/Baston/7931886884/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garnitury%20i%20komplekty/Era/Baston/7931886884/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garnitury%20i%20komplekty/Era/Baston/7931886884/03.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7931886884</vendorCode>
+      <name>Гостиная Бастон (Эра)</name>
+      <description>Гостиная Бастон. Фабрика Эра.
+
+Характеристики:
+• Размер (Ш×Г×В): 280×40×200 см
+• Цвет: Дуб делано-черный глянец
+• Состав комплекта: Шкаф, Витрина, Полка, Тумба под ТВ
+
+Гостиная шириной 280 см. Цвет — дуб делано-черный глянец. В серии «Бастон» есть ещё шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Бастон Эра».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>280/200/40</dimensions>
+    </offer>
+    <offer id="7931142490" available="true">
+      <url>https://мебель-фаворит.рф/garnitury/gostinaya-praga-n2-modulnaya-era-7931142490/</url>
+      <price>19140</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garnitury%20i%20komplekty/Era/Praga%20N2/7931142490/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garnitury%20i%20komplekty/Era/Praga%20N2/7931142490/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garnitury%20i%20komplekty/Era/Praga%20N2/7931142490/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garnitury%20i%20komplekty/Era/Praga%20N2/7931142490/04.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7931142490</vendorCode>
+      <name>Гостиная Прага №2 модульная (Эра)</name>
+      <description>Гостиная Прага №2 модульная. Фабрика Эра.
+
+Характеристики:
+• Ширина: 211 см
+• Глубина: 42 см
+• Цвет: Дуб вотан-белый гладкий
+
+Состав комплекта:
+• Полка Прага — 119×21×26 см
+• Витрина универсальная Прага ×2 — 66×37×103 см
+• ТВ-тумба малая Прага — 152×42×46 см
+
+Гостиная шириной 211 см. Цвет — дуб вотан-белый гладкий. В серии «малая Прага» есть ещё ТВ-тумбы, шкафы, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «малая Прага Эра».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+    </offer>
+    <offer id="8187150892" available="true">
+      <url>https://мебель-фаворит.рф/garnitury/gostinaya-oliviya-modulnaya-mif-8187150892/</url>
+      <price>73300</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garnitury%20i%20komplekty/Mif/Oliviya/Gostinaya%20Oliviya%20(Mif)/Dub%20kraft%20-%20brash%20grafit/8187150892/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garnitury%20i%20komplekty/Mif/Oliviya/Gostinaya%20Oliviya%20(Mif)/Dub%20kraft%20-%20brash%20grafit/8187150892/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garnitury%20i%20komplekty/Mif/Oliviya/Gostinaya%20Oliviya%20(Mif)/Dub%20kraft%20-%20brash%20grafit/8187150892/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garnitury%20i%20komplekty/Mif/Oliviya/Gostinaya%20Oliviya%20(Mif)/Dub%20kraft%20-%20brash%20grafit/8187150892/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Garnitury%20i%20komplekty/Mif/Oliviya/Gostinaya%20Oliviya%20(Mif)/Dub%20kraft%20-%20brash%20grafit/8187150892/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>8187150892</vendorCode>
+      <name>Гостиная Оливия модульная (Миф)</name>
+      <description>Гостиная Оливия модульная. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 283×42×203 см
+• Цвет: Дуб крафт-браш графит
+
+Состав комплекта:
+• Шкаф Оливия АГТ — 83×42×203 см
+• Шкаф-витрина навесной Оливия АГТ — 83×31×93 см
+• Тумба ТВ Оливия 2 двери 2 ящика АГТ — 200×42×59 см
+• Комод Оливия АГТ — 163×42×95 см
+
+Гостиная шириной 283 см. Цвет — дуб крафт-браш графит. В серии «Оливия» есть ещё ТВ-тумбы, шкафы, комоды — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Оливия Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>283/203/42</dimensions>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
