@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-22 11:32">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Антресоли к шкафам</category>
+      <category id="2">Готовые решения</category>
+      <category id="3">Двухстворчатые шкафы</category>
+      <category id="4">Одностворчатые шкафы </category>
+      <category id="5">Пятистворчатые шкафы</category>
+      <category id="6">Трехстворчатые шкафы</category>
+      <category id="7">Угловые шкафы</category>
+      <category id="8">Четырехстворчатые шкафы</category>
+      <category id="9">Шкафы-купе</category>
+    </categories>
+    <offers>
+    <offer id="7899079877" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-4-h-stvorchatyy-nord-s-antresolyu-7899079877/</url>
+      <price>36650</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>8</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%204-kh%20stvorchatyy%20s%20Antresolyu/7899079877/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%204-kh%20stvorchatyy%20s%20Antresolyu/7899079877/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%204-kh%20stvorchatyy%20s%20Antresolyu/7899079877/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%204-kh%20stvorchatyy%20s%20Antresolyu/7899079877/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%204-kh%20stvorchatyy%20s%20Antresolyu/7899079877/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899079877</vendorCode>
+      <name>Шкаф 4-х створчатый Норд с антресолью (Миф)</name>
+      <description>Шкаф 4-х створчатый Норд с антресолью. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 160×51×265 см
+• Цвет: Графит-изумруд
+• Тип дверей: Распашные
+• Количество створок: Четырёхстворчатый
+• Форма: Прямой
+• Материал: ЛДСП
+
+Состав комплекта:
+• Шкаф 4-х створчатый Норд — 160×51×223 см
+• Антресоль 4-х створчатая Норд — 160×51×41 см
+
+Шкаф шириной 160 см. Что есть: четырёхстворчатый. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, комоды, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>160/265/51</dimensions>
+    </offer>
+    <offer id="7899573097" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/penal-uglovoy-nord-7899573097/</url>
+      <price>16150</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>7</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Penaly/Penal%20uglovoy/7899573097/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Penaly/Penal%20uglovoy/7899573097/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Penaly/Penal%20uglovoy/7899573097/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Penaly/Penal%20uglovoy/7899573097/04.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899573097</vendorCode>
+      <name>Пенал угловой Норд (Миф)</name>
+      <description>Пенал угловой Норд. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 51×51×223 см
+• Цвет: Дуб крафт-изумруд
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Угловой
+• Материал: ЛДСП
+
+Можно доукомплектовать:
+• Антресоль сверху — высота 2230 → 2640 мм
+
+Пенал шириной 51 см. Что есть: двухстворчатый. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, комоды, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>51/223/51</dimensions>
+    </offer>
+    <offer id="7899378698" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-2-h-stvorchatyy-nord-7899378698/</url>
+      <price>14917</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/Stvorchatye/2-kh%20stvorchatyy/7899378698/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/Stvorchatye/2-kh%20stvorchatyy/7899378698/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/Stvorchatye/2-kh%20stvorchatyy/7899378698/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899378698</vendorCode>
+      <name>Шкаф 2-х створчатый Норд (Миф)</name>
+      <description>Шкаф 2-х створчатый Норд. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×51×223 см
+• Цвет: Дуб крафт-изумруд
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Прямой
+• Материал: ЛДСП
+
+Можно доукомплектовать:
+• Антресоль сверху — высота 2230 → 2640 мм
+
+Шкаф шириной 80 см. Что есть: двухстворчатый. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, комоды, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/223/51</dimensions>
+    </offer>
+    <offer id="7899443660" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-3-h-stvorchatyy-nord-s-antresolyu-7899443660/</url>
+      <price>28483</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>6</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%203-kh%20stvorchatyy%20s%20Antresolyu/7899443660/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%203-kh%20stvorchatyy%20s%20Antresolyu/7899443660/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%203-kh%20stvorchatyy%20s%20Antresolyu/7899443660/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%203-kh%20stvorchatyy%20s%20Antresolyu/7899443660/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%203-kh%20stvorchatyy%20s%20Antresolyu/7899443660/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899443660</vendorCode>
+      <name>Шкаф 3-х створчатый Норд с антресолью (Миф)</name>
+      <description>Шкаф 3-х створчатый Норд с антресолью. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×51×265 см
+• Цвет: Дуб крафт-изумруд
+• Тип дверей: Распашные
+• Количество створок: Трёхстворчатый
+• Форма: Прямой
+• Материал: ЛДСП
+
+Состав комплекта:
+• Шкаф 3-х створчатый Норд — 120×51×223 см
+• Антресоль 3-х створчатая Норд — 120×51×41 см
+
+Шкаф шириной 120 см. Что есть: трёхстворчатый. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, комоды, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/265/51</dimensions>
+    </offer>
+    <offer id="7899139179" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-4-h-stvorchatyy-nord-7899139179/</url>
+      <price>29833</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>8</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/Stvorchatye/4-kh%20stvorchatyy/7899139179/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/Stvorchatye/4-kh%20stvorchatyy/7899139179/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/Stvorchatye/4-kh%20stvorchatyy/7899139179/03.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899139179</vendorCode>
+      <name>Шкаф 4-х створчатый Норд (Миф)</name>
+      <description>Шкаф 4-х створчатый Норд. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 160×51×223 см
+• Цвет: Дуб крафт-изумруд
+• Тип дверей: Распашные
+• Количество створок: Четырёхстворчатый
+• Форма: Прямой
+• Материал: ЛДСП
+
+Можно доукомплектовать:
+• Антресоль сверху — высота 2230 → 2640 мм
+
+Шкаф шириной 160 см. Что есть: четырёхстворчатый. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, комоды, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>160/223/51</dimensions>
+    </offer>
+    <offer id="7291723711" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-2-h-stvorchatyy-nord-7291723711/</url>
+      <price>13367</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/Stvorchatye/2-kh%20stvorchatyy/7291723711/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/Stvorchatye/2-kh%20stvorchatyy/7291723711/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/Stvorchatye/2-kh%20stvorchatyy/7291723711/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/Stvorchatye/2-kh%20stvorchatyy/7291723711/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/Stvorchatye/2-kh%20stvorchatyy/7291723711/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7291723711</vendorCode>
+      <name>Шкаф 2-х створчатый Норд (Миф)</name>
+      <description>Шкаф 2-х створчатый Норд. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×51×223 см
+• Цвет: Дуб крафт золотой
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Прямой
+• Материал: ЛДСП
+
+Можно доукомплектовать:
+• Антресоль сверху — высота 2230 → 2640 мм
+
+Шкаф шириной 80 см. Что есть: двухстворчатый. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, комоды, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/223/51</dimensions>
+      <count>4</count>
+    </offer>
+    <offer id="7291441188" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-2-h-stvorchatyy-nord-s-antresolyu-7291441188/</url>
+      <price>17084</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%202-kh%20stvorchatyy%20s%20Antresolyu/7291441188/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%202-kh%20stvorchatyy%20s%20Antresolyu/7291441188/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%202-kh%20stvorchatyy%20s%20Antresolyu/7291441188/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%202-kh%20stvorchatyy%20s%20Antresolyu/7291441188/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%202-kh%20stvorchatyy%20s%20Antresolyu/7291441188/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7291441188</vendorCode>
+      <name>Шкаф 2-х створчатый Норд с антресолью (Миф)</name>
+      <description>Шкаф 2-х створчатый Норд с антресолью. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 80×51×265 см
+• Цвет: Дуб крафт золотой
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Прямой
+• Материал: ЛДСП
+
+Состав комплекта:
+• Шкаф 2-х створчатый Норд — 80×51×223 см
+• Антресоль 2-х створчатая Норд — 80×51×41 см
+
+Шкаф шириной 80 см. Что есть: двухстворчатый. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, комоды, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>80/265/51</dimensions>
+    </offer>
+    <offer id="7291684226" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-3-h-stvorchatyy-nord-s-antresolyu-7291684226/</url>
+      <price>25717</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>6</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%203-kh%20stvorchatyy%20s%20Antresolyu/7291684226/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%203-kh%20stvorchatyy%20s%20Antresolyu/7291684226/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%203-kh%20stvorchatyy%20s%20Antresolyu/7291684226/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%203-kh%20stvorchatyy%20s%20Antresolyu/7291684226/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%203-kh%20stvorchatyy%20s%20Antresolyu/7291684226/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7291684226</vendorCode>
+      <name>Шкаф 3-х створчатый Норд с антресолью (Миф)</name>
+      <description>Шкаф 3-х створчатый Норд с антресолью. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×51×265 см
+• Цвет: Дуб крафт золотой
+• Тип дверей: Распашные
+• Количество створок: Трёхстворчатый
+• Форма: Прямой
+• Материал: ЛДСП
+
+Состав комплекта:
+• Шкаф 3-х створчатый Норд — 120×51×223 см
+• Антресоль 3-х створчатая Норд — 120×51×41 см
+
+Шкаф шириной 120 см. Что есть: трёхстворчатый. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, комоды, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/265/51</dimensions>
+    </offer>
+    <offer id="7291713339" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-uglovoy-nord-7291713339/</url>
+      <price>19783</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>7</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/Stvorchatye/Uglovoy/7291713339/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/Stvorchatye/Uglovoy/7291713339/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/Stvorchatye/Uglovoy/7291713339/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/Stvorchatye/Uglovoy/7291713339/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/Stvorchatye/Uglovoy/7291713339/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7291713339</vendorCode>
+      <name>Шкаф угловой Норд (Миф)</name>
+      <description>Шкаф угловой Норд. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 90×90×223 см
+• Цвет: Дуб крафт золотой
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Угловой
+• Материал: ЛДСП
+
+Можно доукомплектовать:
+• Антресоль сверху — высота 2230 → 2640 мм
+
+Шкаф шириной 90 см. Что есть: двухстворчатый. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, комоды, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>90/223/90</dimensions>
+    </offer>
+    <offer id="7291340816" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-uglovoy-nord-s-antresolyu-7291340816/</url>
+      <price>26350</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>7</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%20uglovoy%20s%20Antresolyu/7291340816/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%20uglovoy%20s%20Antresolyu/7291340816/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%20uglovoy%20s%20Antresolyu/7291340816/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%20uglovoy%20s%20Antresolyu/7291340816/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%20uglovoy%20s%20Antresolyu/7291340816/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7291340816</vendorCode>
+      <name>Шкаф угловой Норд с антресолью (Миф)</name>
+      <description>Шкаф угловой Норд с антресолью. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 90×90×265 см
+• Цвет: Дуб крафт золотой
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Угловой
+• Материал: ЛДСП
+
+Состав комплекта:
+• Шкаф угловой Норд — 90×90×223 см
+• Антресоль к шкафу угловому Норд — 90×90×41 см
+
+Шкаф шириной 90 см. Что есть: двухстворчатый. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, комоды, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>90/265/90</dimensions>
+    </offer>
+    <offer id="7899832236" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/penal-uglovoy-nord-7899832236/</url>
+      <price>14217</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>7</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Penaly/Penal%20uglovoy/7899832236/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Penaly/Penal%20uglovoy/7899832236/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Penaly/Penal%20uglovoy/7899832236/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Penaly/Penal%20uglovoy/7899832236/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Penaly/Penal%20uglovoy/7899832236/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899832236</vendorCode>
+      <name>Пенал угловой Норд (Миф)</name>
+      <description>Пенал угловой Норд. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 51×51×223 см
+• Цвет: Дуб крафт-золотой
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Угловой
+• Материал: ЛДСП
+
+Можно доукомплектовать:
+• Антресоль сверху — высота 2230 → 2640 мм
+
+Пенал шириной 51 см. Что есть: двухстворчатый. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, комоды, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>51/223/51</dimensions>
+    </offer>
+    <offer id="7899133771" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-3-h-stvorchatyy-nord-s-antresolyu-7899133771/</url>
+      <price>26117</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>6</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%203-kh%20stvorchatyy%20s%20Antresolyu/7899133771/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%203-kh%20stvorchatyy%20s%20Antresolyu/7899133771/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%203-kh%20stvorchatyy%20s%20Antresolyu/7899133771/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%203-kh%20stvorchatyy%20s%20Antresolyu/7899133771/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%203-kh%20stvorchatyy%20s%20Antresolyu/7899133771/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899133771</vendorCode>
+      <name>Шкаф 3-х створчатый Норд с антресолью (Миф)</name>
+      <description>Шкаф 3-х створчатый Норд с антресолью. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 120×51×265 см
+• Цвет: Дуб крафт серый-кашемир
+• Тип дверей: Распашные
+• Количество створок: Трёхстворчатый
+• Форма: Прямой
+• Материал: ЛДСП
+
+Состав комплекта:
+• Шкаф 3-х створчатый Норд — 120×51×223 см
+• Антресоль 3-х створчатая Норд — 120×51×41 см
+
+Шкаф шириной 120 см. Что есть: трёхстворчатый. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, комоды, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>120/265/51</dimensions>
+    </offer>
+    <offer id="7899572946" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/shkaf-4-h-stvorchatyy-nord-s-antresolyu-7899572946/</url>
+      <price>33766</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>8</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%204-kh%20stvorchatyy%20s%20Antresolyu/7899572946/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%204-kh%20stvorchatyy%20s%20Antresolyu/7899572946/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%204-kh%20stvorchatyy%20s%20Antresolyu/7899572946/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%204-kh%20stvorchatyy%20s%20Antresolyu/7899572946/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Shkafy/S%20Antresolyu/Shkaf%204-kh%20stvorchatyy%20s%20Antresolyu/7899572946/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899572946</vendorCode>
+      <name>Шкаф 4-х створчатый Норд с антресолью (Миф)</name>
+      <description>Шкаф 4-х створчатый Норд с антресолью. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 160×51×265 см
+• Цвет: Дуб крафт серый-кашемир
+• Тип дверей: Распашные
+• Количество створок: Четырёхстворчатый
+• Форма: Прямой
+• Материал: ЛДСП
+
+Состав комплекта:
+• Шкаф 4-х створчатый Норд — 160×51×223 см
+• Антресоль 4-х створчатая Норд — 160×51×41 см
+
+Шкаф шириной 160 см. Что есть: четырёхстворчатый. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, комоды, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>160/265/51</dimensions>
+    </offer>
+    <offer id="7899903357" available="true">
+      <url>https://мебель-фаворит.рф/shkafy/penal-uglovoy-nord-7899903357/</url>
+      <price>15300</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>7</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Penaly/Penal%20uglovoy/7899903357/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Penaly/Penal%20uglovoy/7899903357/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Penaly/Penal%20uglovoy/7899903357/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Penaly/Penal%20uglovoy/7899903357/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Shkafy%20i%20bufety/Mif/Nord/Penaly/Penal%20uglovoy/7899903357/05.webp</picture>
+      <vendor>Миф</vendor>
+      <vendorCode>7899903357</vendorCode>
+      <name>Пенал угловой Норд (Миф)</name>
+      <description>Пенал угловой Норд. Фабрика Миф.
+
+Характеристики:
+• Размер (Ш×Г×В): 51×51×223 см
+• Цвет: Графит
+• Тип дверей: Распашные
+• Количество створок: Двухстворчатый
+• Форма: Угловой
+• Материал: ЛДСП
+
+Можно доукомплектовать:
+• Антресоль сверху — высота 2230 → 2640 мм
+
+Пенал шириной 51 см. Что есть: двухстворчатый. Материал — ЛДСП. В серии «Норд» есть ещё ТВ-тумбы, комоды, прихожие, стеллажи, полки — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Норд Миф».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>51/223/51</dimensions>
+      <count>1</count>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
