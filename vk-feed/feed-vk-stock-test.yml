@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-09 15:44">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Готовые кухни</category>
+      <category id="2">Обеденные столы</category>
+      <category id="3">Стол-книжка</category>
+      <category id="4">Туалетные столы</category>
+    </categories>
+    <offers>
+    <offer id="7963410560" available="true">
+      <url>https://мебель-фаворит.рф/kuhni/kuhnya-malva-2-4-m-7963410560/</url>
+      <price>25420</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/2.4m/7963410560/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/2.4m/7963410560/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/2.4m/7963410560/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/2.4m/7963410560/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kukhni/Era/Malva/2.4m/7963410560/05.webp</picture>
+      <vendor>Эра</vendor>
+      <vendorCode>7963410560</vendorCode>
+      <name>Кухня Мальва 2.4 м (Эра)</name>
+      <description>Кухня Мальва 2.4 м. Фабрика Эра.
+
+Характеристики:
+• Ширина: 240 см
+• Высота: 200 см
+• Цвет: Венге-лоредо
+• Поверхность фасада: Матовая
+• Материал фасада: ЛДСП
+• Столешница в комплекте: Есть
+• Материал столешницы: ЛДСП
+• Цвет столешницы: Чёрный
+• Форма кухни: Прямая
+• Остров в комплекте: Нет
+• Комплектация: Шкаф под мойку, Шкаф с ящиками, Навесные шкафы, Навесной шкаф под вытяжку
+• Глубина нижних шкафов: 60
+
+Состав комплекта:
+• Мальва Н600-1я шкаф нижний с ящиком ×2 — 60×60×83 см
+• Мальва M600 шкаф нижний под мойку — 60×40×80 см
+• Мальва В600 шкаф верхний ×3 — 60×29×62 см
+• Мальва газ600 шкаф верхний — 60×29×31 см
+• Столешница Чёрный мрамор — 300×60×26 см
+
+Кухня шириной 240 см. Цвет — венге-лоредо.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>240/200/60</dimensions>
+      <count>1</count>
+    </offer>
+    <offer id="4636004295" available="true">
+      <url>https://мебель-фаворит.рф/stoly/grimernyy-stol-4636004295/</url>
+      <price>7900</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>4</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Grimernyy/4636004295/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Grimernyy/4636004295/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Grimernyy/4636004295/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Grimernyy/4636004295/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Grimernyy/4636004295/05.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>4636004295</vendorCode>
+      <name>Гримерный стол (Велес)</name>
+      <description>Гримерный стол. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Д×В): 50×80×157 см
+• Цвет: Белый
+• Форма: Прямоугольный
+• Раскладной механизм: Нет
+• Материал столешницы: ЛДСП
+• Материал основания: ЛДСП
+
+Гримерный стол шириной 50 см. Цвет — белый.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>50/157/80</dimensions>
+    </offer>
+    <offer id="7995108969" available="true">
+      <url>https://мебель-фаворит.рф/stoly/stol-knizhka-komfort-2-7995108969/</url>
+      <price>4790</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Komfort-2/7995108969/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Komfort-2/7995108969/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Veles/Komfort-2/7995108969/03.webp</picture>
+      <vendor>Велес</vendor>
+      <vendorCode>7995108969</vendorCode>
+      <name>Стол-книжка Комфорт-2 (Велес)</name>
+      <description>Стол-книжка Комфорт-2. Фабрика Велес.
+
+Характеристики:
+• Размер (Ш×Д×В): 85×33×76 см
+• Цвет: Тефия
+• Форма: Прямоугольный
+• Раскладной механизм: Есть
+• Длина в разложенном виде: 170
+• Материал столешницы: ЛДСП
+• Материал основания: ЛДСП
+
+Стол-книжка шириной 85 см. Цвет — тефия.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>85/76/33</dimensions>
+    </offer>
+    <offer id="8219254213" available="true">
+      <url>https://мебель-фаворит.рф/stoly/obedennyy-stol-so-3-8219254213/</url>
+      <price>4692</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/so-3/Dub%20kraft%20belyy/8219254213/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/so-3/Dub%20kraft%20belyy/8219254213/02.webp</picture>
+      <vendor>Росток</vendor>
+      <vendorCode>8219254213</vendorCode>
+      <name>Обеденный стол СО-3 (Росток)</name>
+      <description>Обеденный стол СО-3. Фабрика Росток.
+
+Характеристики:
+• Размер (Ш×Д×В): 60×90×74 см
+• Цвет: Дуб крафт белый
+• Форма: Прямоугольный
+• Раскладной механизм: Нет
+• Материал столешницы: ЛДСП
+• Материал основания: Металл
+
+Обеденный стол шириной 60 см. Цвет — дуб крафт белый.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>60/74/90</dimensions>
+      <count>1</count>
+    </offer>
+    <offer id="8219751106" available="true">
+      <url>https://мебель-фаворит.рф/stoly/stol-knizhka-st-1m-8219751106/</url>
+      <price>6000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1M/Dub%20barrik/8219751106/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1M/Dub%20barrik/8219751106/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Stoly/Rostok/st-1M/Dub%20barrik/8219751106/03.webp</picture>
+      <vendor>Росток</vendor>
+      <vendorCode>8219751106</vendorCode>
+      <name>Стол-книжка СТ-1М (Росток)</name>
+      <description>Стол-книжка СТ-1М. Фабрика Росток.
+
+Характеристики:
+• Размер (Ш×Д×В): 87×23×76 см
+• Цвет: Дуб баррик
+• Форма: Прямоугольный
+• Раскладной механизм: Есть
+• Длина в разложенном виде: 160
+• Материал столешницы: ЛДСП
+• Материал основания: Металл
+
+Стол-книжка шириной 87 см. Цвет — дуб баррик.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>87/76/23</dimensions>
+      <count>3</count>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
