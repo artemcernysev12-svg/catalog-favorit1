@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-11-05 15:22">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Диваны</category>
+    </categories>
+    <offers>
+    <offer id="8123227894" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-pryamoy-zheneva-raskladnoy-8123227894/</url>
+      <price>53600</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Zheneva/8123227894/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Zheneva/8123227894/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Zheneva/8123227894/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Zheneva/8123227894/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Zheneva/8123227894/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123227894</vendorCode>
+      <name>Диван прямой Женева раскладной (Амик)</name>
+      <description>Диван прямой Женева 800 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 100×110×90 см
+• Спальное место (Ш×Д): 90×210 см
+• Цвет: на выбор — любая ткань фабрики или вариант из наличия, подскажет менеджер
+• Форма: Прямой
+• Модульный: Нет
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Аккордеон
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подушки
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 100 см. Есть ящик для белья, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>100/90/110</dimensions>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
