@@ -1,0 +1,32 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>ВК сверка</title>
+<pre id="out">жду данные из вкладки ВК…</pre>
+<script>
+// Служебная страница роли «ВК»: принимает снимок витрины (postMessage из вкладки vk.ru)
+// и сверяет его с expected.json (цена/наличие по сайту). Ничего никуда не отправляет.
+const VKCATS = new Set(["Шкафы и буфеты","Кровати","Комоды и тумбы","Тумбы под телевизор","Прихожие и обувницы",
+ "Гарнитуры и комплекты","Компьютерные столы","Полки","Спальные гарнитуры","Стеллажи и этажерки","Кухни","Тумбы",
+ "Прикроватные тумбы","Матрасы","Обеденные столы","Зеркала","Гардеробные системы и вешалки","Туалетные столики",
+ "Журнальные столики"]);
+window.addEventListener('message', async (ev) => {
+  if (!/^https:\/\/vk\.(ru|com)$/.test(ev.origin) || !ev.data || !ev.data.vkSnap) return;
+  const v = ev.data.vkSnap;
+  const E = (await (await fetch('expected.json?t=' + Date.now())).json()).items;
+  const V = {}; v.forEach(x => { if (/^\d+$/.test(x.sku)) V[x.sku] = x; });
+  const R = { vk: Object.keys(V).length, gone: [], price: [], stock: [], fresh: [], freshBy: {} };
+  for (const [sku, x] of Object.entries(V)) {
+    const e = E[sku]; if (!e) { R.gone.push(sku); continue; }
+    if (Math.round(x.p) !== e[0]) R.price.push([sku, Math.round(x.p), e[0]]);
+    const ok = e[1] > 0 ? (x.av === 0 && x.q === e[1]) : (x.av === 2);
+    if (!ok) R.stock.push(sku);
+  }
+  for (const [id, e] of Object.entries(E)) {
+    if (V[id] || !VKCATS.has(e[2]) || e[4] || !e[5]) continue;   // e[5] = число фото
+    R.fresh.push(id); const k = e[2] + ' · ' + e[3]; R.freshBy[k] = (R.freshBy[k] || 0) + 1;
+  }
+  window.__RES = R; window.__SNAP = v;
+  document.getElementById('out').textContent = JSON.stringify({vk: R.vk, gone: R.gone.length,
+    price: R.price.length, stock: R.stock.length, fresh: R.fresh.length, freshBy: R.freshBy}, null, 1);
+});
+</script>
