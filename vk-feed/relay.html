@@ -1,0 +1,14 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>ВК передатчик</title>
+<script>
+// Служебная страница роли «ВК»: по запросу из вкладки vk.ru (iframe) читает файл из этой
+// папки и отдаёт его содержимое обратно через postMessage. Сама ничего не отправляет.
+window.addEventListener('message', async (ev) => {
+  if (!/^https:\/\/vk\.(ru|com)$/.test(ev.origin) || !ev.data || !ev.data.relayGet) return;
+  const name = String(ev.data.relayGet);
+  if (!/^[\w.-]+\.json$/.test(name)) return;
+  const data = await (await fetch(name + '?t=' + Date.now())).json();
+  ev.source.postMessage({ relayData: data, name }, ev.origin);
+});
+</script>
