@@ -26,6 +26,7 @@ window.addEventListener('message', async (ev) => {
     R.fresh.push(id); const k = e[2] + ' · ' + e[3]; R.freshBy[k] = (R.freshBy[k] || 0) + 1;
   }
   window.__RES = R; window.__SNAP = v;
+  ev.source.postMessage({ cmpRes: R }, ev.origin);
   document.getElementById('out').textContent = JSON.stringify({vk: R.vk, gone: R.gone.length,
     price: R.price.length, stock: R.stock.length, fresh: R.fresh.length, freshBy: R.freshBy}, null, 1);
 });
