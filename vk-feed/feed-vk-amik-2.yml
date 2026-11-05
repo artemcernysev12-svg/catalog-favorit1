@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-11-05 11:18">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Диваны</category>
+      <category id="2">Кресла</category>
+      <category id="3">Пуфы и банкетки</category>
+    </categories>
+    <offers>
+    <offer id="8123527231" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-uglovoy-modulnyy-marsel-1-raskladnoy-8123527231/</url>
+      <price>121000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%201/8123527231/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%201/8123527231/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%201/8123527231/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%201/8123527231/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%201/8123527231/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123527231</vendorCode>
+      <name>Диван угловой модульный Марсель 1 раскладной (Амик)</name>
+      <description>Диван угловой модульный Марсель 1 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 290×185×95 см
+• Цвет: Бежевый
+• Форма: Угловой
+• Угол: Универсальный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Выкатной
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники
+• Спальное место: Есть
+• Ширина х Длина спального места: 150 см х 190 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 290 см. Есть ящик для белья, подлокотники.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>290/95/185</dimensions>
+    </offer>
+    <offer id="8123447762" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-uglovoy-modulnyy-marsel-3-raskladnoy-8123447762/</url>
+      <price>138000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%203/8123447762/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%203/8123447762/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%203/8123447762/03.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123447762</vendorCode>
+      <name>Диван угловой модульный Марсель 3 раскладной (Амик)</name>
+      <description>Диван угловой модульный Марсель 3 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 315×180×95 см
+• Цвет: Бежевый
+• Форма: Угловой
+• Угол: Универсальный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Выкатной
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники
+• Спальное место: Есть
+• Ширина х Длина спального места: 150 см х 190 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 315 см. Есть ящик для белья, подлокотники.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>315/95/180</dimensions>
+    </offer>
+    <offer id="8123360472" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-p-obraznyy-modulnyy-marsel-4-raskladnoy-8123360472/</url>
+      <price>176800</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%204/8123360472/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%204/8123360472/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%204/8123360472/03.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123360472</vendorCode>
+      <name>Диван П-образный модульный Марсель 4 раскладной (Амик)</name>
+      <description>Диван П-образный модульный Марсель 4 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 360×180×95 см
+• Цвет: Бежевый
+• Форма: П-образный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Выкатной
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники
+• Спальное место: Есть
+• Ширина х Длина спального места: 150 см х 190 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 360 см. Есть ящик для белья, подлокотники.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>360/95/180</dimensions>
+    </offer>
+    <offer id="8123338272" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-uglovoy-modulnyy-marsel-2-raskladnoy-8123338272/</url>
+      <price>149000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%202/8123338272/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%202/8123338272/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%202/8123338272/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%202/8123338272/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%202/8123338272/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123338272</vendorCode>
+      <name>Диван угловой модульный Марсель 2 раскладной (Амик)</name>
+      <description>Диван угловой модульный Марсель 2 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 335×185×95 см
+• Цвет: Оранжевый
+• Форма: Угловой
+• Угол: Универсальный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Выкатной
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники
+• Спальное место: Есть
+• Ширина х Длина спального места: 150 см х 190 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 335 см. Есть ящик для белья, подлокотники.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>335/95/185</dimensions>
+    </offer>
+    <offer id="8123620667" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-pryamoy-modulnyy-marsel-bd-raskladnoy-8123620667/</url>
+      <price>74200</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%20MD/8123620667/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%20MD/8123620667/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Marsel/Marsel%20MD/8123620667/03.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123620667</vendorCode>
+      <name>Диван прямой модульный Марсель БД раскладной (Амик)</name>
+      <description>Диван прямой модульный Марсель БД раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 215×105×95 см
+• Цвет: Бежевый
+• Форма: Прямой
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Выкатной
+• Материал обивки: Велюр
+• Особенности: Подлокотники
+• Спальное место: Есть
+• Ширина х Длина спального места: 150 см х 190 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 215 см. Есть подлокотники.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>215/95/105</dimensions>
+    </offer>
+    <offer id="8123347902" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-pryamoy-milan-raskladnoy-8123347902/</url>
+      <price>66600</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Milan/Milan%20BD%20s%20myagkimi%20podlokotnikami/8123347902/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Milan/Milan%20BD%20s%20myagkimi%20podlokotnikami/8123347902/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Milan/Milan%20BD%20s%20myagkimi%20podlokotnikami/8123347902/03.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123347902</vendorCode>
+      <name>Диван прямой Милан раскладной (Амик)</name>
+      <description>Диван прямой Милан раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 225×110×75 см
+• Цвет: Бежевый
+• Форма: Прямой
+• Модульный: Нет
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Пантограф
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 150 см х 200 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 225 см. Есть ящик для белья, подлокотники, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>225/75/110</dimensions>
+    </offer>
+    <offer id="8123512796" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-pryamoy-milan-raskladnoy-8123512796/</url>
+      <price>68600</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Milan/Milan%20BD/8123512796/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Milan/Milan%20BD/8123512796/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Milan/Milan%20BD/8123512796/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Milan/Milan%20BD/8123512796/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Milan/Milan%20BD/8123512796/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123512796</vendorCode>
+      <name>Диван прямой Милан раскладной (Амик)</name>
+      <description>Диван прямой Милан раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 225×110×75 см
+• Цвет: Серебристый
+• Форма: Прямой
+• Модульный: Нет
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Пантограф
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 150 см х 200 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 225 см. Есть ящик для белья, подлокотники, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>225/75/110</dimensions>
+    </offer>
+    <offer id="8123530116" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-pryamoy-mishel-raskladnoy-8123530116/</url>
+      <price>49400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Mishel/8123530116/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Mishel/8123530116/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Mishel/8123530116/03.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123530116</vendorCode>
+      <name>Диван прямой Мишель раскладной (Амик)</name>
+      <description>Диван прямой Мишель раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 220×105×90 см
+• Цвет: Оранжевый
+• Форма: Прямой
+• Модульный: Нет
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Еврокнижка
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 160 см х 200 см
+• Наполнение: Пенополиуретан (ППУ)
+
+Диван шириной 220 см. Есть ящик для белья, подлокотники, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>220/90/105</dimensions>
+    </offer>
+    <offer id="8123677715" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-pryamoy-medison-md-raskladnoy-8123677715/</url>
+      <price>34800</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Medison%20MD/8123677715/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Medison%20MD/8123677715/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Medison%20MD/8123677715/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Medison%20MD/8123677715/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Medison%20MD/8123677715/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123677715</vendorCode>
+      <name>Диван прямой Мэдисон МД раскладной (Амик)</name>
+      <description>Диван прямой Мэдисон МД раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 130×105×75 см
+• Цвет: Фиолетовый
+• Форма: Прямой
+• Модульный: Нет
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Выкатной
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 120 см х 190 см
+• Наполнение: Пенополиуретан (ППУ)
+
+Диван шириной 130 см. Есть ящик для белья, подлокотники, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>130/75/105</dimensions>
+    </offer>
+    <offer id="8123542247" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-uglovoy-modulnyy-palermo-ud-raskladnoy-8123542247/</url>
+      <price>137000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Palermo/8123542247/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Palermo/8123542247/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Palermo/8123542247/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Palermo/8123542247/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Palermo/8123542247/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123542247</vendorCode>
+      <name>Диван угловой модульный Палермо УД раскладной (Амик)</name>
+      <description>Диван угловой модульный Палермо УД раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 296×175×100 см
+• Цвет: Коричневый
+• Форма: Угловой
+• Угол: Слева
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Дельфин
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 150 см х 270 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 296 см. Есть ящик для белья, подлокотники, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>296/100/175</dimensions>
+    </offer>
+    <offer id="8123677490" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-pryamoy-modulnyy-pekin-1-raskladnoy-8123677490/</url>
+      <price>81000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Pekin/Pekin%201/8123677490/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Pekin/Pekin%201/8123677490/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Pekin/Pekin%201/8123677490/03.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123677490</vendorCode>
+      <name>Диван прямой модульный Пекин 1 раскладной (Амик)</name>
+      <description>Диван прямой модульный Пекин 1 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 290×110×80 см
+• Цвет: Серый
+• Форма: Прямой
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Пантограф
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 150 см х 230 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 290 см. Есть ящик для белья, подлокотники, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>290/80/110</dimensions>
+    </offer>
+    <offer id="8123527900" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-pryamoy-modulnyy-pekin-2-raskladnoy-8123527900/</url>
+      <price>106200</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Pekin/Pekin%202/8123527900/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Pekin/Pekin%202/8123527900/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Pekin/Pekin%202/8123527900/03.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123527900</vendorCode>
+      <name>Диван прямой модульный Пекин 2 раскладной (Амик)</name>
+      <description>Диван прямой модульный Пекин 2 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 365×110×80 см
+• Цвет: Серый
+• Форма: Прямой
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Пантограф
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 150 см х 305 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 365 см. Есть ящик для белья, подлокотники, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>365/80/110</dimensions>
+    </offer>
+    <offer id="8123385682" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-pryamoy-praga-mk-raskladnoy-8123385682/</url>
+      <price>83000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Praga/Praga/8123385682/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Praga/Praga/8123385682/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Praga/Praga/8123385682/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Praga/Praga/8123385682/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Praga/Praga/8123385682/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123385682</vendorCode>
+      <name>Диван прямой Прага мк раскладной (Амик)</name>
+      <description>Диван прямой Прага мк раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 184×105×90 см
+• Цвет: Синий
+• Форма: Прямой
+• Модульный: Нет
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Аккордеон
+• Материал обивки: Велюр
+• Особенности: Подлокотники
+• Спальное место: Есть
+• Ширина х Длина спального места: 146 см х 200 см
+• Наполнение: Пенополиуретан (ППУ)
+
+Диван шириной 184 см. Есть подлокотники.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>184/90/105</dimensions>
+    </offer>
+    <offer id="8123701719" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-pryamoy-praga-mk-raskladnoy-8123701719/</url>
+      <price>92800</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Praga/Praga%20so%20stolikom/8123701719/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Praga/Praga%20so%20stolikom/8123701719/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Praga/Praga%20so%20stolikom/8123701719/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Praga/Praga%20so%20stolikom/8123701719/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Praga/Praga%20so%20stolikom/8123701719/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123701719</vendorCode>
+      <name>Диван прямой Прага мк раскладной (Амик)</name>
+      <description>Диван прямой Прага мк раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 205×105×90 см
+• Цвет: Серый
+• Форма: Прямой
+• Модульный: Нет
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Аккордеон
+• Материал обивки: Велюр
+• Особенности: Подлокотники
+• Спальное место: Есть
+• Ширина х Длина спального места: 146 см х 200 см
+• Наполнение: Пенополиуретан (ППУ)
+
+Диван шириной 205 см. Есть подлокотники.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>205/90/105</dimensions>
+    </offer>
+    <offer id="8123419905" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-pryamoy-rim-raskladnoy-8123419905/</url>
+      <price>41000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rim/8123419905/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rim/8123419905/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rim/8123419905/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rim/8123419905/04.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123419905</vendorCode>
+      <name>Диван прямой Рим раскладной (Амик)</name>
+      <description>Диван прямой Рим раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 230×97×100 см
+• Цвет: Синий
+• Форма: Прямой
+• Модульный: Нет
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Книжка
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 125 см х 194 см
+• Наполнение: Пенополиуретан (ППУ)
+
+Диван шириной 230 см. Есть ящик для белья, подлокотники, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>230/100/97</dimensions>
+    </offer>
+    <offer id="8123532028" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-uglovoy-modulnyy-rich-3-raskladnoy-8123532028/</url>
+      <price>92800</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rich/Rich%203/8123532028/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rich/Rich%203/8123532028/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rich/Rich%203/8123532028/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rich/Rich%203/8123532028/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rich/Rich%203/8123532028/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123532028</vendorCode>
+      <name>Диван угловой модульный Рич 3 раскладной (Амик)</name>
+      <description>Диван угловой модульный Рич 3 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 250×175×100 см
+• Цвет: Бежевый
+• Форма: Угловой
+• Угол: Универсальный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Пума
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 140 см х 210 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 250 см. Есть ящик для белья, подлокотники, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>250/100/175</dimensions>
+    </offer>
+    <offer id="8123206281" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-uglovoy-modulnyy-rich-2-raskladnoy-8123206281/</url>
+      <price>72800</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rich/Rich%202/8123206281/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rich/Rich%202/8123206281/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rich/Rich%202/8123206281/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rich/Rich%202/8123206281/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rich/Rich%202/8123206281/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123206281</vendorCode>
+      <name>Диван угловой модульный Рич 2 раскладной (Амик)</name>
+      <description>Диван угловой модульный Рич 2 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 220×170×100 см
+• Цвет: Бежевый
+• Форма: Угловой
+• Угол: Универсальный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Пума
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 140 см х 220 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 220 см. Есть ящик для белья, подлокотники, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>220/100/170</dimensions>
+    </offer>
+    <offer id="8123700317" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-p-obraznyy-modulnyy-rich-4-raskladnoy-8123700317/</url>
+      <price>125400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rich/Rich%204/8123700317/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rich/Rich%204/8123700317/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rich/Rich%204/8123700317/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rich/Rich%204/8123700317/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Rich/Rich%204/8123700317/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123700317</vendorCode>
+      <name>Диван п-образный модульный Рич 4 раскладной (Амик)</name>
+      <description>Диван п-образный модульный Рич 4 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 325×175×100 см
+• Цвет: Бежевый
+• Форма: П-образный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Пума
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 140 см х 220 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 325 см. Есть ящик для белья, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>325/100/175</dimensions>
+    </offer>
+    <offer id="8123307453" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-p-obraznyy-modulnyy-sanremo-4-raskladnoy-8123307453/</url>
+      <price>149600</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sanremo/Sanremo%204/8123307453/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sanremo/Sanremo%204/8123307453/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sanremo/Sanremo%204/8123307453/03.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123307453</vendorCode>
+      <name>Диван п-образный модульный Санремо 4 раскладной (Амик)</name>
+      <description>Диван п-образный модульный Санремо 4 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 332×184×98 см
+• Цвет: Серый
+• Форма: П-образный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Пума
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 130 см х 220 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 332 см. Есть ящик для белья, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>332/98/184</dimensions>
+    </offer>
+    <offer id="8123597122" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-uglovoy-modulnyy-sanremo-3-raskladnoy-8123597122/</url>
+      <price>117400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sanremo/Sanremo%203/8123597122/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sanremo/Sanremo%203/8123597122/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sanremo/Sanremo%203/8123597122/03.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123597122</vendorCode>
+      <name>Диван угловой модульный Санремо 3 раскладной (Амик)</name>
+      <description>Диван угловой модульный Санремо 3 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 258×184×98 см
+• Цвет: Серый
+• Форма: Угловой
+• Угол: Универсальный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Пума
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 130 см х 220 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 258 см. Есть ящик для белья, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>258/98/184</dimensions>
+    </offer>
+    <offer id="8123146155" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-uglovoy-modulnyy-sanremo-2-raskladnoy-8123146155/</url>
+      <price>87200</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sanremo/Sanremo%202/8123146155/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sanremo/Sanremo%202/8123146155/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sanremo/Sanremo%202/8123146155/03.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123146155</vendorCode>
+      <name>Диван угловой модульный Санремо 2 раскладной (Амик)</name>
+      <description>Диван угловой модульный Санремо 2 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 220×180×98 см
+• Цвет: Серый
+• Форма: Угловой
+• Угол: Универсальный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Пума
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 130 см х 220 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 220 см. Есть ящик для белья, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>220/98/180</dimensions>
+    </offer>
+    <offer id="8123485462" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-pryamoy-modulnyy-sidney-2-raskladnoy-8123485462/</url>
+      <price>119800</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sidney/Sidney%202/8123485462/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sidney/Sidney%202/8123485462/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sidney/Sidney%202/8123485462/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sidney/Sidney%202/8123485462/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sidney/Sidney%202/8123485462/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123485462</vendorCode>
+      <name>Диван прямой модульный Сидней 2 раскладной (Амик)</name>
+      <description>Диван прямой модульный Сидней 2 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 380×110×95 см
+• Цвет: Бежевый
+• Форма: Прямой
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Пантограф
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 160 см х 320 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 380 см. Есть ящик для белья, подлокотники, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>380/95/110</dimensions>
+    </offer>
+    <offer id="8123760357" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-pryamoy-modulnyy-sidney-1-raskladnoy-8123760357/</url>
+      <price>92000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sidney/Sidney%201/8123760357/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sidney/Sidney%201/8123760357/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sidney/Sidney%201/8123760357/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sidney/Sidney%201/8123760357/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Sidney/Sidney%201/8123760357/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123760357</vendorCode>
+      <name>Диван прямой модульный Сидней 1 раскладной (Амик)</name>
+      <description>Диван прямой модульный Сидней 1 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 300×110×95 см
+• Цвет: Серый
+• Форма: Прямой
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Пантограф
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 160 см х 240 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 300 см. Есть ящик для белья, подлокотники, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>300/95/110</dimensions>
+    </offer>
+    <offer id="8123362666" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-uglovoy-modulnyy-tokio-3-raskladnoy-8123362666/</url>
+      <price>97800</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Tokio/Tokio%203/8123362666/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Tokio/Tokio%203/8123362666/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Tokio/Tokio%203/8123362666/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Tokio/Tokio%203/8123362666/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Tokio/Tokio%203/8123362666/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123362666</vendorCode>
+      <name>Диван угловой модульный Токио 3 раскладной (Амик)</name>
+      <description>Диван угловой модульный Токио 3 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 265×190×110 см
+• Цвет: Синий
+• Форма: Угловой
+• Угол: Универсальный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Дельфин
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники
+• Спальное место: Есть
+• Ширина х Длина спального места: 125 см х 225 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 265 см. Есть ящик для белья, подлокотники.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>265/110/190</dimensions>
+    </offer>
+    <offer id="8122978875" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-uglovoy-modulnyy-tokio-2-raskladnoy-8122978875/</url>
+      <price>82600</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Tokio/Tokio%202/8122978875/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Tokio/Tokio%202/8122978875/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Tokio/Tokio%202/8122978875/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Tokio/Tokio%202/8122978875/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Tokio/Tokio%202/8122978875/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8122978875</vendorCode>
+      <name>Диван угловой модульный Токио 2 раскладной (Амик)</name>
+      <description>Диван угловой модульный Токио 2 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 285×160×110 см
+• Цвет: Синий
+• Форма: Угловой
+• Угол: Универсальный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Дельфин
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники
+• Спальное место: Есть
+• Ширина х Длина спального места: 125 см х 235 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 285 см. Есть ящик для белья, подлокотники.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>285/110/160</dimensions>
+    </offer>
+    <offer id="8123112275" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-p-obraznyy-modulnyy-tokio-4-raskladnoy-8123112275/</url>
+      <price>123000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Tokio/Tokio%204/8123112275/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Tokio/Tokio%204/8123112275/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Tokio/Tokio%204/8123112275/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Tokio/Tokio%204/8123112275/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Tokio/Tokio%204/8123112275/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123112275</vendorCode>
+      <name>Диван п-образный модульный Токио 4 раскладной (Амик)</name>
+      <description>Диван п-образный модульный Токио 4 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 350×190×110 см
+• Цвет: Синий
+• Форма: П-образный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Дельфин
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники
+• Спальное место: Есть
+• Ширина х Длина спального места: 125 см х 285 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 350 см. Есть ящик для белья, подлокотники.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>350/110/190</dimensions>
+    </offer>
+    <offer id="8123140972" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-pryamoy-modulnyy-turin-2-raskladnoy-8123140972/</url>
+      <price>111400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Turin/Turin%202/8123140972/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Turin/Turin%202/8123140972/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Turin/Turin%202/8123140972/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Turin/Turin%202/8123140972/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Turin/Turin%202/8123140972/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123140972</vendorCode>
+      <name>Диван прямой модульный Турин-2 раскладной (Амик)</name>
+      <description>Диван прямой модульный Турин-2 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 370×110×85 см
+• Цвет: Бежевый
+• Форма: Прямой
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Пантограф
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 160 см х 320 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 370 см. Есть ящик для белья, подлокотники, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>370/85/110</dimensions>
+    </offer>
+    <offer id="8123249639" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-pryamoy-modulnyy-turin-1-raskladnoy-8123249639/</url>
+      <price>85200</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Turin/Turin%201/8123249639/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Turin/Turin%201/8123249639/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Turin/Turin%201/8123249639/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Turin/Turin%201/8123249639/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Turin/Turin%201/8123249639/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123249639</vendorCode>
+      <name>Диван прямой модульный Турин-1 раскладной (Амик)</name>
+      <description>Диван прямой модульный Турин-1 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 290×110×85 см
+• Цвет: Серый
+• Форма: Прямой
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Пантограф
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 160 см х 240 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 290 см. Есть ящик для белья, подлокотники, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>290/85/110</dimensions>
+    </offer>
+    <offer id="8123646839" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-uglovoy-modulnyy-favorit-4-raskladnoy-8123646839/</url>
+      <price>76400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%204/8123646839/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%204/8123646839/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%204/8123646839/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%204/8123646839/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%204/8123646839/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123646839</vendorCode>
+      <name>Диван угловой модульный Фаворит 4 раскладной (Амик)</name>
+      <description>Диван угловой модульный Фаворит 4 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 245×170×100 см
+• Цвет: Серый
+• Форма: Угловой
+• Угол: Универсальный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Дельфин
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники
+• Спальное место: Есть
+• Ширина х Длина спального места: 125 см х 200 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 245 см. Есть ящик для белья, подлокотники.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>245/100/170</dimensions>
+    </offer>
+    <offer id="8123378709" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-uglovoy-modulnyy-favorit-6-raskladnoy-8123378709/</url>
+      <price>69400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%206/8123378709/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%206/8123378709/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%206/8123378709/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%206/8123378709/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%206/8123378709/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123378709</vendorCode>
+      <name>Диван угловой модульный Фаворит 6 раскладной (Амик)</name>
+      <description>Диван угловой модульный Фаворит 6 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 240×160×100 см
+• Цвет: Бежевый
+• Форма: Угловой
+• Угол: Универсальный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Дельфин
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники
+• Спальное место: Есть
+• Ширина х Длина спального места: 125 см х 200 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 240 см. Есть ящик для белья, подлокотники.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>240/100/160</dimensions>
+    </offer>
+    <offer id="8123584128" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-p-obraznyy-modulnyy-favorit-2-raskladnoy-8123584128/</url>
+      <price>98600</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%202/8123584128/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%202/8123584128/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%202/8123584128/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%202/8123584128/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%202/8123584128/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123584128</vendorCode>
+      <name>Диван п-образный модульный Фаворит 2 раскладной (Амик)</name>
+      <description>Диван п-образный модульный Фаворит 2 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 315×170×100 см
+• Цвет: Бежевый
+• Форма: П-образный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Дельфин
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники
+• Спальное место: Есть
+• Ширина х Длина спального места: 125 см х 270 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 315 см. Есть ящик для белья, подлокотники.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>315/100/170</dimensions>
+    </offer>
+    <offer id="8123282013" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-uglovoy-modulnyy-favorit-5-raskladnoy-8123282013/</url>
+      <price>74200</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%205/8123282013/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%205/8123282013/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%205/8123282013/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%205/8123282013/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%205/8123282013/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123282013</vendorCode>
+      <name>Диван угловой модульный Фаворит 5 раскладной (Амик)</name>
+      <description>Диван угловой модульный Фаворит 5 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 270×160×100 см
+• Цвет: Жёлтый
+• Форма: Угловой
+• Угол: Универсальный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Дельфин
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники
+• Спальное место: Есть
+• Ширина х Длина спального места: 125 см х 200 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 270 см. Есть ящик для белья, подлокотники.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>270/100/160</dimensions>
+    </offer>
+    <offer id="8122904238" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-uglovoy-modulnyy-favorit-3-raskladnoy-8122904238/</url>
+      <price>81800</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%203/8122904238/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%203/8122904238/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%203/8122904238/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%203/8122904238/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%203/8122904238/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8122904238</vendorCode>
+      <name>Диван угловой модульный Фаворит 3 раскладной (Амик)</name>
+      <description>Диван угловой модульный Фаворит 3 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 270×170×100 см
+• Цвет: Фиолетовый
+• Форма: Угловой
+• Угол: Универсальный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Дельфин
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники
+• Спальное место: Есть
+• Ширина х Длина спального места: 125 см х 200 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 270 см. Есть ящик для белья, подлокотники.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>270/100/170</dimensions>
+    </offer>
+    <offer id="8123884068" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-p-obraznyy-modulnyy-favorit-1-raskladnoy-8123884068/</url>
+      <price>101000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%201/8123884068/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%201/8123884068/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%201/8123884068/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%201/8123884068/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Favorit/Favorit%201/8123884068/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123884068</vendorCode>
+      <name>Диван п-образный модульный Фаворит 1 раскладной (Амик)</name>
+      <description>Диван п-образный модульный Фаворит 1 раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 315×195×100 см
+• Цвет: Синий
+• Форма: П-образный
+• Модульный: Да
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Дельфин
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники
+• Спальное место: Есть
+• Ширина х Длина спального места: 125 см х 270 см
+• Наполнение: Независимый пружинный блок
+
+Диван шириной 315 см. Есть ящик для белья, подлокотники.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>315/100/195</dimensions>
+    </offer>
+    <offer id="8123329788" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-pryamoy-yunior-md-raskladnoy-8123329788/</url>
+      <price>29800</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Yunior/8123329788/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Yunior/8123329788/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Yunior/8123329788/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Yunior/8123329788/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Amik/Divany/Yunior/8123329788/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123329788</vendorCode>
+      <name>Диван прямой Юниор МД раскладной (Амик)</name>
+      <description>Диван прямой Юниор МД раскладной. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 110×85×75 см
+• Цвет: Красный
+• Форма: Прямой
+• Модульный: Нет
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Выкатной
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники, Подушки
+• Спальное место: Есть
+• Ширина х Длина спального места: 90 см х 200 см
+• Наполнение: Пенополиуретан (ППУ)
+
+Диван шириной 110 см. Есть ящик для белья, подлокотники, подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>110/75/85</dimensions>
+    </offer>
+    <offer id="8123806861" available="true">
+      <url>https://мебель-фаворит.рф/kresla/kreslo-reklayner-brayton-8123806861/</url>
+      <price>49400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Reklaynery/Brayton/8123806861/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Reklaynery/Brayton/8123806861/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Reklaynery/Brayton/8123806861/03.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123806861</vendorCode>
+      <name>Кресло-реклайнер Брайтон (Амик)</name>
+      <description>Кресло-реклайнер Брайтон. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 85×90×105 см
+• Цвет: Серый
+• Тип мебели: Реклайнер
+• Раскладной механизм: Есть
+• Материал обивки: Велюр
+• Спальное место: Нет
+
+Кресло шириной 85 см. Цвет — серый. В серии «Брайтон 3» есть ещё диваны — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Брайтон 3 Амик».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>85/105/90</dimensions>
+    </offer>
+    <offer id="8123023825" available="true">
+      <url>https://мебель-фаворит.рф/kresla/kreslo-reklayner-orlean-8123023825/</url>
+      <price>54000</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Reklaynery/Orlean/8123023825/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Reklaynery/Orlean/8123023825/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Reklaynery/Orlean/8123023825/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Reklaynery/Orlean/8123023825/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Reklaynery/Orlean/8123023825/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123023825</vendorCode>
+      <name>Кресло-реклайнер Орлеан (Амик)</name>
+      <description>Кресло-реклайнер Орлеан. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 90×100×100 см
+• Цвет: Велюр
+• Тип мебели: Реклайнер
+• Раскладной механизм: Есть
+• Материал обивки: Велюр
+• Спальное место: Нет
+
+Кресло шириной 90 см. Цвет — велюр.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>90/100/100</dimensions>
+    </offer>
+    <offer id="8123015061" available="true">
+      <url>https://мебель-фаворит.рф/kresla/kreslo-reklayner-otdyh-8123015061/</url>
+      <price>36888</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Reklaynery/Otdykh/8123015061/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Reklaynery/Otdykh/8123015061/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Reklaynery/Otdykh/8123015061/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Reklaynery/Otdykh/8123015061/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Reklaynery/Otdykh/8123015061/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123015061</vendorCode>
+      <name>Кресло-реклайнер Отдых (Амик)</name>
+      <description>Кресло-реклайнер Отдых. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 88×100×110 см
+• Цвет: Зелёный
+• Тип мебели: Реклайнер
+• Раскладной механизм: Есть
+• Материал обивки: Велюр
+• Спальное место: Нет
+
+Кресло шириной 88 см. Цвет — зелёный.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>88/110/100</dimensions>
+    </offer>
+    <offer id="8123834645" available="true">
+      <url>https://мебель-фаворит.рф/kresla/kreslo-vegas-raskladnoe-8123834645/</url>
+      <price>37050</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Kresla/Vegas/8123834645/01.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123834645</vendorCode>
+      <name>Кресло Вегас раскладное (Амик)</name>
+      <description>Кресло Вегас раскладное. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 102×116×75 см
+• Цвет: Жёлтый
+• Тип мебели: Обычное
+• Раскладной механизм: Есть
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подушки
+• Спальное место: Есть
+
+Кресло шириной 102 см. Есть ящик для белья, подушки. В серии «Вегас БД» есть ещё диваны — можно обставить комнату целиком, в одном цвете и стиле. Чтобы посмотреть всю серию, наберите в поиске по товарам сообщества «Вегас БД Амик».
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>102/75/116</dimensions>
+    </offer>
+    <offer id="8123830592" available="true">
+      <url>https://мебель-фаворит.рф/kresla/kreslo-provans-8123830592/</url>
+      <price>21400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Kresla/Provans/8123830592/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Kresla/Provans/8123830592/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Kresla/Provans/8123830592/03.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Kresla/Provans/8123830592/04.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Kresla/Amik/Kresla/Provans/8123830592/05.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123830592</vendorCode>
+      <name>Кресло Прованс (Амик)</name>
+      <description>Кресло Прованс. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Г×В): 60×70×100 см
+• Цвет: Бежевый
+• Тип мебели: Обычное
+• Раскладной механизм: Нет
+• Материал обивки: Велюр
+• Особенности: Подушки
+• Спальное место: Нет
+
+Кресло шириной 60 см. Есть подушки.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>60/100/70</dimensions>
+    </offer>
+    <offer id="8123818767" available="true">
+      <url>https://мебель-фаворит.рф/pufy-i-banketki/puf-kvadratnyy-8123818767/</url>
+      <price>4400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Pufy%20i%20banketki/Amik/Puf%20kvadratnyy/8123818767/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Pufy%20i%20banketki/Amik/Puf%20kvadratnyy/8123818767/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Pufy%20i%20banketki/Amik/Puf%20kvadratnyy/8123818767/03.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123818767</vendorCode>
+      <name>Пуф квадратный (Амик)</name>
+      <description>Пуф квадратный. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Д×В): 40×40×46 см
+• Цвет: Синий
+• Тип: Пуф
+• Форма: Квадратный
+• Каркас: Металл
+
+Пуф шириной 40 см. Материал — Металл.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>40/46/40</dimensions>
+    </offer>
+    <offer id="8123443308" available="true">
+      <url>https://мебель-фаворит.рф/pufy-i-banketki/puf-kruglyy-8123443308/</url>
+      <price>4400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Pufy%20i%20banketki/Amik/Puf%20kruglyy/8123443308/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Pufy%20i%20banketki/Amik/Puf%20kruglyy/8123443308/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Pufy%20i%20banketki/Amik/Puf%20kruglyy/8123443308/03.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123443308</vendorCode>
+      <name>Пуф круглый (Амик)</name>
+      <description>Пуф круглый. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Д×В): 40×40×46 см
+• Цвет: Синий
+• Тип: Пуф
+• Форма: Круглый
+• Каркас: Металл
+
+Пуф шириной 40 см. Материал — Металл.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>40/46/40</dimensions>
+    </offer>
+    <offer id="8123861280" available="true">
+      <url>https://мебель-фаворит.рф/pufy-i-banketki/puf-ovalnyy-8123861280/</url>
+      <price>10400</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>3</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Pufy%20i%20banketki/Amik/Puf%20ovalnyy/8123861280/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Pufy%20i%20banketki/Amik/Puf%20ovalnyy/8123861280/02.webp</picture>
+      <vendor>Амик</vendor>
+      <vendorCode>8123861280</vendorCode>
+      <name>Пуф овальный (Амик)</name>
+      <description>Пуф овальный. Фабрика Амик.
+
+Характеристики:
+• Размер (Ш×Д×В): 44×84×46 см
+• Цвет: Жёлтый
+• Тип: Пуф
+• Форма: Овальный
+• Каркас: Металл
+
+Пуф шириной 44 см. Материал — Металл.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>44/46/84</dimensions>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
