@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-11-05 11:01">
+  <shop>
+    <name>Мебель Фаворит</name>
+    <company>Мебель Фаворит</company>
+    <url>https://мебель-фаворит.рф/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Диваны</category>
+    </categories>
+    <offers>
+    <offer id="8219478598" available="true">
+      <url>https://мебель-фаворит.рф/divany/divan-pryamoy-silvio-raskladnoy-8219478598/</url>
+      <price>19900</price>
+      <currencyId>RUB</currencyId>
+      <categoryId>1</categoryId>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Ufa/Silvio/Seryy/8219478598/01.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Ufa/Silvio/Seryy/8219478598/02.webp</picture>
+      <picture>https://artemcernysev12-svg.github.io/catalog-favorit1/items/Divany/Ufa/Silvio/Seryy/8219478598/03.webp</picture>
+      <vendor>Уфа</vendor>
+      <vendorCode>8219478598</vendorCode>
+      <name>Диван прямой Сильвио раскладной (Уфа)</name>
+      <description>Диван прямой Сильвио раскладной. Фабрика Уфа.
+
+Характеристики:
+• Размер (Ш×Г×В): 210×90×100 см
+• Цвет: Серый
+• Форма: Прямой
+• Модульный: Нет
+• Раскладной механизм: Есть
+• Тип раскладного механизма: Книжка
+• Материал обивки: Велюр
+• Особенности: Ящик для белья, Подлокотники
+• Спальное место: Есть
+• Ширина х Длина спального места: 125 см х 190 см
+• Наполнение: Пенополиуретан (ППУ)
+
+Диван шириной 210 см. Есть ящик для белья, подлокотники.
+
+Доставим по Стерлитамаку и району, занесём и соберём. Оплата картой, наличными или в рассрочку от банка.
+Напишите нам — уточним сроки и наличие по этой модели и посчитаем доставку.</description>
+      <dimensions>210/100/90</dimensions>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
